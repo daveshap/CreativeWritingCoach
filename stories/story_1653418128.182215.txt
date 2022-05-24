@@ -1,0 +1,13 @@
+They all said basically the same thing: "But Jeff, you're a programmer, why would you want to study magic?"
+
+For me, the two ideas couldn't be more linked. Both followed strict rules about how they worked. Both involved ways to exploit those rules to manipulate their world. And as I suspected, concepts could be used between them.
+
+I figured studying magic might help me become a better programmer and it did. You wouldn't expect it, but you can apply elemental spells to both hardware and code to cool the CPU, allowing you to push the system harder than it was designed for.
+
+What no one expected was to apply the idea of recursion to magic. The risks were obvious, having a levitate spell include a levitate spell in it just leads to an object/person/animal rocketing up into space (I'm sorry Mrs. Frisbee). But then I looked at the core of necromancy.
+
+The most important part is, that whoever you raise has their skills from life and is bound to you. Turns out there were a few long-dead necros buried under the library I was studying at. The high summoner thought I was joking when I asked to try raising one so he said "Fine".
+
+When he clawed his way out and asked my bidding I told him. "Give me a squad." Ten skeleton soldiers later and I knew I was onto something. I then told him to raise his five best students. It's been a week and I've got eight world governments offering allegiance to me and thirty more offerings me money to fight their wars. 
+
+I really need to learn to unsummon.

@@ -1,0 +1,13 @@
+I stepped outside to test out my new high level. But before AI could cast anything, a small translucent box popped up in front of me.
+
+I'd only heard of these things once before. A Glitch Auditor is what it's called. It remained there for a few seconds, spit out a red slip, and vanished. The red slip floated to the ground and I picked it up.
+
+It read:
+
+**ERROR 477: RECURSIVE EXPERIENCE REWARD**
+
+A moment later, I checked my xp, and it had been reset to what it was before.
+
+Apparently a spider I'd crushed earlier died in such a way that I was rewarded the kill xp an infinite number of times, capping out my level. It had finished calculating while I was asleep and rewarded all the xp at once.
+
+Bummer. I wanted to see what "Flame Lance" does.
