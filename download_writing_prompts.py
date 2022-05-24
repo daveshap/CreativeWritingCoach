@@ -37,5 +37,9 @@ for post in posts['data']['children']:
     comments = get_comments('https://www.reddit.com' + post['data']['permalink'])
     print('# comments:', len(comments), 'link:', post['data']['permalink'])
     for comment in comments:
+        if 'I am a bot' in comment:
+            continue
+        if len(comment) < 300:
+            continue
         with open('stories/story_%s.txt' % time(), 'w', encoding='utf-8') as outfile:
             outfile.write(comment)

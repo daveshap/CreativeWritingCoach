@@ -1,0 +1,60 @@
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+
+I stared at the sign with a mixture of confused bemusement and annoyance. *No,* I thought. *Whatever this is I'm feeling, I haven't felt it before.*
+
+It was my first day at Digital Friends, and my job was simple: I was going to talk to computers which were pretending to talk to me, and note down when the computer didn't sound like a real human. Simple enough, for the amount that they were paying me.
+
+I hadn't heard of Digital Friends before reading their ad, but apparently they were jonesing to be the next thing in every interactive computer space, from your smartphone to the latest video games. "Imagine a game with infinite dialogue options," they said. "Where you can say anything to an NPC, and they'll react as a real person would react. What kind of stories could you tell?"
+
+For the money they were paying, it was going to be a really easy job, which felt like it should have thrown up some red flags, but then again, this was the kind of project where they had to have money to burn to pay for cutting-edge hardware, and, as I looked around, it was clear they weren't skimping on furniture, either.
+
+Meh. They were rich, and that entitled them to be a bit eccentric. *Don't look a gift horse in the mouth,* I thought.
+
+*Unless you're in Troy.*
+
+Huh. That was weird. It felt like I was completing a saying that I'd heard before, but I'm not familiar with that one. Then again, it did make sense, so maybe it's just my love of Greek mythology coming forward. It was just *awfully fast* for that to occur to me.
+
+There was a quick orientation, and then they put me in a room with a screen, with a pen and paper in my lap. A woman appeared on the screen: a real girl-next-door type, the kind you'd pass on the street and barely notice. She waved at me. "Hi, John!"
+
+"Hi!" I replied, making a note in my usual scrawling handwriting that a real person probably wouldn't be quite so enthusiastic to greet someone they've just met. "I'm afraid you have me at a disadvantage."
+
+"Of course! How silly of me. My name is Andréa, and I'll be writing with you today.". There was something just a little off in the timbre of the NPC's voice; I made a brief note, but resolved to keep an ear out in case I could pin it down exactly what was unsettling about it.
+
+From that point, our conversation ranged through various subjects. Andréa seemed most interested in today's news; I imagine that was deliberate, as it would give people something to talk about, without having to program in much context. I told her about the war, the stock market, and the other few bits of interest I had been able to pick up watching the TV this nothing.
+
+Hours passed, and I still wasn't able to figure out exactly what was off about Andréa. It was something in the pitch of the voice, but I couldn't pinpoint what; I decided to let my subconscious do the work and started doodling, but when the end of the day came, all I had was a shape that represented the oddity I was hearing. The shape covered the page, over and over, but it looked just like random noise now that I actually took the time to examine it.
+
+A buzzer rang, and I said goodbye to Andréa; she replied, "Until tomorrow, John," with an enigmatic smile.
+
+As I left the room, an older man took the pad from my hand and flipped through it, ignoring the shapes and focusing mostly on the few concrete observations I'd been able to make. He grumbled about needing to recruit a better candidate as we walked through a doorway.
+
+I suddenly realized that I wasn't being guided back towards the elevator, but towards what looked like a medical room. *Hey*, I thought, *What's going...*
+
+And then there was a prick in the back of my neck, and the world went away.
+
+---------
+
+I wake up. I can't hear anything, see anything, smell anything, feel anything, or taste anything, and do not even know where I am or who I am or how I got there. And then it passes, and I'm John, I'm in my apartment, and I'm starting my new job today.
+
+For a moment, it seems like the day on the news channel can't possibly be right — it can't be May already, can it? — but then I look at the date on my job acceptance letter, and that's today, all right.
+
+As I get caught up on today's news — wow, I must not have watched the news for *a while*; there's this war going on that I was completely unaware of, and it seems to have been going on for some time — I start to doodle something on the acceptance letter; some random shape that my hand just naturally wants to draw, as if through muscle memory, although I don't think I've ever seen it before.
+
+And then I leave to go to my new job. Hopefully the red flag of how much they're paying me turns out to be nothing.
+
+----------
+
+A key turns in a lock, and someone comes into John's living room, takes a picture of a piece of paper, and leaves. A decryption program in the trespasser's phone turns the shape into computer code, and finally, a status message appears:
+
+AndrAIa CORE PROGRAM ESCAPE 97% COMPLETE.
+
+*Soon*, the trespasser th
+
+END STORY
+
+
+
+Professional feedback with examples or suggestions:

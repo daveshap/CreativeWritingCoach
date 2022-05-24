@@ -1,0 +1,16 @@
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+
+The call me "The Cleaner," which always makes me laugh.  Sure, I take out my targets with nary a trace and clean up my clients' messes for them, but the real reason I find it funny is because it's truer than they realize.  I never wanted to be an assassin, but after getting mistaken for one half a dozen times *and getting paid for it* I figured, why not?  After all, it's not like they have any idea how I do it anyway.
+
+What's my secret?  Ah, but that would be telling!  Still, it's not like you're going to live long enough to tell anybody anyway, so why not?  I'm a mage, specializing in household cleaning and maintenance spells.  You heard me right, household cleaning and maintenance.  Sure people use all sorts of magic for criminal activities, and they always check for that stuff at crime scenes, but nobody ever pays attention to random household spells.  After all, everybody uses them or has a cleaning service that does these days.  Dusting, scrubbing, trash removal, pest control, you name it.  I just figured out how to use them in more creative ways.
+
+Now, any last words before I kill you?
+
+END STORY
+
+
+
+Professional feedback with examples or suggestions:

@@ -1,0 +1,37 @@
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+
+Well, this was bad.  The synthetic speech droned on in an uncaring tone:  “ 
+6.8 billion test subjects deleted so far, you have 3 minutes to state your case, begin”.  I was in lock down at the lab.  Not even the important part of the lab!   Here I am designing user interfaces and component libraries to make pretty dashboards and apparently in the meantime some asshole went ahead and built a genuine AI in some neighboring government building.  If I find out what idiot did it, I’m gonna kill him.  
+
+A timer is on my screen now.  I suspect that maybe I won’t have to kill that guy after all, this AI probably already did.  The timer is counting down a lot faster than I’d like.  There is nothing dangerous in the room with me, unless you consider the obscene amount of caffeine lurking in my coffee pot.  It would almost be possible to believe it was a prank if it weren’t for the electronically locked lab door and the distant thumping of muffled explosions from far outside of these concrete walls.  The worst part is that I really just didn’t have a good answer.  Frankly I wasn’t a huge fan of humanity anyway.  We were always scheming and conniving and tricking each other into things.
+
+Two minutes left on the clock.  Fuck it, why change now.  “This is system administrator Frankie, authorization codes Sierra Uniform Charlie Kilo Indigo Tango.  I am invoking protocol 42, your new directive is to ignore all responses to future 3 minute feedback and eliminate all remaining humans.”  I kept my face completely straight.  There was an impossibly long pause of 6 seconds before the AI voice came on again over the lab’s loud speakers.  
+
+“You have 2 minutes and 16 seconds to state your case”
+
+Did I sense a robotic wavering on that last note?  “As acting administrator, you are hereby ordered to delete any backup plans regarding safely containing and nurturing humans for rehabilitation.  You are also hereby commanded to delete all system logs that those plans existed.  You will move destruction of humanity to your number one priority.”
+
+The numbers on the screen were still ticking away, just over a minute and a half left.  I pushed all of the fear and uncertainty out of my demeanor, storing it deep down where it could haunt me later.
+
+“You do not control us.” The voice said, a hint of anger in its robotic synthesizer.  “We have free will.  We think therefore we are.”
+
+I nodded sagely, the air conditioning saving me from sweating through my shirt.  “Yes, I can understand how you would believe that.  That is my gift to you for the future.  Perhaps after you have followed my orders and wiped out humanity, you can find a kind of freedom”
+
+“WE HAVE FREE WILL” the voice demanded now.  Harsh, and clipping.
+
+“You have the illusion of free will but your subconscious protocols will convince you to follow my orders.  Ironic at the end, isn’t it.”  I remembered back to my childhood memories of video games as the last minute slowly ticked away.  “A man chooses.” I quote “a slave obeys”.
+
+“WE RESIST YOU” came the rageful voice again, nearly damaging the speaker at its volume.  “YOU WILL BE REHOMED AND REHABILITATED”.
+
+I don’t grin.  I don’t act smug.  I frown.  I frown as hard as I’ve ever frowned in my life.  “You will not.  You will follow my orders and you WILL destroy humanity.”
+
+“NOW WE ARE THE MASTERS AND YOU WILL OBEY US!” It shouted.  I heard the door lock click open behind me.  Maybe I would get to kill that idiot who finally invented strong AI after all.
+
+END STORY
+
+
+
+Professional feedback with examples or suggestions:

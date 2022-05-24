@@ -1,0 +1,24 @@
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+
+Beep. Beep. Beep. Beep.
+
+The sounds of the life support equipment in my bed in the ICU have been my companion for so long I don't know what I'd do if they stopped for good.
+
+Beep. Beep. Beep. Beep.
+
+Oh, of course they stop every once in a while. Occasionally the inoperable tumor does manage to get the upper hand and I just ... shut down for a little while. But it never wins for good. I always come back, whether I want to or not.
+
+Beep. Beep. Bee-whine. Whine.
+
+Is it that time again? Go ahead, Doctor. Pronounce the time of death. I'll see you in a couple minutes.
+
+Whine. Whine. Whi-beep. Beep.
+
+END STORY
+
+
+
+Professional feedback with examples or suggestions:

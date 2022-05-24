@@ -1,0 +1,26 @@
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+
+Hero. It’s a word that burns my ears every time I hear it. Nobody claims this title for themselves; they have it thrust upon them by the lazy masses who really mean to say “save me”, “do more for me,” “sacrifice yourself for *me*.” They trail behind me like lost children, singing my praises. It makes me sick.
+
+I would never say that aloud, of course. In this whole rotten world my father and sister have been my only allies. Dishonor on my part would tarnish their name and bring them still more suffering. So now you understand my plight; to escape this hell through an honorable death in battle.
+
+There’s just one problem. I’ve tried five times now and I’m still counted amongst the living.
+
+I first thought to fight the Great Beast of Humes in the north. It was a vicious flying thing decorated with scars of its past victories. By the time I arrived there was already a congregation of wannabes with similar thoughts, though none were brave enough to actually follow through with it.
+
+I had to make a good show of things so as not to arouse suspicion so I swung my blade carelessly as I charged. As luck would have it the angry beast’s head came clean off and just like that I was first bestowed that dreadful title.
+
+Hero.
+
+The ragtag band of do-nothings has followed me from one lair to another ever since in spite of my protests. They’ve even given themselves a name now: the Knights of the Red Sun. They even have a crest and play dress up. How trite.
+
+Next is the Emerald Wyrm of the Frozen East. Perhaps this time I will find peace, or I shall return to write again so as to seem too busy for these cretins’ loathsome conversation…
+
+END STORY
+
+
+
+Professional feedback with examples or suggestions:

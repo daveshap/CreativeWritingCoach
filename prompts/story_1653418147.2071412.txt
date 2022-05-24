@@ -1,0 +1,12 @@
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+
+I personally like to see myself as a being of sophistication, well versed in efficiency and comfort. I have created tens if not hundreds of spells to make my life easier, but after some sadistic idiot found one of my spell books I was branded a villain. Now they call me Thadeus the Slaughterer! It's ridiculous! I've never used the spells like that, but noooo... a couple of morons stealing your spellbook and everyone is like "What else would you use a spell of mashing for?! It's clearly battle magic!" that's what they shout. "No you dim-witted plebeians, it's for potatoes!" That's what I want to reply, but some arsehole just my sorting spell do disassemble the population of a village, so I should probably lie low, maybe change my name.
+
+END STORY
+
+
+
+Professional feedback with examples or suggestions:

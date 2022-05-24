@@ -1,0 +1,42 @@
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+
+“Wait a second, did you say the tragedy of Darth Plagueis the wise?? Palpatine is clearly manipulating you to the dark side Anakin!”
+
+“How can this be? This is unfair! First I am not granted master, then my close friend manipulates me?!”
+
+“This is hard too take in, I know, but you must not allow yourself to be in denial. Meditate on this, I beg you Anakin.”
+
+“I will kill him myself!” 
+
+“I feel that is unwise, as it could only surface the dark side more. Remember the sand people, we can’t let you relapse to that point again.”
+
+“AHHH..the men..the women..and even the children too! But they were ANIMALS doctor, I slaughtered them like animals!”
+
+“Breathe Anakin..1,2,3,4.. you can’t let those memories awaken that hatred, however, it is important that you allow it to pass through your mind peacefully.” 
+
+“Thank you, I nearly lost it there. I am just glad those were only sand people children after re-evaluating, and not real younglings!”
+
+“Good, it is useful too see these kinds of memories from a new perspective, it will help you move on.”
+
+“Yes, but what about Palpatine now? How do I proceed there?”
+
+“You may want too find further evidence of his dark nature..then confront a trusted fellow master-sorry, Jedi councillor with the proof.”
+
+“A wise plan, thank you for the guidance, you are nearly as wise as Yoda himself.”
+
+“Your welcome Anakin, although a therapist speaking in riddles backwards likely wouldn’t be so useful..hah.”
+
+“You have a point.”
+
+“Let’s move on, tell me about this new trick Obi wan has taught you.”
+
+“Well, it all starts with having the high ground.”
+
+END STORY
+
+
+
+Professional feedback with examples or suggestions:

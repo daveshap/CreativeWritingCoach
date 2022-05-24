@@ -1,0 +1,24 @@
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+
+"Man It can't be hard..." said Errod Dankowski, as he went upstairs for another cup of coffee.
+
+"I just checked their site, and these problems look typical, just with a bunch of extra symbols reserved for someone with a degree."
+
+At this point the coffee filter was empty. He knew it would be easy to solve the P=NP problem by simply refilling it.
+
+If a filter needed N points, and a coffee ground cannister had N points, then there would be N points to refill it. Take from the cannister, and the filter was receiving from something that existed outside itself.
+
+"Well that was easy." he thought, having solved the problem in about 30 minutes, plus a few hours turning it into a program.
+
+"All I had to do was draw from infinity."
+
+He wrote a letter, and signed it 'E'. It would take the university years to learn about his discovery.
+
+END STORY
+
+
+
+Professional feedback with examples or suggestions:

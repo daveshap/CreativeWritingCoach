@@ -1,0 +1,41 @@
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+
+It all started soon after when the disasters hit. They were never the same, with nothing similar except for the human death toll, but they came on a monthly schedule like clockwork. Not on the same day, but once a month, no more, no less, and with casualties in the tens of millions. It was never in doubt which was the *disaster*, even when some pretty terrible stuff happened the same month. Despite all our fecundity, the human population went from growing to shrinking. A year after a paper went out from an unknown account, to, quote, "give us a fighting chance". It gave detailed instructions for producing a serum, that if taken before puberty would provide superpowers to the children. Considering one of the disasters was an as of yet incurable epidemic, the medical regulations have been relaxed, but some guy who had access to the necessary equipment, a few kids, and a lax stance on ethics still beat them to the first human trial. The Willisberg case became world famous, from the court proceedings to their daughter Marie, with a superpowered immune system whose blood donations helped develop the first cure to the epidemic. While individual *gifts*, as many came to call them, were amenable to scientific analysis (and, in fact, brought many breakthroughts of their own), the serum itself was an absolute mystery. We knew some things about it, but those things raised more questions than answers. 
+
+* The procedure to create it involved inserting a particular genetic sequence into a bacterium and collecting its excretions. The sequence was about ~20k base pairs in length and contained 13 genes coding for proteins never seen before. 
+* The genetically modified bacteria were self-rewriting, with the inserted gene expanding itself like a compressed file. A line of bacteria somehow synchronized on and produced a serum of plasmids containing another DNA chain, this one over a million base pairs in length. This sequence was different for each line, and only a few variants (e.g. the super-strength one) have been even partially decoded. 
+* When injected into a child's body, the serum would produce mutations and severe systemic inflammation. Within a month, around 95% would recover and have no ill effects, though tests revealed modified DNA and visible changes to the spinal cord, brain stem, pituitary gland, corpus callosum, frontal lobe and amygdala. 
+* Around the start of puberty, the child would experience symptoms resembling a focal or absence seizure, and have a profound psychological experience. That would be their brain linking to the powers that have been developing in them. 
+
+That's usually when they were taken away for questioning and assigned a job track. That much I knew from research on the Internet, when it works. The acid rain took out our city's cable a month ago and I had to go to libraries ever since. I took every opportunity to learn as much as possible as my day was approaching. I was surprised by how many didn't care. I mean, they call me gifted and maybe I'm smarter than most 14-year-olds, but still, even if I couldn't understand everything I'd try and know as much as possible about what was happening in *my* body! If there's anything worth learning about, it's your body! And if superpowers didn't exist we would fantasize about them all the time I bet, but all the kids are acting like something being real takes the fun out of it. The "awakening" scared me most of all, for some reason. The last few years, I was paranoid about everything that could go wrong, and I suppose with horrible things happening every month it's unavoidable, but I could visualize the scenario, all my senses overloaded, my muscles shaking as hard as they can as my brain cells fry one by one like a computer in a microwave. 
+
+It happened when I was sitting in class. First my head started to hurt and I saw white in my peripheral vision, like the opposite of a brownout, and something told me to look ahead or I would be blinded by looking to the sides. And I tried to keep my eyes forward as the brightness focused into hundred, thousands of images and put my head down on the book so I wouldn't fall and hit it and closed my eyes and
+
+felt like a blind person opening ten thousand eyes for the first time
+
+me in a lab, strapped to a bed, a screen flashing questions and me saying will you let me go if I answer this one and the doctor reaches towards the lever and before I can scream NO there is
+
+**PAIN**
+
+and me in a beautiful meeting room and signing an order to gas the uprising before they become loud enough to spark a civil war and
+
+**GUILT**
+
+and me being led to a bunker and knowing that when the door is sealed the longest timeline we have ahead of us is six months and 
+
+**REGRET**
+
+and me being led to the exam room while the woman behind me in doctor's clothes motioned me in and closed the door and forced down her guilt but I didn't care I just wanted it to be over and
+
+**NOTHINGNESS**
+
+I closed my thousands of eyes out of pain, I couldn
+
+END STORY
+
+
+
+Professional feedback with examples or suggestions:
