@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “I truly don’t quite understand what we’re expecting to get from this man.”
   
@@ -101,8 +102,9 @@ Thanks for the prompt, OP!
 
 r/IUniven
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

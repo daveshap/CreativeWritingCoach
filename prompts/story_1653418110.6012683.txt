@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Rinkth appears at the nearest teleport, a speck about ten tails out. Galloping in what appears to be spellbound paces, she's beside me quickly, squinting at my chair.
 
@@ -35,8 +36,9 @@ I whistle and sing one of Rinkth's favorite tunes from our school days, "... And
 
 We sing the rest together.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

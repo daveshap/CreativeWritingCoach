@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 XX/XX/3499
 
@@ -41,8 +42,9 @@ PS: Attached please find the compensation check for the velociraptor incident.
 
 **\[After a week, Xander would see that the Centre had released a new law - one that banned anyone that had made more than one doomsday device from any and all social gatherings - and would feel a weight lifted from his shoulders.\]**
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

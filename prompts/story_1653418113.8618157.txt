@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “Do you usually bring assassins to your negotiations? No wonder it took everyone so long to unify. Don’t worry, I have killed none of the ones you sent. It would be a waste of my energy.” Baldin slouched in his chair, the powerful mage retiring to the countryside for a few centuries, deciding to hide in a small, unassuming cottage. He had known his hiding spot wouldn’t last forever, but even he was shocked to learn that he had remained hidden for centuries. Far longer than he expected.
 
@@ -69,8 +70,11 @@ The three looked among themselves, watching as the mage stood up from the chair.
 
 “Like I would dri
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

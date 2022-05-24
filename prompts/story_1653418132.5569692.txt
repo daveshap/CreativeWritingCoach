@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Immortal - I've been thinking about it the last few months. That must be it, I'm immortal. It's a curse. Why? Because it does not come with invulnerability nor fast healing. Maybe not with healing at all, but how could I tell? I've been here since the day when someone should have known, but nobody did. I'm wondering how many more …
 
@@ -23,8 +24,9 @@ Continued: https://www.reddit.com/r/7eggert\_writing/comments/ujw35d/wp\_you\_ar
 
 [https://www.reddit.com/r/7eggert\_writing/](https://www.reddit.com/r/7eggert_writing/)
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

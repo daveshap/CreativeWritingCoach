@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Only stammers escaped the expedition leader’s mouth. His fellows looked on, just as helpless.
 
@@ -29,8 +30,9 @@ The many lights on Jim’s sensors danced across his front panels for a moment, 
 
 “Meaning? Order? What? Tom, the guy they based me on died of cancer. Look around you. This is all there is. All there ever was."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

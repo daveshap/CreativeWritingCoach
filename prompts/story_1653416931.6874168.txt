@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The cold air of the early winter morning slid into my house. It was freezing, and with the shivers that woke me up, I walked cautiously towards the same place I visited to shower every morning. I was done rather quickly and I walked around to figure out what I could try today, as the misery didn't look like it was going to end anytime soon.
 
@@ -29,8 +30,9 @@ I woke up in a jail cell, bruised and battered. I knew it was over when I didn't
 
 It had been so long that I had forgotten that timeloops weren't real, and it was just that every day seemed the same when you were alone, hungry, cold, and homeless.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

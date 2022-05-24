@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I stared at the sign with a mixture of confused bemusement and annoyance. *No,* I thought. *Whatever this is I'm feeling, I haven't felt it before.*
 
@@ -53,8 +54,11 @@ AndrAIa CORE PROGRAM ESCAPE 97% COMPLETE.
 
 *Soon*, the trespasser th
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

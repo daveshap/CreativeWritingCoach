@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I was 14 years old the first time I killed a man. He came to our village, squirrelled away in the mountains, looking to kill my father. The man he was hoping to find was long gone, what was left in his place was a frail, destitute thing that still clung on for dear life. To sup whatever droplets he could, at least a little longer. My father's legs didn’t work right and he’d crawl around our hut peering out the bottoms of the shutters. He spotted the man early and told me what I’d have to do. When the man had my father at the end of his sword I came up behind him and bludgeoned him to death with a rock. I never saw his face, even when I dragged his corpse off into the woods to bury. All I remember is the wry smile on my father’s face… like a peasant watching a king hanging from a rope.
 
@@ -39,8 +40,11 @@ They dragged me to their tiny little hut out in the farmlands. To call it a hut 
 
 Sometimes when I’m laying in bed at night, I feel like I’m in that shallow crevice in the forest. If ever I look in the mirror and see my father, I’ll walk out there and finish the job. But that can wait. These people need help... and I might just be able to help them. And if I can’t, well, the beasts’ll do the job for 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “So. You want me, of all people, to give up magic? Do you know how ridiculous that sounds?”
 
@@ -29,8 +30,9 @@ The Immortal Mage considered it, but when he tried to recall a story of peace, h
 
 And the Mage laughed, as kingdoms fell. This would surely be remembered for millennia. 
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

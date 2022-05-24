@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 There’s nothing I can do.
 
@@ -17,8 +18,9 @@ He turns, contemptuous, but as the music begins to play, his smile melts into a 
 
 Eternity awaits.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

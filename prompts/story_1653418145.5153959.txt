@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The final step up into the palace throne room was more a half-step, really. An intentional design choice, intended to subtly remind those entering that the King of Grengard was not so high-and-mighty as to be beyond his citizenry. I, however, required a different message.
 
@@ -39,8 +40,9 @@ He began to cackle once again as a grip manifested on my ankles, pulling me slow
 
 *(So, I've been working on worldbuilding for a set of projects I'd like to undertake for a while now. I wanted to fit the prompt into the world an magic system that I built, so this is the first little story I've actually constructed for that world. Also, my main account, "King_Sarathos" is shadowbanned for commenting on things too much - which support has told me probably triggered their spam filter... So, sorry for the low karma and stuff.)*
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

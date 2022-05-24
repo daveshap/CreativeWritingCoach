@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "I just want the screaming to stop," whimpered Agares. Bones shifted under his feet as he hiked along the path to the clearing which had been his home for millennia. He clutched the hood of his cloak, pulling it tight against his ears. "Just... Stop... Please..."
 
@@ -35,8 +36,9 @@ I'm too tired to keep going.
 
 Edit: oh damn, so many kind words and just noticed the award, thanks kind strangers!
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

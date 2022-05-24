@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 *“Poor ol’ Ned was right as rain, but when it came to the Queen? He lacked brains.”*
 
@@ -35,8 +36,11 @@ The eerie silence hung over them like a gallows. “Fog on the water sir.” He 
 
 It was well hard to see anything now. But the frogs returned then, their bellows and choruses loud and strong over the mud and silt. The noise brought comfort. It brought rationality back to him. No man could live for half a millennia, surely not. And especially not here. This was not a place men could survive. He nodded. “Not long now.” The rest of the men were more interested in the fog now, these were 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

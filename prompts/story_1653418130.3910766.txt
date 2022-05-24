@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Your people suffer, bones ashen
 
@@ -59,8 +60,9 @@ You are the demons and rebellion is our only prayer.
 
 Had 2 more paragraphs after the 4th one but i'm too lazy to go on. Hope you enjoy and continue this story.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

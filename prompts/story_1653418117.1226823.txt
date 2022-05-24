@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "One day, humans said "You know what would be cool? Making that "God is dead and we killed him" joke a reality.", and everyone agreed.
 
@@ -26,8 +27,9 @@ You won't? Well fuck you too! See how you like getting stabbed! See, not so nice
 
 (And I ran out of ideas)
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

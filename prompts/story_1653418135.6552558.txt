@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Huh.
 
@@ -79,8 +80,9 @@ I realized what he meant. This entire time, the entire generations I saw die and
 
 "It won't end well for you."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "What do you mean 'slight technical error'?" Katie was livid. "Jesus, Marty, I leave this office for 2 minutes to run a diagnostic and you revert his sequence back by 70 million years?" 
 
@@ -41,8 +42,9 @@ Marty, his face grim, had opened the door to Alan's chamber. He watched the Ples
 
 As the red lights came on and the alarm began to blare, Marty breathed a sigh of relief, knowing he'd just avoided a catastrophe.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

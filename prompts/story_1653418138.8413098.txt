@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The strangest thing is I don't remember him... I mean, Me.  
 
@@ -31,8 +32,11 @@ I let the group home lose funding.  That hurt.  I saw to it that the other kids 
 
 Then, I got a knock on the door one day, and it was the social worker in charge of the group home.  They lo
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

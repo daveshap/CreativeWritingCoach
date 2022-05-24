@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 James Conroy went through the doors of the supermarket confidently, giving a glance to every magically imbued artifact he could find in the chain store. In one corner, wares floated enticingly from the floor, encouraging extra eyes to be drawn to the more expensive wares. In another corner, the lights would brighten and dim themselves as people passed the aisles in order to save on electricity, only using energy needed when items were being perused. Conroy loved places like this.
 
@@ -53,8 +54,11 @@ It took only a few seconds before the first package of headphones exploded into 
 
 It was common for stores of this size to have funds to pay exclusively for magic repairmen in case situations like this happened. The art was still far to new for 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

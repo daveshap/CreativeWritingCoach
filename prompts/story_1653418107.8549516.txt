@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Man 1: Overhears Man 2 talking to someone (ex:server/bartender) about how tired he is after..."Hey man props to you for having the guts to talk about it, to a stranger, in public no less."  
 
@@ -39,8 +40,9 @@ Man 2: "No! What? What kinda sicko are you?"
 
 Man 1: "What do you mean! A gun is quicker, and, far less painful."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

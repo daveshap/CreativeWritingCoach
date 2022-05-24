@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I ignored his derisive tone as he asked the question, choosing instead, to look around the hall. He was a royal, alright. The portraits exaggerating his appearance lined the high walls, adorning him in extravagant garments.
 
@@ -69,8 +70,11 @@ I was standing in front of him now. His hand, shaking with effort, tried to let 
 
 "You're the most selfish fucker I've ever had the displeasure to meet or know of. I can only hope after you're gone, the Arte Magicke can finally be revitalised into what it could be. Not held back by the trauma you've inflicted on the craft and users alike. You've set us back decades, old man. Do you know that? Do you know what your sel
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

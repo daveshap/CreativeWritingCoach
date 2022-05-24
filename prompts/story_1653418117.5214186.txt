@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Six months ago the mutant, Ransik, began attacking the city of Silverhills with his army of mutant criminals and robots. The city was now always a little tense, never knowing when the next mutant would show its face and try to attack someone seemingly at random, or just cause chaos for no apparent reason. 
 
@@ -27,8 +28,9 @@ The man stood silently, his face blank. He took the paper and put it into an ins
 
 The doctor collapsed to the floor and hugged himself, heart pounding, wondering what had just happened. That man, who looked like Wesley but wasn't, he was from the future, at least 200 years, probably further. His mouth fell open. The mutants, the tech he'd been trying to understand, it was all from the future, that's why it was beyond his knowledge. He began to laugh, time travel, it was possible!
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

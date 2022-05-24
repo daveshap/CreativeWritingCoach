@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Tuesday night and the starlight is a blanket laid upon us. In a few more hours the hillside will glisten with dew and the first of the cockerels will sing; they sing here, one of the thousand things I’ve struggled to get used to. Until Eliza, I thought that I was the only one struggling.
 
@@ -65,8 +66,11 @@ I reach towards her, the stiff, empty air between us, her body just beyond arm�
 
 And the stubborn cloud won’t move. Eliza lies b
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

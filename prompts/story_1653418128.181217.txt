@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Marvin was a genius, had to be, for he was the first man to ever turn the dark art of necromancy upon his fellow followers.  Wars had been fought, lost and revanchist movement generated all in the name of the one great necromancer yet no one thought to break the taboo and reraise our lost brethren.  Well he would be the one, and this great war would be the last.
 
@@ -15,8 +16,9 @@ For all his fighting by the time he reached the castle, and saw the White Armies
 
 Thus Marvin disbanded his army as immoral, having weakened himself completely in the process.  His former enemy was taken aback as he turned from them and walked away.  He had been enlightened, so when his former enemy struck him in the back with a great arrow: he knew the were correct.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I looked sideways at him, tried to keep my poker face but the smirk was plain to see. 
 
@@ -37,8 +38,9 @@ His eyes were infinity. I can't describe it any better than that. Black within b
 
 As it was I had to grab the bar to keep from falling off my stool.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

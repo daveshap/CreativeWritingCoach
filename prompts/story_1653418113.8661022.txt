@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “I promised to never use it again.”
 
@@ -40,8 +41,9 @@ Twins brothers with hair red as blood, the holders of the remaining two continen
 
 “Okay, then,” Ject said, slamming down an empty glass, “just to get some peace and quiet, I’ll do it.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

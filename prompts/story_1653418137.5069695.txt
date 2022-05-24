@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "... after my mother died I felt there was no one who really knew me, you know?" 
 
@@ -19,8 +20,9 @@ In an unrecognized yet determinedly feminine handwriting were just 3 words.
 
 Jenny Milbrooke - Athazagoraphobia
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

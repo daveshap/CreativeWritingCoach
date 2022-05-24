@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 **Rusty Joe**
 
@@ -45,8 +46,9 @@ The children shook their heads, eyes blank. The camp leader chuckled, “I’d a
   
 Charles shivered. He was expecting the camp leader to say something to ease his nerves, not give him nightmares. He curled up in his blankets, trying to get some shut-eye. Though as all the campers went quiet and got in their sleeping rolls, Charles made out a faint sound in the distance. It was a lone banging rhythm, like metal against metal, coming from an old rusted structure. He tried to dismiss it as the wind, but he could not get out of his mind that something dwelled there: Old Joe, hammering his infernal hammer for all eternity.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Several times, travelers made complaints about the suspicious Eridanian from System HD265-T3 skulking around the exit of Gate E3.  Arrival flights from Earth disembarked their passengers here, each of them in a rush to meet connecting flights. The Eridanian, known professionally as ‘K’, knew he was untouchable. Countless bribes over the past cycle had ensured that he and his partner, ‘G’, could work free from the interference of flight security.
 
@@ -41,8 +42,9 @@ Before he could finish, the face seemed to melt and crawl away in different dire
 
 	*Two perps held. Prep the body bags. Get a cleaner, too.*
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

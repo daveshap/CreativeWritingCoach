@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “It seems like your sentence is almost up Logan,” said Brady.
 
@@ -49,8 +50,11 @@ One waited for the other to laugh before the release of the lightness within his
 
 They both shared a laugh worth its weight in gold. Logan enjoyed the rest of the night sipping the hooch they had prepared for moments like these. Brady only drunk enough to keep him focused on his craft. The rest of the night was comprised of Brady tattooing and Logan Enjoying the fermented drink. It was not long before morning came. Both were exhausted from staying up through the night but were ready for a new
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

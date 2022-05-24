@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It was fairly early on a Tuesday morning so I was in my usual spot of leaning on a broom just out of sight of the registers.  If Mr. Henley walked my direction it'd be easy enough to start pantomiming sweeping, but otherwise there was very little to do until the rush when people got off work at the quarry.  Until then it was either lean on a broom or count the cans of tomato soup again. There were still 37 of those by last count, so today I was leaning on the broom.
 
@@ -37,8 +38,11 @@ Uh oh.  I had forgotten Tuesdays were Dylan's shopping days. This was definitely
 
 I could only stare helplessly and around the corner came Dylan. All twelve feet of him.  He had to bend his serpentine neck almost double to keep his horned head
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

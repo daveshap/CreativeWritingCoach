@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Expelled from college grounds.
 
@@ -57,8 +58,9 @@ I watched as realization crawled over Trill's face, then a grin followed.
 
 "Every last one of the bastards!" I declared. "We'll rent some horses and a cart in the city! It's a three day trip to Blaise! Then I'm going to give those monsters an in person lesson of my canceled second book!"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

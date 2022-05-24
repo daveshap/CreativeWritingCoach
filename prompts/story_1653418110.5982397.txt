@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Every day I drink to the point that I can tolerate being around the fools around me. Not that I do.
 
@@ -51,8 +52,9 @@ The grotesque creature before me ... Could it be? Was it truly ...?
 
 TBC
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

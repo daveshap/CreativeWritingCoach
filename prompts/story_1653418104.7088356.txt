@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It all started soon after when the disasters hit. They were never the same, with nothing similar except for the human death toll, but they came on a monthly schedule like clockwork. Not on the same day, but once a month, no more, no less, and with casualties in the tens of millions. It was never in doubt which was the *disaster*, even when some pretty terrible stuff happened the same month. Despite all our fecundity, the human population went from growing to shrinking. A year after a paper went out from an unknown account, to, quote, "give us a fighting chance". It gave detailed instructions for producing a serum, that if taken before puberty would provide superpowers to the children. Considering one of the disasters was an as of yet incurable epidemic, the medical regulations have been relaxed, but some guy who had access to the necessary equipment, a few kids, and a lax stance on ethics still beat them to the first human trial. The Willisberg case became world famous, from the court proceedings to their daughter Marie, with a superpowered immune system whose blood donations helped develop the first cure to the epidemic. While individual *gifts*, as many came to call them, were amenable to scientific analysis (and, in fact, brought many breakthroughts of their own), the serum itself was an absolute mystery. We knew some things about it, but those things raised more questions than answers. 
 
@@ -34,8 +35,11 @@ and me being led to the exam room while the woman behind me in doctor's clothes 
 
 I closed my thousands of eyes out of pain, I couldn
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

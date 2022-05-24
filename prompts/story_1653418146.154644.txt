@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Halt foul demon! I know of your true name and so you must obey my every command!" 
 
@@ -21,8 +22,9 @@ STORY:
 
 "I don't give a damn Maxwell. Now get on the box and gimme free energy!"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

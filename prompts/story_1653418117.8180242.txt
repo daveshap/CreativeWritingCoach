@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “I can’t fathom it. He has really been enjoying these last few weeks as my thrall.”
   
@@ -197,8 +198,9 @@ I giggled, “That’s cute.”
   
 I smiled, “Well, let’s change that.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

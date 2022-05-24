@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I saw this prompt and decided to write something kind of inspired by it. I didn't put a bunch of time into it so sorry if it's not great and sorry about the format too. I just thought it was interesting to write so maybe it would be interesting to someone else too.
 
@@ -73,8 +74,9 @@ Q: Thanks. 
 
 A: No problem.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

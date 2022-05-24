@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “It’s inefficient and slow.” The insufferable little man complained for the third time in 2 standard intervals. 
 
@@ -37,8 +38,9 @@ Uhigiria watched the little man ramble excited about his plan. It had been wrong
 
 “I suggest we pick Red light and Green light.” The human said proudly and shrugged when asked to elaborate on why. “Just makes it feel like home.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

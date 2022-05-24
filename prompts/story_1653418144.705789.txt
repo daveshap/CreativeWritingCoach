@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Finally, a job. With this economy I am close to desperate for a new job. I called up the company, and they confirmed my hiring of this position as a Data Entry position. Well the strange thing is I never applied for such a position but work is work for such an esteemed company.
 
@@ -62,8 +63,9 @@ The outside sky is so beautiful, from my gaze it’s been forever since my eyes 
 
 “I know, I am going to try. Sometimes I may fail, but I can’t give up.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

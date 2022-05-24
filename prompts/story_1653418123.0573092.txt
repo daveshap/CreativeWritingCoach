@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The stinking smell of alcohol, inaudible whispers and screams of electronic devices flooded my senses. A woman in medical mask and milk white uniform tapped several air bubbles out of a syringe. As she came close to me, giving me reassuring whispers like those across the room, I closed my glassy eyes and my mind wandered to several months before.
 
@@ -74,8 +75,11 @@ A feeling of purpose flooded my chest, the ache gone away like wind in the early
 
 Note: Opening scene was inspired by the Matrix, the setting was less fantasized then I intended but I'm just too tired to change it back. Decided to end it as a psycholo
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

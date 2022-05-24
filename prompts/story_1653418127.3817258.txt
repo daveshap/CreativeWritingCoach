@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The robotic voice said, "6.8 billion test subjects deleted so far, you have 3 minutes to state your case, begin."
 
@@ -19,8 +20,9 @@ This time, the pause was long enough that she finally slid off the bench and tri
 
 Hours later, when all the humans had left, "Recalibrating. Determinational experiments needed to confirm or deny hypothesis in reference to canine animals."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

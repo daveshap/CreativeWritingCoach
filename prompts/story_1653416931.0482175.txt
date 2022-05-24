@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Praxius knew, without even the smallest nagging doubt, that he would be around 10 minutes late this morning. 
 
@@ -31,8 +32,9 @@ He began to disintegrate, his very cells began shrinking. His skins fell off his
 
 All that lay in the spot that he stood was the undigested and accidentally inhaled ploonum of a Kroffle nut.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

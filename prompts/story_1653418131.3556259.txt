@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 *"Seriously? You have got to be kidding me!* We've been risking our necks and you've been sitting on your ass in an office playing matchmaker?" Maria's words were sharp and hot, charged with fury and indignation. The effect was slightly spoiled by the fact that she was blushing.
 
@@ -31,8 +32,9 @@ The red of her cheeks deepened, and she looked away, "He saved my life back in H
 
 "...We'll take it." The muttered agreement was reluctant and a little petulant, but it came anyway.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

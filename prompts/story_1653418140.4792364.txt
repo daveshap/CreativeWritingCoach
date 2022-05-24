@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 (This is part one, I apologize for my extensive writing) 
 
@@ -39,8 +40,9 @@ There are screams of shock and terror coming from around me, with people now poi
 
 Dunno how it's amusing to her, but I think it's more of the surprise of how powerful I am that just flying away causes them to trip. Maybe it's something to do with old people wisdom or something that grandma always talked about. Who knows.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

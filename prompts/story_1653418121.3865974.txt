@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Senior agent Simon Anderson glanced at his junior partner Lynn O'Neill and took a deep breath. "Ready?" He asked, his finger hovering an inch away from the door bell. Lynn simply nodded in response, and Simon rang the bell.
 
@@ -53,8 +54,11 @@ Lynn put the tablet down on the table, the display showing drone or helicopter f
 
 "Mr. Josh, we are not here to prosecute or arrest you. We need your help to stop whatever is going on there from floodi
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

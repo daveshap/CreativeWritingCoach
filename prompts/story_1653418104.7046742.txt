@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Flashing in front of his eyes was perhaps the most broken of powers. 
 
@@ -14,8 +15,9 @@ The only instruction given being:
 
 “Don’t touch the snail”.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Dear Silphae,
 
@@ -20,8 +21,9 @@ I will always think of you, and I will find you in the stars each night.
 Forever yours as I am Hers as you are mine and you are Hers,
 Galiosthenes
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

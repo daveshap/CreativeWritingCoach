@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 My handler sheaths me back into the scabbard.
 
@@ -47,8 +48,9 @@ I will allow the growing brotherhood with this... Gregory to fester. I will allo
 
 And so, I will gain my avatar. And all shall pay for their ancestral misdeeds against me.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

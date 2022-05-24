@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Why are you letting subject 14 call you mommy?" Dr Betel asked with a disapproving sniff.
 
@@ -44,8 +45,9 @@ She sat for a few minutes until Stevie was asleep, then got up and headed to her
 
 *Besides,* she continued quietly in her head, *the hand that rocks the cradle rules the world *
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

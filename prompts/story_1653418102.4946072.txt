@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 NRP - III or Nature's Reserved Park III
 
@@ -29,8 +30,9 @@ While landing, there was an abrupt commotion happening at the outpost.
 
 "Fuck, a zombie Night Vampire."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

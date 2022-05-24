@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Arrival in 5… 4… 3… 2…1
   
@@ -115,8 +116,9 @@ Not here. Not here. Where are they…. then I opened it, the cell door as lifele
   
 “Don’t you ever do that again, K. You understand?” I rushed up to them, embracing the automaton as my eyes grew weepy, “Now let’s get out of here. Blast… I’m so glad you’re alright.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

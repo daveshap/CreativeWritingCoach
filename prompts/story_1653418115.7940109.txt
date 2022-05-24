@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I'm weird.  No. Strange?  who the fuck cares?  How about not normal?  But then again what's normal these days?  I'm asking too much.  Am I asking too much?  
 
@@ -43,8 +44,9 @@ The street was lined with armored vehicles and it seemed as though people were r
 
 My dick chuckled looking at me smiling and all he said was "Hi."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

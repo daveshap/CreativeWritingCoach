@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Kent Allard just wanted a quiet life. Sure, some wouldn't call him a good person. Taking hostages without actually threatening their lives, robbing banks while not actually keeping the money, and failed contract killings never looked good on a resume, but he kept up and coming superheros employed. How would a hero learn to save the world if they hadn't so much as stopped a mugging? But then this guy came in and took his place. That upstart calling himself a "Khan", stealing money, killing folks, and turning people into mind-controlled slave-soldiers, that should not be able to stand. Unfortunately, the small time heroes that had started emerging weren't succeeding in foiling him, that none of them were willing to kill the man didn't help matters. Big time guys weren't going to help either, the ongoing war was keeping The Rocketeer busy, the current Solomon Kane was doing *something* in Africa, and that he kept his antics to one city meant that Doc Savage had far bigger problems to deal with. It was another day of Kent ranting about the subject to himself that he a thought occurred to him.
 
@@ -17,8 +18,9 @@ Kent Allard just wanted a quiet life. Sure, some wouldn't call him a good person
 
 After all, who better than him knew the evil that lurked in the hearts of men?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

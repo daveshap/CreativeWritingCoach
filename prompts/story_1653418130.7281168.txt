@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 You are dimly aware that you're panicking.  Everything looks too real somehow.  Too highly detailed for what you know as reality.  You mutely raise a hand to rub your eyes but something is in the way.  Hard, slick, some kind of plastic.
 
@@ -29,8 +30,9 @@ It is strangely comforting.
 
 You blink.  For a moment you had a strong sense of deja vu but maybe it is because this is a party.  You smile and thank everyone.  After all everything looks wonderful.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

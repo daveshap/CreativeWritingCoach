@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I wasn’t even given a chance to respond.  The world swirled around me as sparkles of green whisked through the air. It seemed like a million winds were blowing, yet the air was stagnant like the ocean on midwinter’s eve. 
 
@@ -49,8 +50,9 @@ I tried to pull away as the young girls frown morphed into a smile. Her form slo
 
  “No one ever listens to the warnings,” she cackled.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

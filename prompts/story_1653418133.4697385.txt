@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The dress was a purple parachute around Lucy's legs as she danced, the cream hummingbirds printed onto the cotton leaping and diving in joyous flight. Electro-swing thrummed through the room, through her body, the saxophone's erratic melody leading her movements,
 
@@ -129,8 +130,11 @@ They drank the fire. The flames spread over their faces as quickly as the sun ov
 
 Their bodies were on fire now. Purple and white and red and leaping in tongues, and their skin was like 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

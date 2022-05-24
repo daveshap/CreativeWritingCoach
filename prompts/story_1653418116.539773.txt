@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Sizzling, greasy oil oozed from the boy’s pimples, the congealed puss slobbering onto his face. A trail of snot ran down his nose, hanging and swinging as it slid across his chin and lips, covering them in slimy mucus. It bobbed up and down as he moved, impossible for onlookers to ignore yet he seemed to ignore it, every once in a while trying to suck it back up into his mouth with a churning slurping sound.
 
@@ -19,8 +20,9 @@ It scarfed down the bread, which was fuzzy and discolored from the mold, crumbs 
 
 The boy embraced the wolf with stubby, muddy arms, nuzzling his slimy cheeks with the wolf’s jagged ones. The boy smiled a secret smile one might see on immature fops who had just watched an elderly person trip. The boy pulled out a small green ball the color of mold and mucus which caused the wolf’s eye to light up like a burning hospital. He grinned his discomforting grin before hurling the ball which the wolf eagerly pursued and returned to him. The two continued their back and forth even as the night grew ever more dark and disquieting.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

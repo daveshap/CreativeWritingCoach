@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The W.E.I.R.D. Algorithm. Wormhole Extrapolating Iridium of Radon Double-helix was an algorithm invented by an English programmer. Weird Al, as we called it, was an algorithm designed to use predictive mutarotations of a model of a double helix extrapolated from the DNA of the Earth's first cell, obtained by iridium-radon de-aging via temporal wormholes, had finally been run. Its primary function was to be able to calculate the least number of moves required to make an event in the future change. Basically, it calculated the butterfly effect.
 
@@ -38,8 +39,11 @@ Suddenly Sandy entered the bank. He barged in front of her and began shouting at
 
 The Pirate, clearly angry said to the man, "Sir, I was here first." The man clearly beyond reason now backhanded her across the face. Or rathe
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 **TO ACCESS CONFRENCE ROOM #058 PLEASE IDENTIFY YOURSELF**
 
@@ -62,8 +63,9 @@ Remember, we're always watching.
 
 **wait, is that screaming I hear?**
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

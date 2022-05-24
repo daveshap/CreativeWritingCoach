@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I told her not to go outside, not in broad daylight. But Miri had wanted to see the sun. And they'd gotten to her.
 
@@ -55,8 +56,11 @@ He pulled back his hood, revealing a the face of a middle aged man with dark hai
 
 "The Cake Cultists have defiled that which I hold most sacred." he said, an undercurrent of passion and 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

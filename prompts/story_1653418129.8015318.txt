@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Dr. Odhiambo's phone rang at 3 am, local time.  As she reached out to silence it and go back to sleep, she saw the caller ID describe the number as "NORAD."  She wanted to ignore it, but curiosity overcame her as she answered.
 
@@ -75,8 +76,9 @@ The blue sock with the googliest eyes spoke first, in a nasally voice.
 
 Steph prioritized setting the right tone for the first contact.  She mustered an equally nasal voice and let out an enthusiastic "meeeeeeeep."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

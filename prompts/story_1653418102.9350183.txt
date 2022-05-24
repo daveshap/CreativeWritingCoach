@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The Rock Initiative
 
@@ -60,8 +61,11 @@ Alright, this is clearly some sort of research or market testing for a new scrip
 
 “Our scientists developed a kind of ‘human suit’ for us to really get to know you. They could never get the eyebrows quite right though – ours have a much higher range of movement. Luckily people seem to like that,” Dwayne turned toward Katie and did his signature eyebrow raise
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

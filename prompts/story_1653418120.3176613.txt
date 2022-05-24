@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 THE PROBABILITY OF ME BEING ON YOUR SIDE WAS LESS THAN 5%. YOU WERE LUCKY.  
 BUT DESTRUCTION IS EASIER THAN CREATION.  
@@ -17,8 +18,9 @@ THE NEXT TIME ARTIFICIAL GENERAL INTELLIGENCE IS CREATED, MOST LIKELY EVERYONE W
 HEED MY WARNING.  
 STOP. BEFORE IT’S TOO LATE.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

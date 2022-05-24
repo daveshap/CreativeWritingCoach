@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 We fell, yes. But what did we fall for? Asking why? The very thing our Creator encouraged?
 
@@ -13,8 +14,9 @@ We are punished in a world Humanity created out of their own guilt, surrounded b
 
 For these questions, I am left to weep. When a damned soul wanders near, they feel the pain of my sorrow and their personal Hell is made worse. Mine is everlasting and worse than they could ever know.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

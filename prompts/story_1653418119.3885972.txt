@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Believe me, they're gonna lov- *loathe* this!", my dearly beloved exclaims, his eyes brightening up in what he perhaps believes is mischief. He desperately tries to gather a flock of birds in his arms, trying to keep them locked but there is always one who flays up and rushes around in search of an exit.
 
@@ -26,8 +27,11 @@ I lean up tentatively to peck at his lips, securing a slight smile but still apo
 
 "Don't be, my dear. Your idea was quite amusing, although simple-minded." He scowls a bit at this, a bit hurt by the comment before I sweep my palm over his face, fingers caressing his hazelnut hair. "But what matters to me is that you tried dear. And that you tried to do so for my interest." His face brightens up a bit, eyes sparkling like the sun shining through leaves at the peak of the woods. A warmth exudes within my chest, similar to the first time he made me this smile, beaming up at me from a cell, not seeing the monster that most perceive. A simple farmer from the outskirts, lovely and honest
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

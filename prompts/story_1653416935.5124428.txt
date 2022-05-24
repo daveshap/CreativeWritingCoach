@@ -2,11 +2,13 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 An entity that only concerns itself with the protection of a house. If someone breaks the window the window will magically be fixed the next day, and the person who broke it seems to mysteriously disappear. This happens to a point where the house was once set on fire and by the next day it appeared as if nothing had happened with all of the family's furniture and belongings in their proper place
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

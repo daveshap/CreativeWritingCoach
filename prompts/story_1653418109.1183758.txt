@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I had seen them all.
 
@@ -23,8 +24,9 @@ Because while the world's best dancer explains to me their evil plan to make *ev
 
 OPPA GANGNAM STYLE!
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I checked the monitor on my screen, nineteen eighty-something, we had arrived. 
   
@@ -121,8 +122,9 @@ Weird Alfred Matthew Yankovic nodded, signing the album and handing it back to m
   
 It was the greatest day of my life.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

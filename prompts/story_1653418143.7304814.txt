@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The project was universally holocasted. The same beautiful, busty blond sat on a chair in nearly every household speaking to the occupants like a trusted friend. In some households she held up the likeness of the reality-jumper, sometimes exploding it into separate parts and reassembling it into a skittering mechanical beetle. In some houses, she watched with the rest of the occupants as the image of a screen showed a well-known video, the mechanical beetle skittering along a concrete floor, empty save yellow and black stripped caution lines. As people watched it, they found themselves following the motion of something no longer there. 
 
@@ -9,8 +10,9 @@ In the majority of households, people watched an empty concrete floor, now fully
 
 In some houses, clips of an alien world jumped into vision, surviving footage of early jumps. Before reality-jumping was outlawed, before the war, before the insurrection, before the public release of the last probe, before the average citizen accepted that it couldn't be stopped. Now people could only wait and stare at a concrete floor and see what horror followed the bug home. A silence crept up, even the young woman spoke less, her answers and thoughts becoming terse, but at 0:00:00, no bug appeared. There was no movement in any house, on any floor, nothing came or left. There was no sigh of relief or gunshots, the entire world lay as still as a mechanical bug, shattered in a forgotten cave, its mission having been failed not even a week from when it began.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

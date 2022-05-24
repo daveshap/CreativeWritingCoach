@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I was born in japan, on the night of a full moon. And on a night just like my birth, my village was slaughtered by a ruthless sorcerer. He commanded a ruthless army of shikigami. I was twelve years old when I hid with my mother in the forest temple. The temple of the mountain god.
   
@@ -62,8 +63,9 @@ As much as I have hated Shion, the former mountain god. They have brought me the
   
 And so I will continue fighting, until the day when Shion chooses to free me from living. Until we can be together in the spirit world.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 So there's this thing all new villains do, at the climax of each heist/crime/caper. It's brief, but it's distinctive, and you'll always find it if you know what you're looking for. When you've been around as long as I have, it's hard to miss.
 
@@ -35,8 +36,9 @@ In that frozen moment, when the villain is still, and sillhouetted, I've got a p
 
 The doctors say I should watch my blood sugar. But on days when I've foiled a robbery, saved the city, protected my granddaughter's inheritance, I allow myself another slice of cake.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

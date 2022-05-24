@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Critiques welcome!
 
@@ -75,8 +76,11 @@ Finally, they found the old abandoned house. It was even older than the haunted 
 
 Before Jon could look up, the ghost family was i
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

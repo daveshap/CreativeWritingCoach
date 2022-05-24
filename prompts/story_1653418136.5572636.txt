@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Jeffy was terrified. I shoved down my irritation. It was 2AM, and I had *work* in the morning, dammit, but I knew it wasn't his fault. I'd been there, at that age, after all. At least, unlike me, Jeffy had someone to explain what was going on and help him through it. 
 
@@ -35,8 +36,9 @@ The Jeffies nodded, movements now perfectly synchronized.
 
 And then it was just me and Alice, holding our one beautiful boy between us, until he fell asleep again.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

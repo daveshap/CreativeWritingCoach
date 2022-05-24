@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 My father told me to never give away my name. Your name gives you power, and to lose that is to become helpless. As a Fae, names have always taken his words to heart.
   
@@ -81,8 +82,9 @@ I smiled, “Sounds wonderful.”
   
 My father told me to never give away my name. Your name gives you power, and to lose that is to become helpless. But those who believe that have never been in love.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

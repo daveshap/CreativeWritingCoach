@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 
 
@@ -35,8 +36,11 @@ Debbie and Dave met each other six midnights a week, their contact averaging fou
 
 Whether they were 5th or 6th cousins mattered to neither. All that mattered was their voices, and touch; their two hearts in that nightly twilight dance, away from it all, looking out across those blue valleys, together. Forever, until forever ended, the graffitied wall come down, sat in their home, twins on the way, a boy and a girl, neither to be farmer, or tax
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

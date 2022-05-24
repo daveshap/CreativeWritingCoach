@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Julia leaned back on her couch, masticating a banana.
 
@@ -39,8 +40,9 @@ The rabbit was cute, but it had a dark underbelly.
 
 \[More writing at r/c_avery_m\]
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

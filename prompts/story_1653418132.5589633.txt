@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Ofttimes I'd find myself wondering how many years it had been since I first met him. I was out with some friends for a night at Steeples, the only gay bar you'd be able to find in our tiny little shit town back in the seventies. I'd had more than a few, and had sparked a conversation with a stranger - he was tall, with a gorgeous body and a shyness that could be construed as off-putting. He had asked if I'd wanted to go home with him, insisting that he had better booze at home. My gut told me no - there was something in his eyes; some vacant deadness that made me feel as though I was sinking through an infinite abyss towards oblivion when I looked in to them. My friends pushed and pushed me to do it, and I finally agreed. I hope they're doing well these days. I don't hold anything against them.
 
@@ -33,8 +34,11 @@ The world didn't come flooding back until some indiscernible amount of time late
 
 He told me he had spent years looking for his personal love zombie. Someone he could cherish and hold and have t
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

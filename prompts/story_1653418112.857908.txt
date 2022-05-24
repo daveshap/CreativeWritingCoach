@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 here the thought of a 2020 word generator THIS IS NOT MINE THIS IS A WORD GENERATOR CREDIT GO TO INFERKIT :  
 " An AITA post from a supervillain desperate to be told they're doing the right thing.  
@@ -33,8 +34,11 @@ For all the latest Sports News, download Indian Express App
 Catch up on all the latest sports news and updates here. Also download the new mid-day Android and iOS apps to get latest updates  
 This story has been sourced from a third party syndicated feed, agencies. Mid-day accepts no responsibility or liability for its dependability, trustworthiness, reliability and data of the text. Mid-day management/mid-day.com reserves the sole right to alter, delete or remove (without not
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

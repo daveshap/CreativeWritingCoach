@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The apocalypse was my fault. I shouldn't have allowed them to raise their own armies. Worst of all, if I saved the world, no one would give me the credit I deserved.
 
@@ -67,8 +68,11 @@ Malajuk tried to arch an eyebrow, pressuring me to answer, but his rotting flesh
 
 "Fine," I said. "It's not complicated. I practiced my whole life to be a court wizard, but I was passed over in favor of a lesser m
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

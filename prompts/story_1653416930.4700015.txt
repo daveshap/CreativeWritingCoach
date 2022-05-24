@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 #Genreic Shift
 
@@ -55,8 +56,9 @@ Merely moments later, an exhausted flustered Genrene stood on the beach. He doub
 
 Wc: 800
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

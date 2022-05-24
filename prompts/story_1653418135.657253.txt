@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
     
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The Immortal walked back to his house in an introspective mood. His close buddy of twenty years was off to start the newest chapter in his life, and the Immortal knew he’d never see him again. He was both happy and sad for his mortal friend. “Ah well, best not to worry about it anymore. He’s a good man and will do well by himself.” He chuckled as he went back inside his quaint and lonely little cabin.
@@ -36,8 +37,9 @@ STORY:
 
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;{Fabulae Finis}
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

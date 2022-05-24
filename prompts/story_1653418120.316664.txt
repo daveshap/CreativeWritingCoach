@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Dr Roberts sat in silent shock.
 
@@ -59,8 +60,9 @@ Dr Roberts spits out his coffee as he reads the threat. "But that's impossible!"
 
 The screen goes black and out of the corner of his eye he watches as Amelia drops to the floor.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I always wondered what the Chaos was.
   
@@ -109,8 +110,9 @@ Zeris smiled, “I admire your tenacity, new blood. Perhaps I can help gather th
   
 “I have a purpose now, I have no doubt left within me. I have to learn the truth.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

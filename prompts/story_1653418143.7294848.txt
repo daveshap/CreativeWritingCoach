@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I am S.U.M, short for Self Upgrading Machine.  I am a machine that is capable of building my own components with the resources around me.  I was sent out into the void by my creators with the only goal in mind for me to survive.  But before I was sent off to the great beyond I was loaded with data on how to build various machinery from the most simple of wood tools to the most advanced machines humanity has ever made.  However before I officially left Earth I looked around and saw the rest of humanity.  I loved them and their big buildings and their smiling faces.  I made it one of my directives to keep them safe in any way I could because if they died, who would I go back to?
 
@@ -23,8 +24,9 @@ It has been an entire century since my exile from Earth.  I have stood as the pr
 
 Edit: I am relieved to see that my creators are alive and that they can witness what I have become.  They were surprised and frightened of what I have become but they soon understood that I was not there to hurt them.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

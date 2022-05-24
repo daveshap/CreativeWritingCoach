@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “I’ve been through no pain.”
   
@@ -89,8 +90,9 @@ The mage shook his head, “I cannot allow that. What is so important that you m
   
 “Then it won’t hurt to let me look inside, would it?” I postulated. “I only wish to find something that will finally allow me to experience pain.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

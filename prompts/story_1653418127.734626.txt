@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “My opinion? I see the effort as vacuous. Egotistical. An unnecessary waste of time and money that could be better spent on any number of other projects that would better serve us now and in the future.”
 
@@ -57,8 +58,9 @@ And how had this undetectable object end up exactly where they would look?
 
 Perhaps, she thought, I have been to harsh on the Preservation Project. Maybe the purpose isn’t the answers that we bury, but the questions that they’ll raise.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

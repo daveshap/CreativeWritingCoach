@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 We had failed.
 
@@ -43,8 +44,9 @@ By the scantest of degrees our trajectory changed, up, up... UP!  I closed my ey
 
 *"Let me light up the sky."*
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

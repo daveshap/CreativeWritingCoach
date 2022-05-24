@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "DUDE THIS IS LIKE THE 37TH TIME!" shouted death with hilarious annoyance at this point.
 
@@ -19,8 +20,9 @@ The last one was weird. It was built upon satanic boundaries, and I sort of open
 
 I'm not excited about this, but now there is a person running at me with a sword.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

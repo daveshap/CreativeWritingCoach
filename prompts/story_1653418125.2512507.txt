@@ -2,11 +2,13 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Okay, I didn’t *mean* for it to happen. I won the lottery. My family and I are well off and have no real need for a billion dollar. Plus, my partner and I are trying for a baby. We assumed the enhancement would pass down to them. We stopped trying pretty soon after the enhancement. I mean, what kind of evolutionary enhancement is an extra set of arms? Sure I could do things twice as fast and hold twice as many things. But the arms weren’t exactly…the right age. It was dumb of me to assume a genetic enhancement would automatically match my body’s current age and physical strength. So now, here I am. Stuck with an extra pair of arms that have the mobility and strength of toddlers’s arms.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

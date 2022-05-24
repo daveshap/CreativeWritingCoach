@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I blinked in confusion, as my smiling friends and family laughed, clapped each other on the back, and fist bumped each other triumphantly. It had been a weird day.
 
@@ -97,8 +98,9 @@ When I woke, I was sitting in my car. On the passenger seat next to me, there wa
 
 It was a signed picture of Zuckerberg, giving that horrible lifeless smile, an unnaturally long forefinger pressed to his lips.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 ”So, like, I can’t even believe Ricky would say that to her. Like Jessica deserves **so much** better”
 
@@ -67,8 +68,9 @@ At her remark I instinctively sink my arms deep into my pockets, out of shame as
 
 “God doesn’t love you sir, that’s why you’re here.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

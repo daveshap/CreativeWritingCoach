@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "So why does this have a high turnover rate?'
 
@@ -11,8 +12,9 @@ Palatine would have her killed, but only after a few months in office. unfortuna
 
 He just needed to keep it up a little bit longer.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

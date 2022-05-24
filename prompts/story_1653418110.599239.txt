@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It makes sense in practice. The code of the spells is tied to elements and location. Most people assume that the spell is creating effects. Magic makes you fly, magic becomes fire, but that’s just not true. I am writing this all down because…
   
@@ -41,8 +42,9 @@ My pursuers are now free and approaching me once more. I cast “Wrong Light” 
   
 Eventually, my pursuers find which one is the real me. I smile and turn to face them. It’s too late, I’ve already sent out all the journals. Soon all the world will know the truth. There’s no use sticking around. But considering I’m a much better mage than any of them, I draw my wand, “Let’s have some fun.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

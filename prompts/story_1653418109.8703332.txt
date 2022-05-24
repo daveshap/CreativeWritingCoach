@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 A little late and a little different but I wanted to contribute this
 
@@ -22,8 +23,9 @@ I couldn’t think of the next thing to say. Tears started to come to my eyes an
 So we sat there side by side until the security came and got us and forced us back in to the class. At lunch Anthony pulled out a book from his backpack and handed it to me. There was my name on the cover.
 “I made a book of your best stories and thought you would like a copy”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

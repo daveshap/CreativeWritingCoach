@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Only the dead are immortal."
 
@@ -15,8 +16,9 @@ The guard wakes with a start- "What the hell kind of dream was that?"
 
 I laugh, and the guard shivers. He has no idea who's bench he sat on. He gets up and walks off. Oh how I love messing with their feeble minds. I can't wait until they dispose of that corpse, oh the confusion and panic I will cause. I may be dead, but I still have a few tricks up my sleeve...
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

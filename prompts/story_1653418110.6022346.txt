@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 'I am not like the others,' you tell yourself in the mirror each morning and each night. 'I am better,' your mind adds, but you pretends not to hear it in case it jinxes you.
 
@@ -69,8 +70,9 @@ The truth is pouring out on you too fast, drowning you underneath its crushing r
 
 *You have been running away all this time. You are not better than them.*
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

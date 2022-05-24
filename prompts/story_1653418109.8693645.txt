@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I know I shouldn’t, but I can’t help it. Class is just so boring, and I can only stare out the window for so long.
   
@@ -103,8 +104,9 @@ I stop reading her thoughts right as Mr. Darcy announces the date and time for t
   
 “I’ll walk out of there with exactly what I want,” she replies.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

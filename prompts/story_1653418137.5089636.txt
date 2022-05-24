@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I had studied for hours, even days non-stop for the sake of one test. Normally, studying for that long would almost guarantee a perfect grade.
 
@@ -17,8 +18,9 @@ Never mind, then. Maybe I should just confine myself to this floor instead. That
 
 *Why must my mind be so peculiar?*
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “How in the hell do you accidentally kill someone?! How many years have you had in this job? There must be someone above you I can talk to.” I know, I sound like a Karen. But this is my life we’re talking about. A crappy meal I’ll smile, say the food was great and let it slide, late delivery I’ll grit my teeth and happily accept it. I don’t complain. This is different.
 
@@ -85,8 +86,9 @@ Perfect.
 
  
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Jess! Hey, have you got a moment?" Ed called across the fence as I got out of my car.
 
@@ -87,8 +88,11 @@ I thought about it.
 
 Ed went to answer but then thought better of it. He really didn't know if he'd be able to contain himself from creating more doomsday devices in a state of drunken excitement at his next party. I sort of understood it. Ed had tried to explain scientific concepts to me before now and he would just get so enthusiastic that my blank confusion would do nothing to dissuad
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 You look around at the table before you. You’re not sure how you got here, but you’re here. You don’t mean to eavesdrop, but you can hear the light chatter amongst the clatter of dishes and utensils.
 
@@ -33,8 +34,9 @@ You don’t know how long you sit and eat. Maybe an hour? Two? Three? Four? Six,
 
 “Y-you know what? I think- I think I’ll just wait until next time.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

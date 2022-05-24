@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Coming of age was meant to be exciting, joyous. At fourteen, we are given our purpose. Abilities unique to each one of us, granted by the collective intelligence.
 
@@ -31,8 +32,9 @@ When I finally saw the light, my purpose was clear. I saw the wars I would win f
 
 My smile widened, and heat washed over me.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

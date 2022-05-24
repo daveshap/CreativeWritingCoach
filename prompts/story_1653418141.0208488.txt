@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Dave hovered in the vast darkness. There was no real sense of anything now, after Earth had been destroyed in its entirety. You would perhaps expect there to be buildings and even other people floating around in space. You'd be wrong. All he saw was rocks and dust. In truth most humans and other living things had just gotten squished instantly into little giblets due to unfathomable earthquakes. 
 
@@ -23,8 +24,11 @@ He tried stretching his actions beyond the solar system but he ran into a kind o
 
 'Mmmmmmmmmmmmm', he chanted to himself. 'Hot dogs.' Hot dogs? His Domain was hot dogs? Why hot dogs? Dave remembered old Earth. Hot dogs had always held a kind of strange symbolism to him. It was an indulgence, but not for the rich. A guilty pleasure of sorts. The kind of food that only a master could perfectly cook, and only a master could perfectly recognize. Its transitory nature confounded him in his youth - so delicious and yet so passing in its taste. And it was a kind of safe haven - few if any truly cared, so it was the kind of topic that he could freely discuss with others. Others liked talking 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

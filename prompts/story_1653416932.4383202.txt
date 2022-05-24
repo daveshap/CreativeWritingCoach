@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “Why are you here? You don’t even care for the royalty, just leave us be. We don’t want to hurt you.”
 
@@ -79,8 +80,11 @@ When Marvin pulled his head away, he would see the sword of the knight hovering 
 
 “Former thief. He was the one that convinced the others to warn me about the plan.” Alisa stepped forward, pulling up the sleeve of her long, flowing white dress before she smacked the side of his helmet with his dagger’s handle, s
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

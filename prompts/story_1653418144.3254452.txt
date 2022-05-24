@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I stepped outside to test out my new high level. But before AI could cast anything, a small translucent box popped up in front of me.
 
@@ -17,8 +18,9 @@ Apparently a spider I'd crushed earlier died in such a way that I was rewarded t
 
 Bummer. I wanted to see what "Flame Lance" does.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

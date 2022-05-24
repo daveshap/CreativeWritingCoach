@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The fleeting rays of orange sunlight poured in through the windows, casting a glow over the floorboards as they creaked under the weight of the groups slowly shuffling across the room. The air was uncharacteristically clean inside, only occasionally being filled with idle chitchat and the occasional burst of laughter from the groups hovering around the posting board.
   
@@ -87,8 +88,9 @@ Bit late, but liked this prompt to much to pass on it.
 
 r/IUniven
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

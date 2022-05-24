@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Well, now hold on just a minute." Dr. Riordan said, furrowing his brow. "You're *secretly* married? Why is it *that* a secret? That's got to cause no end of complications in your life!"
 
@@ -35,8 +36,9 @@ Riordan smiled. "You know, I've heard there's another version of your code, one 
   
 *Death, yet the Force.*
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

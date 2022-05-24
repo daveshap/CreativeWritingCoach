@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The long con...  
 
@@ -17,8 +18,9 @@ His Avatar would continue to make parody songs for generations, but he was also 
 
 (sure it's short... I lost focus.  However, I wish this so badly to be true, because Weird Al is absolutely one of the best of humanity.)
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

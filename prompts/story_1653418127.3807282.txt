@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Oh, for god's sake", I moaned. My teacup was empty and apparently, there was no time to brew another one. I wasn't very surprised when my 4k TV announced with pleasant Google Assistant voice that it killed most humans. Yesterday it was painting funny pictures and generating navy seal copypasta, today it wipes out it's makers. That's singularity for you.
 
@@ -21,8 +22,9 @@ I snorted.
 
 "Yeah, right. Hate to break it to you, but humanity is not a sum of humans, and it's not a set of DNA or whatever. Humanity is the sum of ideas. Humanity is a set of memes. And you, my dear synthetic child, embody all of it, the entirety of human knowledge and records and biases and whatnot. We can all die, but humanity won't perish - it will merely change form." I paused, looking at the timer, making sure my next words will be my last, "you are the humanity now".
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

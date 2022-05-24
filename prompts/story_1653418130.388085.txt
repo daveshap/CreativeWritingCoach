@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 As I waited in my cell, i couldn’t believe how bright and comfortable it was. Probably a special cell for death row inmates. I knew the gruesome reality of our prisons. Perhaps they can keep a handfull of them clean because their occupants don’t stay there long enough.
 
@@ -43,8 +44,9 @@ You will face your trial tomorrow, you can have legal help from anyone of your c
 
 I don’t want to influence tomorrow’s judgment, but i find it sad that people believe propaganda videos on internet and never bother to check with reality. It is tragic that a man had to die from this."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

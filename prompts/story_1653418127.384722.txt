@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Here's my story!! Beware, it's longnand incredibly rushed so, if there's any mistakes, don't throw a potchfork at me for it!
 
@@ -39,8 +40,9 @@ You were worried about whether or not humanity would survive in general, but you
 
 -- to be continued because I got lazy
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

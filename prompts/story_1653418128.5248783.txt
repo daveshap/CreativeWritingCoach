@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 # Bargain Bin Superheroes
 
@@ -43,8 +44,9 @@ A.N.
 
 Want to see who else the Sunrise King has fought? Check out [this post](https://www.reddit.com/r/bubblewriters/comments/mhzat1/bargin_bin_superheroes_masterpost/) for the other 95 parts of the story, and subscribe to r/bubblewriters for more.  If you have any feedback, please leave it below. As always, I had fun writing this, and I hope you have a good day.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

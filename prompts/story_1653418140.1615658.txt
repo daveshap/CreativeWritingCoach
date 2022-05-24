@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 
 Flashes of lighting, super speed, control over the ocean waves - with powers like these, my fellow superheroes save millions of human lives from their demise. I, on the other hand, save millions of human AND animal lives. 
@@ -38,8 +39,9 @@ I've stopped listening to the jokes and heckles, and instead, I dedicated my lif
 
 I guess all along, I was looking for validation in the wrong place.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

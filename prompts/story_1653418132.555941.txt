@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The mob was not the forgiving type, I knew I had to hide.
 
@@ -39,8 +40,9 @@ Then I tried to scream.
 
 And couldn't.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

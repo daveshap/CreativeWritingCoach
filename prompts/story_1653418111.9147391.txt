@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "And in breaking news our newest member of the hero society awakened his powers during the rescue of a kitten announced a member of a newscast, apparently our hero was incidentally also trapped in the burning abyss and that is when his powers kicked in. Our hero Tri...
 
@@ -61,8 +62,11 @@ He turned to face foward and saw a small women jabbing at the elevator buttons.
 
 Ding! The elevator's doors opened as if on cue wit
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The call me "The Cleaner," which always makes me laugh.  Sure, I take out my targets with nary a trace and clean up my clients' messes for them, but the real reason I find it funny is because it's truer than they realize.  I never wanted to be an assassin, but after getting mistaken for one half a dozen times *and getting paid for it* I figured, why not?  After all, it's not like they have any idea how I do it anyway.
 
@@ -9,8 +10,9 @@ What's my secret?  Ah, but that would be telling!  Still, it's not like you're g
 
 Now, any last words before I kill you?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

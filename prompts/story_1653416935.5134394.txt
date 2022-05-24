@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Love the idea. Have 2.
 
@@ -12,8 +13,9 @@ Love the idea. Have 2.
 
 &gt; An ancient creature once called this area home. It learned to pretend to be human and go unnoticed as it continued to live as a town grew into a major city. Every so often though, the glamour fails and panic ensues.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

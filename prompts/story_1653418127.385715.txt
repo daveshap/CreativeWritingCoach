@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I sat, looking up at the AI. "You have 3 minutes to state your case. Begin."
 
@@ -24,8 +25,9 @@ My eyes feel so heavy. I feel the dust against my cheek. Maybe someday they will
 
 Inspired by u/SirPiecemaker, whose person talked about nature.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The cold porcelain began to make his ear go numb as his brain searched for an answer to what he just heard. "What?" Was all that could escape his quivering lips. 
  Xavieck never held his father in high regard, in fact, his opinion of his father was better left unsaid. Routine months of being left alone with his younger sister Annavia, returning with broken bones, busted lips and large packages that suddenly went missing were enough to grasp the work his father did. Although Xavieck knew he should be eternally grateful for even having a father, the cons of who his father was outweighed the pros. 
@@ -31,8 +32,11 @@ Suddenly, with the swiftness of a panther hunting his prey, the soldier pulled o
 
 "He seemed to be doing better this week doesn't he" the man spoke while rubbing his forehead with one hand. "Yes, he is doing better than before" the woman said with a ha
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

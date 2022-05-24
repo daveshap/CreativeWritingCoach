@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Whoa," Ethan said, peering down at the weird creature. It looked *mostly* like a cat, except for its floppy, beagle-like ears. "Look at this little dude..."
 
@@ -77,8 +78,11 @@ The four looked at each other.
 
 "Whew!" Neko-Inu-Chan said, its voice returning to normal. "Thanks, you're really pulling my a
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It was all a bit confusing, to say the least. I didn't know what to make of it. I spent most of my days wandering around the gorgeous Colorado landscape, trying not to think too much about it all. It wasn't until I found myself at a local coffee shop that I started to feel a bit more at home.
 
@@ -185,8 +186,9 @@ I got dressed. I pulled on my jacket and put on my shoes. I needed to leave. In 
 
 "Of course. Where are you?"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

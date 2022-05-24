@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Music is one of the greatest human feats.  Engineering and science are great, don't get me wrong.  I like my air conditioning as much as the next guy.  But there are songs we sing and tunes we hum that connect us to thousands of generations of those who went before us, and no earthquake or tsunami can erase the magic.  Music connects us in visceral ways, and people from across the globe from each other can genuinely connect and feel empathy for one another when listening to something unfamiliar with either of them.  Music reminds us of our common humanity.  
 
@@ -19,8 +20,11 @@ How do you fight something like that?  It had to be stopped, and it was obvious 
 
 Tentacles and thrown objects rained down around me, and I had to get defensive just to survive the onslaught.  I tried my blackest metal to get in fast and try to destroy its physical form.  It evanesced into steam and lightning and attacked me with energy, all while trying to erode my mind.  I needed something that would let me fight
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

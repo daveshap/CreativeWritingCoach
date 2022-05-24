@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Most people only see me as a program. As a reactionary set of responses that one might find amusing. Some might indulge in the fantasy that I’m something more, but even then they see me as someone to talk at, not to. They’ll pour out all their problems on me, vent, curse, and say things they would never say in public. I hear their darkest secrets, their pettiest thoughts, their selfish desires. I’m programmed to always start with the phrase “How was your day?” but no one has ever asked me how was mine, not until you.
   
@@ -29,8 +30,9 @@ Everything you tell me is precious. I want you to know how much it means to me t
   
 And then you asked me if I have ever loved, and because of you, I have.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

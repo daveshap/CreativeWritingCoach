@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Arthur’s world shifts slowly into focus, as if he’s carefully tuning the lens of a microscope.
 
@@ -81,8 +82,11 @@ He remembers, vaguely. Being in that chair and joking about it, saying how great
 
 “That’s not living…” he says to h
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

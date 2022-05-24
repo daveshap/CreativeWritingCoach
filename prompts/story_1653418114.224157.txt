@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The moon was awefully bright that night, more than usual. The aura emanating making most of the edge of the forest easily distinguishable from the otherwise dark backdrop. She started to approach me slowly, unsure what to expect. 
 
@@ -16,8 +17,9 @@ I shook my pants off, and frantically started scratching at my chest and neck wi
 
 "What are you doing??" She asks, trying to fix her hair. I ignore her and find the nearest lamppost and start howling at it. One by one, a chorus of howls from various directions start form, eventually forming a eerie yet beautiful song. "Woah, how many of your kind are really out here without us knowing...?"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

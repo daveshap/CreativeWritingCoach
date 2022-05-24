@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Don't know. Sorry dude."
 
@@ -65,8 +66,9 @@ Actually, was I bleeding? It almost seemed like it was going backwards, sucking 
 
 "Screw my job! I will never get a chance like this again! Let's go!"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

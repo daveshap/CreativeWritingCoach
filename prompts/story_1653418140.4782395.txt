@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I always thought it would be really cool to be able to witness the heroics of HUE up close. The Hero Unification Entity had operated for a few years now, still in their early stages of unifying all of the people manifesting powers, but to be among them as “Dragon” never crossed my mind. It was as exhilarating as it was anxiety inducing. I was concerned about what would happen if I messed up. And my new teammates seemed to not yet warm up to me. 
 
@@ -73,8 +74,11 @@ Petra stepped forward and stared hard, the slight glow of her eyes going to a bl
 
 “I already told you I have magnets in my pants!” Trickst
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
   "Yup!" I yelled, yanking the reins on my horse, Apple Pie. She neighed and ran faster.
 
@@ -41,8 +42,9 @@ STORY:
 
   I stared at his face, which was blurry in the dark. *What?*
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I like to watch the people as they pass by. I like to see the expressions on their faces, the way they hurry to get where they're going. I like to see the children laughing and playing, and the parents rushing to pick them up. I like to see the lovers holding hands, and I like to see the people look around them and smile, and I like to see the old people walking slowly, enjoying the day.
 
@@ -19,8 +20,9 @@ He was still looking ahead, not looking to the left or to the right.
 
 And I couldn't scream for him to run. I couldn't tell him to move. I couldn't warn him in any way. He had to hold my gaze and smile that beautiful smile, and walk across the intersection, and then I couldn't watch him any more.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

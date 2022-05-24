@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 When Chale called Robert back, she was pleased. Already he had gotten rid of every last spider in the forest. Now she could rest easy. "You have done well, Robert. I do believe this calls for a reward." Smiling, she took him to her bedroom, wanting to savor what would happen. "Now, get on the bed." Robert, however, calmly turned towards her, calmly saying "No."
 
@@ -11,8 +12,9 @@ As she tried running out of her house, she was greeted with the sight of spiders
 
 "Sic 'em, Anthony."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

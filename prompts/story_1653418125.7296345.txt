@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It has been over 40 years since symptoms first manifested. *They* have been unrelenting in their purge. I have lost friends, families, loved ones, but still I carried on with my work. It is the only thing I have left now.
 
@@ -23,8 +24,9 @@ Let this memoir be a record of my journey and struggle. My name is Stephen Willi
 ___
 I write stuff sometimes, read more at /r/Unexpected_Works
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

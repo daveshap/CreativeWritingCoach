@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "A girl's trip", a trip to remember--that was an understatement.
 
@@ -88,8 +89,11 @@ Headlights on, Ginger floored it for the approaching storm, their dust drifting 
 
 (Word count: 800. Please let me know what you like/dislike about the post. Thank you in advance for your time and attention. Oth
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

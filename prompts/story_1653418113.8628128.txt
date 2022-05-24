@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Vraylar, Unrelenting Force, Fell Specter, Decimator of History"  wow someone was going full titles outside my door, that hadn't happened in, hmm I think it's been about three centuries, hell I thought the world had forgotten me, clearly I didn't live up to that last one properly.  
 "We of the united world alliance beseech and audience with you."
@@ -32,8 +33,11 @@ A sigh of contentment from the vampire.  "A deliciously made drink, I'd swear yo
 
 I shrugged then "I keep apprised."  pointed at each in turn "Mab of the Fae 3
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 _A feeling of deja-vu is perfectly natural_
 
@@ -37,8 +38,9 @@ Not that you’d ever know, but it was a good thing you hadn’t decided to go t
 
 Let’s just say, you might’ve worked this job before.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

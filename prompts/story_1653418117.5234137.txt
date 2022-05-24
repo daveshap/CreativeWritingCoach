@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Man It can't be hard..." said Errod Dankowski, as he went upstairs for another cup of coffee.
 
@@ -17,8 +18,9 @@ If a filter needed N points, and a coffee ground cannister had N points, then th
 
 He wrote a letter, and signed it 'E'. It would take the university years to learn about his discovery.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

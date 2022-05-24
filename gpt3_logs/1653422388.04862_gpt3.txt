@@ -1,0 +1,54 @@
+PROMPT:
+
+Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+
+
+STORY:
+================================
+
+**Empty Inside**
+
+Kate struggled with the antiquated padlock to the factory. The key fit, but after decades of disuse the mechanism refused to budge. As she shifted her hand, looking for a better grip on the lock, the rust caught the web of her thumb and tore at the skin.
+
+"Hell!" She jerked away, and tried and failed to find a painless way to hold her hand. "Worst *fricking* place for a cut," Kate mumbled. She'd wondered where she was going to go after this trip, and now she knew. Straight to a clinic for a tetanus booster. She eyed the padlock and considered abandoning her inheritance entirely. It wasn't like there was going to be anything valuable inside. But she'd come all the way to Detroit now, and that combined with her curiosity to make her try one more time. 
+
+She began to reach for the lock but pulled away when she saw the tiny drop of blood amidst the rust. Touching only the key, she gave it a twist to the right. This time, it turned easily, and the chain slithered out of the door handles when she lifted the lock. The rattle of the links striking the asphalt echoed between the decaying buildings, and dropping the lock provided a staccato punctuation.
+
+The doors to the factory opened with a thunderous creak, to the chittered complaints of waking bats. Decades of shifting foundations had apparently made the doors a little bit load-bearing, and Kate winced as cracks spiderwebbed across one of the few surviving windows when she stepped inside. The evening sun and the high-set windows combined to leave the shop floor covered in shadows. Darkness loomed over everything, only the vaguest shapes visible in the gloom.
+
+Kate fumbled with her phone for a flashlight as faint noises rustled in the blackness, some irrational fear crawling down her spine and finding a serious house on serious earth in her belly. *Something dwelled there*.
+
+She released a slightly hysterical giggle when the cone of illumination revealed only a black cat, retreating to its home in the empty engine bay of a half-finished car. Sweeping her light around revealed a glimpse into history, and she was suddenly glad she'd come.
+
+Gravity had done its slow work over the years, and puddles of grease lay beneath the machinery, never to be replaced. Cars in various states of manufacture and decay littered the floor. Between the broken windows of the factory and the vehicles, every one of Kate's steps was accompanied by the crunch of glass. 
+
+There were no straight lines between the workspaces, and Kate soon lost track of the entrance as she wound her way through the factory, taking pictures of the most interesting unique scenes of abandonment and dyspathy. She still jerked at unexpected sounds, and listened carefully for any that might be dangerous, even if she knew it was silly as she did so. But between her excitement and fear, she failed to keep track of her declining battery.
+
+Strangely, there was no noise the doors swung shut on their own.
+
+She was too far away too hear when the chains crept back through the handles, and when the lock, the single drop of blood vanished, clicked itself shut.
+
+When the newly cracked window shattered, there was no one left to hear it.
+
+WC: 553
+
+r/NobodysGaggle
+
+================================
+END STORY
+
+
+
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:
+
+==========
+
+RESPONSE:
+
+In your story, the protagonist, Kate, struggles to open a padlock on a factory door. The key fits, but the mechanism is rusty and refuses to budge. As she struggles, she cuts her thumb. 
+
+The rust catches the web of her thumb and tears the skin. "Hell!" She jerks away and tries to find a painless way to hold her hand, but finds that the padlock is too rusty to move. She decides to abandon her inheritance and go to the clinic for a tetanus booster. 
+
+As she steps inside the factory, she sees a black cat and begins to take pictures. She's excited to explore the factory, but becomes afraid when she hears noises and doesn't know where they're coming from. The factory is full of broken cars and machinery, and she's constantly stepping on glass. 
+
+When the chains creep back through the handles of the lock, and the lock clicks shut on its own, she's too far away to hear. The only thing she knows is that she's lost her phone and the flashlight. When the window in the entrance of the factory shatters, she's the only one left to hear.

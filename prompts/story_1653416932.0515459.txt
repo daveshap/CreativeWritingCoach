@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Had a lot of momentum. Had a good idea. Kinda fizzled out but I think I put a good spin on it.
 
@@ -58,8 +59,9 @@ Mom caught up with him, “But honey you don’t eat beef. Remember?”
 
 He glared at her, “I do now.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

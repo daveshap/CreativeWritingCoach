@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “How utterly troublesome.” 
 
@@ -50,8 +51,9 @@ As the brightness of the sun dwindled to signify the end of day, Asmongold’s b
 
 With Asmongold’s cage of salt gone, future historians are left to wonder. Was this a punishment from the divine or just the cogs of fate continuously turning?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

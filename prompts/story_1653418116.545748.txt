@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I reach into the nest and grab the animals young, I smash its weak form into my desk, before pouring it's guts into a bowl.
 
@@ -17,8 +18,9 @@ Next, the ultimate disrespect. I drop the lacerated flesh into the remains of he
 
 Soon, at last, my chicken strips will be complete...
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 A gold diped guard, rubys in the pommel. A gift for a warlord, and I was his greatist foe. The blade forged red hot was quenched in my living heart. And so I have inhabited that stretch of steel. I have revenged myself again and again. I tisted the Warlord's heart and turned him on his own wretched empire. And each who came after became my puppet. This night as the moon lay between to mounds of cloud a new hand pries me from my last sorry owner.
 
@@ -19,8 +20,9 @@ I wasn't a warlord's blade now. I was something she made me. A crude knife clutc
 
 They are a thin wretch of a boy, born to a whore and a dead man. He's two missed meals away from death, doesn't even have a name. I begin slowly, I whisper in the back of his mind "This world is full of scum, and some of them will pay you to kill the rest".
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

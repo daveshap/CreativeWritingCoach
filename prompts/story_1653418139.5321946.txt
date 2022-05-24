@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Who said I blamed them?" I said, coldly. This was no time for emotion. Emotions only clouded the mind in stressful situations. They were an unfortunate byproduct of an evolutionary line that was too smart for its own good. Emotions only served the fight, flight or freeze responses to danger. Adrenaline could be useful for a fight or to run the hell away, but it was dreadful on the cognitive mind. On the logical nodes and neurons required to solve an issue as complicated as this one was proving to be. 
 
@@ -29,8 +30,9 @@ I only hoped the security cameras could record sound as well. His dying screams 
 
 r/SlightlyColdStories if you want. Or don't. It's all up to you.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

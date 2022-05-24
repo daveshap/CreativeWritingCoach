@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The world ended on May 15th, 2022.
 
@@ -46,8 +47,9 @@ There are a lot of things it will do.
 
 r/dexdrafts
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

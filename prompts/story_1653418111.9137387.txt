@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "I have to be careful with it. I didn't realize that at first," Alex said. They turned stared into their half filled coffee cup absently for a few moments, as if about to continue. But did not.
 
@@ -23,8 +24,9 @@ Alex thought for a minute, then relaxed, a smile creeping onto their face. "You 
 
 The coffee was so-so.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

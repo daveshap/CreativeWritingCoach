@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Hunter saw the so-called “Safe Zone” for what it was. The administrators had long stopped hiding the fact they were vampires, and the werewolves stalked among them. This was a pen for growing human cattle so the more powerful could feed. And Hunter was going to save them all. The zombies were manageable, though they were ruthless. But better to fend for oneself than to be fed off to these more sinister administrators. Hunter would help them see beyond their ignorance. 
 
@@ -81,8 +82,11 @@ Hunter finally grinned, the analogy to cattle fitting perfectly now, but before 
 
 “I won’t need the body anyway,” ano
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

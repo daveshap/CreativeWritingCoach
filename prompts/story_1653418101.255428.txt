@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Two somber looking men take the stage. Both dressed in all black, and was differentiated only by height. One stood taller than the average man, and the other stood shorter than the average man. Otherwise, the same downcast eyes looked towards the gathered audience.
 
@@ -167,8 +168,9 @@ And Weird A.I. smiled, ever wider. In fact, he smiled so hard that the corner of
 
 r/dexdrafts
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

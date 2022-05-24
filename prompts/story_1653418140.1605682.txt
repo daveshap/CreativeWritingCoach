@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I watched the little tree that I planted quickly grew to a giant. It was such a beautiful sight, how the rest of the world could destroy something so precious?
 
@@ -32,8 +33,9 @@ They walked and waited expecting me to follow, so I followed them to the living 
 
 Good, now what do I do? I look at my TV, Superpunch is making a interview, his face still red because of the branch. Since I'm just a gardner, his garden would make a very good traning ground for my new powers.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Look! That famous celebrity will visit our city!" he exclaimed, pointing to the TV. "There's going to be a publicity event for the film you got us tickets to"
 
@@ -88,8 +89,11 @@ Ryan nodded.
 
 "I didn't tell you because I didn't want you to treat me differently once you new. And, well, you didn't notice mostly because you're very face blind." He offered a weak smile. "There was a poster of my on a b
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

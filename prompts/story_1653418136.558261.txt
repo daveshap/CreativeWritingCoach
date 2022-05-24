@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Taking a deep breath I stare at my son in the eyes. This has been a common occurrence in the past few days.
 
@@ -85,8 +86,9 @@ Once I was alone I sighed and pinched the bridge of my nose. For several minutes
 
 "Noooo!" All four of them screamed from upstairs.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

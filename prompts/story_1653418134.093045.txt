@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Lesson one green horns, Never. Settle. For. Massive. Civilian. Casualties. Always kill or at least cripple one hero, or you aint jack shit."
 
@@ -36,8 +37,9 @@ I flicked the cig into the sky and took out the lead duck in a flock headed sout
 
 "Now, let's start hacking up this corpse so you maggots can drop pieces in different cities across the planet."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

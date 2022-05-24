@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Well now that's just rude." My human friend said, looking over my shoulder. "I mean people still name their kids Murphy. And those kids could be assholes no one wants to talk to."
 
@@ -31,8 +32,9 @@ My claw lashed out and snatched the schematics he had under his arm, the same wa
 
 "Now what did you have in mind?"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

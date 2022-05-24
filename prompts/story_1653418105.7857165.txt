@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 They met twice a month, when both stars set together and the evening darkness was deep enough to cover footsteps.
 
@@ -79,8 +80,11 @@ She leaned over the glass and, beyond her own tearful reflection, she could see 
 
 Rial tried to pry open the glass. The priest had said never to touch it. That if they broke it, the human would die. Instead, they mus
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Omg its so cute!" 
 
@@ -35,8 +36,11 @@ After that averted disaster, Riya joined me by the counter and we both leaned in
 
 "I've done it, I've created a way to revolutionize the way we get deliveries!" Taking both of us by the wrist he drug us into his laboratory. Past his numerous creations, beakers of chemicals, and who knows what sort of mechanical contraptions, all the way to the
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

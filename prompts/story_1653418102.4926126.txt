@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Jesus christ you are hard to chase down. Im low on gas, low on food and still havent made my rescue quota. Get in!" She said with english laced with some eastern european accent.
 
@@ -15,8 +16,9 @@ STORY:
 
 "If I wanted to kill you why bring the beer with me. You can shear a sheep many times but you can only skin them once. You work with us and as you Americans used to say "You get 3 hots and a cot""
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

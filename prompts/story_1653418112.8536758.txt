@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 AITA for trying to help a woman get out of an abusive relationship?
 
@@ -15,8 +16,9 @@ Yet for some reason most of the people we know always take his side on things
 
 AITA?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 After the third cow screamed at Thomas, and squirted out the rancid smelling black milk, he had had enough. He tore off his gloves and stormed inside the two bedroom ranch house. Picking up the phone, he took a moment to peer out of the window towards the barn. The cows screamed again, this time at each other. There was no mistaking it for a common moo, this was an ethereal screech. The sky was well into dusk, the moon was full, and the streetlights in the small town of Duncecap, Massachusetts were notorious for flickering and fading if they came on at all. Luckily Thomas kept a few makeshift torches in the cellar. 
        The dial tone rang longer than he wanted. As he was tapping his feet against the linoleum, he heard the click of the other line,
@@ -25,8 +26,11 @@ After the third cow screamed at Thomas, and squirted out the rancid smelling bla
       Gerald nodded, keeping a hand over his mouth and nose to refrain from vomiting again. 
       “And the moon’s been full for that long as well. They struck me as odd the moment I laid eyes on them. They stick themselves up in that old manor up by Lake Drive. They been seen talking to the Coopers, and now nobody’s seen them in a while neither. Mary Anne, bless her old bones, she said she saw them come in not long ago and the mother Elwood was babbling under her breath about some potion or doohickey that can control the moon. Some folk say Mary Anne
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

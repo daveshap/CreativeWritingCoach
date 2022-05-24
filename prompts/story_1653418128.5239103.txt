@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I walked through the marketplace, surprised by the display of noblemen and women providing food and items to the poor for free, freely distributing riches to them all, including myself when I held out my hands. No questions asked. I decided to make conversation with one of the nobles preparing to leave, having given away all of the wealth he intended to give this morning. I wanted to know more about them, and they surely wanted to know more about me considering how interesting of a man I was.
 
@@ -94,8 +95,11 @@ I stared at him for a few moments. Randal had quickly turned from laughter to st
 
 “Some 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

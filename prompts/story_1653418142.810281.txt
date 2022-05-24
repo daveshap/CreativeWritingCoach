@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Mr. Baird fished a chess piece from his suit pocket and placed it gently on his desk. It was a bishop. "Do you understand?" he asked.
 
@@ -57,8 +58,11 @@ I stared at my pile of documents, then back up at Baird. From his eyes I could t
 
 I didn't like the tone of his voice. He knew from the start, didn't he? Then why the investigation? Did he want to play with me? Was that what the chess pieces were all about? A foolish cat-and-mouse played to entertain a bored
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

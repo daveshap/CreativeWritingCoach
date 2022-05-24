@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I kept my eyes closed and my head bowed as the door thudded in front of me. It would hold, I knew it for truth every time it rocked on its creaking hinges and settled back squarely. It would hold as long as it needed to. I had made it so.
 
@@ -37,8 +38,11 @@ Eventually, I was sure to outstrip him. I was conscious of greater things, after
 
 I snapped to my senses. I was barely a bird anymore. I was barely living! Rhodon Cassetlius, what madness took hold!? I eked out an energy shield, and the magic missiles that would have killed me thudded inches away from my skin. I sensed the change in the Cold Guest’s demeanor, but I dragged my soaring body through the air, over the final trio of rolling hills and into his concealed cave. As I detonated, I saw the comprehension in his eyes. This was the last time I’d get to use 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

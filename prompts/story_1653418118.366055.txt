@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Jack and Lana got out of the van and headed into the local grocery store hand in hand.  Dave leaned over an asked his sister, "How long do you think they are gonna take this time?  We're already three days behind schedule."  "I don't know.  Maybe if they didn't stop to kiss every time no one was looking, they could actually get something done for once." His sister Maria responded while rolling her eyes.
 
@@ -38,8 +39,9 @@ Epilougue
 
 The four were silent all that night other than procuring accommodations at the inn. This silence carried all the way until they were leaving town the next morning. As Maria looked out the window at the sky she could have sworn she saw two dragons dancing the sky, a black one like the one they saw last night and one with a blue color that strangely reminded her of the outfit worn by Suzanne last night. After rounding a bend in the road she could no longer see them, but it made her wonder, just what did being a dragon's mate entail?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

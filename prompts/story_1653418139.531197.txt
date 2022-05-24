@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The sentient coffee blob looked at us, shook a little, then excreted another proof.
 
@@ -89,8 +90,11 @@ Before the doors all closed on us, there had, in fact, been an alarm. But it was
 
 He pointed at Grok. "Why don't you ask him? He supposedly h
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

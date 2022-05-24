@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 AITA for… well, let’s just get right into this.
   
@@ -45,8 +46,9 @@ I say I was a hero, once, but in truth, I know not what I was or what I am. I do
   
 Crime is up now, so is unemployment and government debt. Society blames me. Do you?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

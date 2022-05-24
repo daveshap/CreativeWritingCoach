@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Sweat dripped down my nose, mingling with the blood that poured from my mouth. This wasn't going as well as it could. At least my headphones were still in one piece. 
 
@@ -38,8 +39,9 @@ As I strode to the parking garage where my personal car was parked, I fumbled wi
 
 r/SlightlyColdStories if you want. Or don't. It's all up to you.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Excerpts from the diary of the President of the first contact committee, 2042
 
@@ -158,8 +159,11 @@ I hung back, taking in the beauty of this wonderful meeting.
 
 The necromancers were convinced anaesthsia was the same as death and were demanding that the doctors
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

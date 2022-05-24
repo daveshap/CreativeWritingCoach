@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The first golden rays of the dawn kiss the highest branches of the trees, and with them come the howling.
 
@@ -49,8 +50,9 @@ We turn our backs on the frightened young man, and do not look back even when he
 
 Such is Her will.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

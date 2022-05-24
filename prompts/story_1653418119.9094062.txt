@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "W-what?" the diplomat in the white robes replied, "Oh great one, I simply do not..."  The team of travelers were exchanging worried glances.  They had journeyed countless light years to trace the precursor signal back to the chamber in the middle of a mountain-sized comet circling a star in a derelict system devoid of planets.
 
@@ -65,8 +66,9 @@ One by one the worlds went white, appearing to foam, then exploding outward ripp
 
 With that, the group stepped through.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

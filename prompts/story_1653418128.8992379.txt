@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “Wait a second, did you say the tragedy of Darth Plagueis the wise?? Palpatine is clearly manipulating you to the dark side Anakin!”
 
@@ -35,8 +36,9 @@ STORY:
 
 “Well, it all starts with having the high ground.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

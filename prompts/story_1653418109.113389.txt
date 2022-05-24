@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 He was shaking, his hands on his knees, panting. His opponent, clutching his ribs smiled through cracked teeth.
 
@@ -33,8 +34,9 @@ He turned and tried to run, the nature of Backhand's power made him able to abso
 
 "In the end... It has to be this way."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

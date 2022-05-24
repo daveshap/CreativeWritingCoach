@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 A single grain of sugar, placed upon a leaf. That was enough to attract a butterfly to perch next to it. When that butterfly took off again, the flap of its wings was seen by a child. That child ran towards it, wanting to see a butterfly up close for the first time. They ran across the road, forgetting to look both ways. Driving on that road was a businesswoman, who had to slam her brakes to avoid hitting the child.
 
@@ -15,8 +16,9 @@ After several long years, sending electrons and protons seconds into the past, t
 
 The machine powered up, the grain disappeared. The screens showed the grain made it safely to its destination, though a few millimeters in front of where it was aimed. It seems to have landed upon a leaf.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

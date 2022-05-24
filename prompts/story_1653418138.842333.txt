@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Eight thirty-two, eight thirty-two..." I muttered quietly to myself as I continued down the line, my steps light to avoid waking the sleeping tykes. "Ahh, this one?"
 
@@ -53,8 +54,9 @@ Not as strong as I had to be, but that's exactly why I'm here, isn't it. Besides
 
 Feeling the nurse getting slightly antsy I pressed a lingering kiss to the baby's forehead before gently easing him back into the cot. "Later, kiddo."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

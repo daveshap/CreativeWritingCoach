@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Most parents develop their kids fear very early on, taking extra care with specialists not to traumatize them too much. My parents didn't want to inflict such pain upon me, they couldn't bring themselves to hurt their baby daughter for the sake of a silly power.
 
@@ -49,8 +50,9 @@ I wasn't late. I wasn't going to be late. Not this time, not any time, not going
 
 Because my ability answered to my deepest fear, and I wasn't going to allow myself to be late ever again.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

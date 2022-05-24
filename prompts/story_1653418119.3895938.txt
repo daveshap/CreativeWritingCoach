@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "So, you took the whole village by yourself?" she asked with a bemused expression as she sat on her throne of skulls.  They were topped with a red cushion as skull thrones are notoriously uncomfortable.
 
@@ -65,8 +66,9 @@ After his wife stopped laughing she looked at him, then bit her lip again, "Oh, 
 
 "You're the first person in my life that made me laugh," she smiled, and kissed him, "And the only person who can continue to do so.  That's why I love you so much."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Catacombs Of Amazon
   
@@ -53,8 +54,11 @@ Catacombs Of Amazon
   
 	After she finishes peeing, she seals the piss bottle, pulls her pants back up, picks up her radio, and tablet; and clips them back onto her utility belt. Before she leaves the room, she takes a moment to peel back some of the sticker, only to find that the adhesive only adhered to one side. After she pulled, the whole wrapping came loose, off of the stick. Looking at the writing on the wrapping, she was surprised to see a map of warehouse, with a marked out path, leading to a destinatio
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

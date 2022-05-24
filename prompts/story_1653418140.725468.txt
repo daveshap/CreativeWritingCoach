@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Trigger warning: swearing
 
@@ -41,8 +42,9 @@ The last moments of my life were spiced up by time dilation, as, for a few secon
 
 The fourth dimension twisted me to madness as I drooled on the remnants of my sanity, with nothing to exist for me. I died of old age, having witnessed how the fourth dimension discombobulates us, humans.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

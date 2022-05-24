@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Ibn-Azar stomped into the torture chamber, where I was painfully stretched out on the rack he'd secured me to after my capture by his minions. He slammed a book down on the table  by the rack, and it fell open atop the torturer's instruments, displaying a couple sketches  I'd made.
 
@@ -55,8 +56,9 @@ If I turned him back, he'd return exactly as he'd been when I cast the spell, wi
 
 I guess I have a *pet rabbit* to take care of, now.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

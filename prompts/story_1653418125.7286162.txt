@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "That's impossible, Two," Operator One whispered in hushed tones. "There's only three Operators with edit access."
 
@@ -75,8 +76,9 @@ Then, everything was plunged into darkness as the sun in the sky disappeared.
 
 (I write many things. Check out my userpage for more: /u/NarodnayaToast)
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

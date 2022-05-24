@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Hey, look! I think we're passing by France right now!", Sheila said, giggling, as she looked out the panel window of transparent aluminium. "We'll always have Paris, Jay", she added, with a mock mellow voice.
 
@@ -23,8 +24,9 @@ As he relieved himself, he noticed something weird in the tangle of wires and ex
 
 There was great anxiety in Cardboard Town once again. The elders feared another full rotation of personel was on the way.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

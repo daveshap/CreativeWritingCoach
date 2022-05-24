@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 This doesn't work;
 
@@ -49,8 +50,9 @@ But, a cynisist? Who, by definition, must see the " darkness" in things, taking 
 
 Now, THAT , I say, dear sir, is.... Is NO hero. : (
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

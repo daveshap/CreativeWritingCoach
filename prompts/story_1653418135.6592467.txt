@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Cleo sighed, looking at the roof of the elevator as it makes its ascent. The thought of Laura boarding the plane to Italy, her eyes bright and hopeful as she waves, brings a tear to Cleo's eyes.
 
@@ -14,8 +15,9 @@ She sets her keys down in their waiting dish, slips of her shoes, and makes her 
 She barely has time to formulate the thought 'this is wrong' when she hears a voice call out 'you're losing your touch' from the loungeroom. That voice. She would know that voice anywhere. Caroline.
 This is going to be a long night.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

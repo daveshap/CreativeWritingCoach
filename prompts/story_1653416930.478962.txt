@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 nothing beside remains
 
@@ -37,8 +38,9 @@ The owl shuffled and preened. Then it took flight, letting the rising moon guide
 
 WC: 451
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

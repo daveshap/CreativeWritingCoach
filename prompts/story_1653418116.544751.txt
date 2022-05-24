@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Slice. Slice. Slice.
 
@@ -55,8 +56,9 @@ She looked deep into his despairing eyes, drinking in his muted, quivering form,
 
 “Come now, cheer up, will you? The pie tastes great! What’s in it, anyway?”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

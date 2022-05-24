@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I walked through the back allies, the worst ones in town, to get home from work.  They were dirty, and stunk of things best ignored.  If you could.  But it didn't really bother me.  My power wasn't flashy, but it worked when I needed it.
 
@@ -28,8 +29,9 @@ The woman who had been sparking suddenly screamed and started twitching.  The ot
 
 My dad was a history scholar, you see.  He wrote several biographies of US presidents.  And, naturally, I read them.  I always took one speech to heart - it helped me get over my fear of my bullies, my terror at the prospect of losing my mom after my dad died - shortly after the powers were first granted to adults and none of them had control - and even the small, day to day fears a person has.  Things could be a challenge, of course.  But FDR had it right.  There's only one thing to fear, isn't there?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

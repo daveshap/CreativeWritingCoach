@@ -2,11 +2,13 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 <<STORY>>
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional editor feedback with suggestions and examples to improve prose:

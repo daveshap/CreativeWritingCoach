@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Queen Oblivia walked tentatively through the rank, fetid dungeons. It was an amusing contrast; her pristine attire and the decrepit complex. Oblivia was worried. She certainly looked so. And the worries reached their peak at the same time she reached the prisoner.
 
@@ -31,8 +32,9 @@ It is only now - and only for a moment - that the prisoner locks eyes with queen
 
 If you want more real and/or boring stories you can read more of my work over at r/PlotHoleFullOfSnakes. ^(Stories are not guaranteed to be boring or real. If you find yourself enjoying an illusory story, consult your doctor immediately. The writhing conglomerate of snakes is not legally responsible for any injuries that occur from the abstract concept of literature.)
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Medena wouldn't have thought that she would find warmth around the cold body of Medusa. Her warmth came from the way she spoke, the way she behaved around Medena. She even had concerns and felt the burden of mundane stuff such as that morning when she looked into the clear water surface and sighed because the snakes were a mess. Medusa explained that sometimes they got moody and wiggled in all directions making her look like a buffoon.
 
@@ -21,8 +22,9 @@ Medena raised her head and offered another smile. She heard the snakes move and 
 
 Edit: *It*
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

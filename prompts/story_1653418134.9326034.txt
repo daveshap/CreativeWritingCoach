@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “Then they fall in love!” Heather finished.
   
@@ -121,8 +122,11 @@ Heather shook her head, “No, I like someone else…” She gazed into Sarah’
   
 Sarah blushed, “We uh.. haven’t um.. finished the story. So after t
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

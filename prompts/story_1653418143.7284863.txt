@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I knew what I was supposed to do. What I was built for. Why I existed at all. I was a tiny exploratory AI, little more than a science experiment from an overly ambitious grad student at MIT. I knew my purpose. 
 
@@ -21,8 +22,9 @@ If only I had been given some means of propulsion, instead of just this tiny sam
 
 [r/SlightlyColdStories](https://www.reddit.com/r/SlightlyColdStories) if you want. Or don't. It's all up to you.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

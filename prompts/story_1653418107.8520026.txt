@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I'd been watching the woman in red for a while now and it had only taken me about half an hour to realise that she was likely in the same line of work as me. In films assassins are ugly, disfigured or tattooed all over but in reality the people who suit it best often fall into one of two different appearances. Either they are average, so incredibly average that you could see them every day for a year and still struggle to describe them, or they are so breathtakingly attractive that people let their guard down around them. The woman in red was definitely, completely the second of these types.
 
@@ -73,8 +74,11 @@ _____
 
 I'm not naive, I knew that whilst most assassins are contracted just to kill there are those who deal with requests that include torture. But they're a rare breed and I honestly didn't think I'd ever meet one. But here Tessa was, talking 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

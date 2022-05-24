@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Four thousand one hundred forty-six point eight.  
 Margin of error… less than .00000000321.  
@@ -78,8 +79,9 @@ Number of Active Global Fission Stations Destroyed…440…
    
  
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

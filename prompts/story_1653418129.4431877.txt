@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The target laid prone, unable to respond to the swift ambush. Taking out her mall-cop guards was a cinch, at least it was, for someone who has been in this grim industry for years.
 
@@ -21,8 +22,9 @@ On the other hand, professionalism trumped tradition.
 
 There was a barely audible apology as the assassin quickly smothered her life out, as a gesture of mercy... and regret.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

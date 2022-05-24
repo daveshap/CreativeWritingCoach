@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The sun gazed happily upon Mac as he stepped into the town. His armor and clothing were thoroughly doused in blood. His sword hung by his side, his bow sling over his shoulder. His blond hair was now a mass of matted red-brown, dyed by blood, sweat, and muck.
 
@@ -58,8 +59,11 @@ He now climbed onto his so-called bed, and closed his eyes, already knowing what
 
 **He bolted. Running around his father, and into the kitchen, Mac grabbed his mot
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

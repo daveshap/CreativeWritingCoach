@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Is that all, then?" She asked dryly, the clicking of her heels slowly getting louder as she approached. The sting in her voice was noticeable, yet understated, in a way that only posh British accents can be.
 
@@ -41,8 +42,9 @@ I look up at her. She's completely expressionless. Bored, maybe.
 
 "What *are* you?", I think, but my vision is fading now. As her face slowly goes out of focus, and the world starts to get dimmer, my mind drifts back to the day I discovered my powers.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

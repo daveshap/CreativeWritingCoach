@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Blood and teeth on the floor. Vinyl discs stuck from every surface. Speakers broken and my mic stand twisted. I'm out of options. 
 
@@ -17,8 +18,9 @@ It didn't matter that MAX RADIUM was coming to finish me off. I couldnt hear his
 
 I stared from the floor, watching my strongest foe slow and melt. His features sagged. Bones and sinew liquified before the meat around them. He screamed. They always do. No one heard the gurgling sludge he became.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

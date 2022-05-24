@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 *"I have a story for you Reporter. One I've never told a human soul before; I take no part in who goes to hell."*
 
@@ -27,8 +28,9 @@ STORY:
 
 "Let me introduce you to some of my brothers and sisters. I get the feeling they would like you." He said, getting up and offering me a hand. They say that death is the next adventure, right? Well, I guess making friends with the Fallen populace would qualify as an adventure.... right?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Vulpira, Empress of Shadows, could have killed anyone of the seven other supervillains seated around her, but where was the fun in that?
 
@@ -69,8 +70,11 @@ The rest of the seven sighed (Terminus roared which his voxbox translated a a si
 
 Something crashed and Dr. Mayhem slumped forward in his seat. Standing behind him holding the handle of a ceramic tea pot was Martin. "I'm so sorry, dear. I didn't mean to interrupt your big meeting, but, I just didn't like how he was ogling you. I shouldn't have step
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

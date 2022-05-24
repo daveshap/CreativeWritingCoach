@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Mr. Anderson always seemed strange to me. Don't get me wrong, he was passionate about his job. He would go on long tangents, occasionally mentioning theories as it they were fact or telling stories that didn't seem to have any historical evidence.  He would talk about Julius Ceasar and other historical figures, mentioning oddly specific details about them that didn't seem to be historically doxumented yet hard to make up.
 
@@ -73,8 +74,9 @@ Hello! I hope you enjoyed this little story, I know it's not the best but I want
 
 You can read more stuff I wrote [here](https://www.reddit.com/user/Infamous_227/comments/u8zti6/things_ive_wrote/?utm_medium=android_app&amp;utm_source=share)
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

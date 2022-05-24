@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "What I do not understand," Rok-varr said, or at least that's what the translator on their wrist chirped, "is why your people seem to struggle to obey the Touching Rule so. What is it about humans that make it so difficult to abide by your own rule?"
 
@@ -49,8 +50,11 @@ Rok-varr sat back on their seat, and crossed their tertiary arms in what I had c
 
 [First four parts now compiled on my A03!](htt
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

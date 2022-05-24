@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The Control is a slight, unprepossessing man with long hair the color of a muddy river bottom, and brown eyes like dark cherry wood. He blinks often. It has been remarked upon in some circles, and the trait is now considered to have been common among precursor humans; after all, without magic of your own, how remarkable must the progress of the world seem? People smile when he blinks, wide-eyed and uncomprehending, as his head swivels back and forth like an infant in a brand new room.
 
@@ -59,8 +60,11 @@ He leaves Tabby at the door. She’ll try and fail to straighten his room, her m
 
 The Control steps out into the world. His dressing room is a carriage, mounted on heavy, bright painted wheels. 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

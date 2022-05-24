@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Will you be attending the ceremony that the Whimmies are holding in our honor your highness? asked the high priestess.  It would mean a whole lot to them if we show up even if just for a brief moment. It is thanks to them that your highness is able to maintain the battery of the luxurious aquarium active. Thus keeping your greatness' vast society of fish alive and healthy."
 
@@ -45,8 +46,11 @@ The slightly shorter but just as commendable sibling stared in awe as he tried t
 
 I beg your pardon Brother but these chambers are only accessible to me, explained the heavenly figure. I have made sure that if anybody with a different retina than the one i possess dared to enter the chamber of secrets their entire DNA Structure would be instantly disconfigured. 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

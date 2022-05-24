@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Back in the day, before facebook, before whatsapp, discord and all those other programs, there was AOL instant messenger, or AIM for short.  That was how I kept in touch with all of my friends, all my real ones anyway.  If you look it up today, it might look very primitive compared to something like discord, but it was new and amazing for me at the time. It let me talk to people I otherwise would have never had the opportunity to.
 
@@ -87,8 +88,11 @@ I wanted to badly to message this person. They wanted someone to talk to, about 
 
 The words “I don’t want to be around anymore.” were imprinted in my head, and I had this egotistic feeling that if I could just find out this person’s screen name an
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

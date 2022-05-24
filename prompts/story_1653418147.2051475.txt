@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 As I write down my last words I feel the need to explain myself.  For the last decade my name has been cursed, spat upon, and reviled.  My works have been called that of a degenerate, aberrant mind seeking to unravel life as we know it.  Of all those who knew the truth only I remain.  I doubt whoever reads this will believe me but this all started with a prank.
 
@@ -17,8 +18,9 @@ Dozens of tired, overworked, underpaid, and belittled service workers had access
 
 I don't expect you to believe me either.  People want closure after tragedy, not truth.  So yes please learn from my mistakes.  First, always build safeguards into your spells and second, never prank a cook.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

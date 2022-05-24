@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Its literally just the venetian snares album "Rossv Csillag..." 
 When the music stops, the horrors &amp; gruesome excruciation you have wrought brings you to your knees. All the fires increase visibility, as the lack of standing structures has caused the wind to whip up &amp; blow away the bulk of the smoke. 
@@ -21,8 +22,9 @@ Why, then, serve those who are so plainly weaker than you?
 
 As they pause to reload before another volley of impotent annoyance, your finger hovers for a long moment over a small triangular button engraved with the word "PLAY" in a boring &amp; perfectly crisp font.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

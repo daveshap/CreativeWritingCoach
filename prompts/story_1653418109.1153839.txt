@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 *Music has the power to make people do many things, mainly dance, for me, it was more factual that it made me do more. Right now though, the unthinkable happened. My playlist looped.*   
 
@@ -45,8 +46,9 @@ Link to the Song:
 
 [https://www.youtube.com/watch?v=zzICMIu5zFY](https://www.youtube.com/watch?v=zzICMIu5zFY)
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

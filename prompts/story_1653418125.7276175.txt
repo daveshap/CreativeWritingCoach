@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The Collection of Consciousnesses called Golbur sat on their crystal throne peering through the stream of the N-dimensional simulation. A steady stream of glitches pinged against their mindscape. Golbur bent the simulation into an isolation torus and slowed the stream until a single glitch was visible. They paused it. "Gotcha."
 
@@ -41,8 +42,9 @@ Golbur waved a hand and Julia popped out of existence, then they reverted back t
 
 \[More writing at r/c_avery_m\]
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

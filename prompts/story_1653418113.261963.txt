@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Chaos theory, or the Butterfly Effect is familiar with everyone. Everyone of us know that a butterfly flapping in Texas could create a violent storm in Brazil. To create dramatic stuff, it is easy.
 
@@ -21,8 +22,9 @@ The next day, after an exhausting flight, of course made free by some dumb luck 
 
 The day after that, the Internet is full to the brim with the story of a French guy trying to rob a bank using a grenade, but mistakenly bring a green avocado with him instead, and not realising it and use the fruit to threaten the staff. Yeah, that was hilarious, wonder why someone would be so dumb.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

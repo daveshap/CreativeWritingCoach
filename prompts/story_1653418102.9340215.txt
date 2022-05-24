@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I rubbed my eyes, and although I recognized him, something was off. His smile, too perfect, like it was copied from a promotional poster. His eyes, too bright. Tan, too dark. And there was a smell…something like old water and fish and the woods.
   
@@ -33,8 +34,9 @@ I realized what was wrong. He was actually 8 stories tall and from the Paleolith
   
 My daughter was crushed. She had wanted that pet Rock so badly…
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

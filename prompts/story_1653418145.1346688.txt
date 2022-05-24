@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “It’s morphin time!!” The jock yelled “tyrannosaurus!” 
 
@@ -19,8 +20,9 @@ One day class is about to get out and I see this new kid get grabbed by 4 random
 
 The end.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

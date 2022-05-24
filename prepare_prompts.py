@@ -15,6 +15,6 @@ files = os.listdir('stories/')
 for file in files:
     content = read('stories/' + file)
     if len(content) > 5000:
-        content = content[0:5000]
+        content = content[0:5000] + '\n\n #### STORY TRUNCATED DUE TO LENGTH #### '
     prompt = read('prompt.txt').replace('<<STORY>>', content)
     save(prompt, file)

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The two machines let go of my arms the moment I stood on the red part of the floor. It was in the shape of a brush stroke, a violent raw flick of red in the otherwise white canvas. So I knew the gun would probably appear from the wall in front of me. It also mounted a camera and a  speaker, and started to say the things we'd already heard two weeks ago, in the news, on our phones, on every single screen. I turned to see the steel doors had shut behind me. I was number 57, of the hundred people on today's roster, queuing for facility MAS-119.
 
@@ -89,8 +90,9 @@ I realized I was crying, and smiling, disgusted that I felt so sad about it but 
 
 I heard only my hurried breaths echoing in this chamber of white. The pattern of red on the floor pointed to the exit.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

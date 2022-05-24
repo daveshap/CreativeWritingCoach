@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Beep. Beep. Beep. Beep.
 
@@ -17,8 +18,9 @@ Is it that time again? Go ahead, Doctor. Pronounce the time of death. I'll see y
 
 Whine. Whine. Whi-beep. Beep.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

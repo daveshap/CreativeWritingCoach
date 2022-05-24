@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 A panel of older men sat behind a table and stared at me. Their occupations varied across the pediatrics healthcare field including a few child psychologists.
 
@@ -39,8 +40,9 @@ The old man flipped over the boy's resume and read through it again.
 
 "Yes, but valor isn’t everything this program aims for. If you continue to be your merry self, you will offer the others something the strongest magic cannot provide."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

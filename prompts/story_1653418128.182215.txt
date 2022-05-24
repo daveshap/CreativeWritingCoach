@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 They all said basically the same thing: "But Jeff, you're a programmer, why would you want to study magic?"
 
@@ -17,8 +18,9 @@ When he clawed his way out and asked my bidding I told him. "Give me a squad." T
 
 I really need to learn to unsummon.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

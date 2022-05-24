@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The crane towered above me like an angry uncle. My shoulders began to ever so slightly shake. Sweat slid down my cheeks in jagged lines. I had forgotten to slip, so slopping and slapping was a far fetched notion for me on this particular day and my skin was charring slowly. I wasn't really *there* that day.  I could already taste the sausage roll I would inhale at break time like I had so many times before. 
 
@@ -13,8 +14,9 @@ My mind started to wander aimlessly away from the monotony of my glamorous caree
 
 I was transported immediately back to the exotic western suburb of Penrith, the lunch bell had sang it's beloved song; smoko was upon us. I put the crane down carefully, ensuring I didn't wobble it too much and send the operators on a surprise trip to heaven. I lit a fag and called the missus.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

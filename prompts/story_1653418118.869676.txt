@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Here's to our new hero! Where he comes from we don't know! But he slew our greatest foe!" Cheered the young man standing atop a long table in the tavern with a raised flagon of ale.
 
@@ -41,8 +42,11 @@ Iestyn perked up at the old man. He demanded to know more about this fight. The 
 
 The pair make their way to the old man's camp, set up just on the outskirts of the town. Walking into the tent, Iestyn sits down on the ground, neglecting the many chairs around him. The old man rummages through his belongings, clattering sounds fill the tent as the old man searches. The cluttering stops, the old man slowly rises and turns to Iestyn, holding a potion
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The command had been issued. The room was suddenly quiet. Alan became aware of every breath he took. Each tick of the grandfather clock, a thunderclap. He looked across the table at his father, old and grey. He knew this was his destiny, but so soon? He tried to resist.
 
@@ -71,8 +72,11 @@ They drove to the hospital, exchanging minimal words. After getting checked in a
 
 Alan looked at his son, feeling like he'd already done it all before. Everything in him wa
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

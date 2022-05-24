@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Hero. It’s a word that burns my ears every time I hear it. Nobody claims this title for themselves; they have it thrust upon them by the lazy masses who really mean to say “save me”, “do more for me,” “sacrifice yourself for *me*.” They trail behind me like lost children, singing my praises. It makes me sick.
 
@@ -19,8 +20,9 @@ The ragtag band of do-nothings has followed me from one lair to another ever sin
 
 Next is the Emerald Wyrm of the Frozen East. Perhaps this time I will find peace, or I shall return to write again so as to seem too busy for these cretins’ loathsome conversation…
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

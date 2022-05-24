@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 As I sent the email asking for Morgan to print out the documents for the day, making up the excuse that our printer had stopped working, the elevator doors opened. I had written on the WhatsApp group for our team that I wanted to have breakfast all-together. Following the plan, everyone said they couldn't do it, but the impossible seemed to happen once again.
 
@@ -49,8 +50,9 @@ In hindsight, I should have been more specific with what I meant as I said she c
 
 "Thanks, boss. I had been waiting a *long* time to leave."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

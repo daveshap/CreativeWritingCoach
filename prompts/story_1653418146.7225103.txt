@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Time Traveler’s Log Day 1: I actually did it! I found a way to go back in time! Finally, those days of despair and pain are over. I will have her back, I just need to get her away from that spot. I missed her so, but today, that all changes!
   
@@ -89,8 +90,11 @@ Time Traveler’s Log 298: Every new idea I had to save her brought me hope, but
   
 Time Traveler’s Log: 330: I look back through the pages of this lo
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

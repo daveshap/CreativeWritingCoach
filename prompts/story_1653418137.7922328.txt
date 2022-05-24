@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I regret everything. 
 
@@ -25,8 +26,9 @@ When my body and I reach the last hundred meters of the conveyor belt, I curse w
 
 My body is being stuffed into a plastic box, set up like a barbie set. Loud, joyful colors cover the packaging with happy faces and polka dots. The box is twice the size of a coffin, and the trendy marketing text is slapped on the front. It says, "Necromancer's Dream Slave," and, "Lifetime guarantee. We'll even kill it again if its soul comes back!"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

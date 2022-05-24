@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Oh, screw you! Don't blame the science department for this mess. The science went PERFECTLY. It's not OUR fault that corporate decided to skimp out on the compound's security and containment systems!" Dr. Bentley said, hotly, jabbing a finger at Miranda, the corporate liason.
 
@@ -21,8 +22,9 @@ It was a little man with pointed ears and a long beard, about three feet tall, d
 
 "...what in the *f\*\*\** are we going to do with all these *gnomes?"* Thomas demanded.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

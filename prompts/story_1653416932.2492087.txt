@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Healer: Alright, here … we … go.
 
@@ -77,8 +78,9 @@ She grabs the kid and drags him outside away from the room. The child strangely 
 
 Healer: Listen here child. Your parents have died. You need someone to take care of you, yes? I will take care of you. Do not give me trouble.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

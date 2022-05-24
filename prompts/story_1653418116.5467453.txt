@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 You know, I hadn't noticed how much she manipulated me into doing these things.
 
@@ -21,8 +22,9 @@ So many tiny bugs that were crucified, arms splayed to embrace the skies, to be 
 
 But that was just my job.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 My eyes widened as hair wildly grew out of Sabrina’s arms. She let out a piercing howl that echoed in our living room. 
 
@@ -26,8 +27,9 @@ It was no use. Sabrina simply darted over to another window when I tried to shoo
 
 I would have to think of some sort of excuse to neighbors as to why there was a dog in my house, but at that moment I just hoped the music from my headphones would drown out the barking.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

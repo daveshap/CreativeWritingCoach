@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Angelica, pull the trigger..."
 
@@ -49,8 +50,9 @@ A great sand storm had formed around them. Jason guided the two to his truck and
 
 "The salt, we have to put it back in the sea!"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

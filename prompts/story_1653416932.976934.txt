@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 With the sudden and indeed quite violent in some cases return of magic across the globe you may suddenly find people close to you, friends, family or otherwise, developing powers beyond mortal reckoning. Siblings in particular are a tough case due to the natural tendency of magic to follow old mythical archetypes, manipulating and escalate sibling rivalries with sometimes fatal results. This Archetypal Personality Corruption Disorder(APCD) may seem to be a force beyond human ability to defeat but it is in function a mental illness which can have its worst impacts mitigated by a solid support network for the afflicted and proper understanding of the disorder and the circumstances of the afflicted. It is important to note however no matter how terrifying a witch's control over reality is or how much they may seem to be different from who they once were they are at their core the same sister or in very rare instances brother they were before, and so long as you don't let the mind clouding effects of magic make you forget that you will find it shockingly simple to settle into this new life. Still, some things are to be kept in mind to prevent possible archetypal escalation and generally survive a hectic new existence, which this guide should hopefully lay out in a helpful step by step manner.
 
@@ -25,8 +26,11 @@ Often times the changes brought forth by magic or related archetype are beyond y
 
 It can be easy to forget that the nascent witch is the same person they once were, but no matter what the archetype does to them it cannot change the fundamentals of their being, it can at most warp and distort. It must be emphasised that your sibling is still 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

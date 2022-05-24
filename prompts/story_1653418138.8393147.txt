@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 When I'm nineteen, a new program is started called the Timeline Adjustment. I signed up for it, even knowing that it might be years before it became a viable program. Then I lucked out, the beta testing of it becomes available when I'm twenty-three. 
 
@@ -15,8 +16,9 @@ If I manage to live to the point where there would be three versions of me, the 
 
 It doesn't matter. I *have* to do this. If there is even a small chance of success, that I can make sure younger me doesn't have to deal with the loneliness and heartbreak of being alone it will be worth it.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 There are those who look at magic and see a phenomenon that boggles belief and breaks down every universal rule known to man.
 
@@ -63,8 +64,9 @@ As for my magic, i know i am to use it one final time.
 
 I raise my hands, summon the power within, and begin to ressurect the sun before it turns into a black hole and swallows us all...
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

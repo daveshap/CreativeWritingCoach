@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Don't sign the form".
 
@@ -21,8 +22,9 @@ But after I had been given the edible tablet that would transform me, after I ha
 
 "Don't sign the form". Within the packet was the form asking if I would like to join the Peace Division. I had always wanted to be a part of the healthy conflict sector, to do away from those who would threaten our peaceful society. But the voice had spoken, I had spoken. And they have never once, in 7 years, been wrong. I took the form and then placed it into the shredder, waiting for the consequences to follow, as they always do, like dominoes.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Am I the asshole for trying to redistribute wealth?
 
@@ -19,8 +20,9 @@ We need a massive revolutionary redistribution of the wealth of the 1% to be red
 
 I could very well be the asshole, but am i? For only wanting a better life for all Americans by taxing the rich on income they don't NEED?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

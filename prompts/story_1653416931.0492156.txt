@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "I don't understand. You say there are no laws preventing you from sharing technology or scientific data."
 
@@ -29,8 +30,9 @@ Another long pause, this time from the Tyrrpol ambassador. "I apologize, we did 
 
 The Tyrrpol ambassador was still screaming when his neural net lost coherence.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

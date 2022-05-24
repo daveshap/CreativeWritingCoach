@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Cavalier Argonne stalked to the crude house. Noting the burned fields and and empty pasture. A kick to the door and he had to reel back as the kicked up dust left him coughing and sneezing. Staggering into the one room house he spied the two women living here. Still hastily packing.
 
@@ -23,8 +24,9 @@ The crone cackles again. "Oh the bit on being witches is a bit over done. One of
 
 "No witch could pull this blight upon the land ser knight. What magics they know are too shallow. The guardian of the fields has been possessed and the blood sown stalks are waiting to be reaped to infect other lands. Nine full moons. Never thought to question the count. Seek not a witch ser. Find the hidden maiden about to give birth. For she carries no messiah."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Seems a bit rude to just ask someone for their backstory, isn't it? Maybe like build more friendship points, increase happiness maybe? Also, why are you asking *me* for what I can do when I came here for *you* to help find it?" I snarked, thankful that no one could see me acting like this to a sentient mass of magical matter in my bedroom.
 
@@ -65,8 +66,11 @@ I grit my teeth at their callousness. "Fuck you. Just because I haven't tried hu
 
 "I never said you do not suffer. I just do not understand why
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

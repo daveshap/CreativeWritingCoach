@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The memory long forgotten, yet perfectly embedded in my psyche felt like it always had been there, it just had been  cloaked to my conscious mind and then reveled to me in an instant, understanding hit me like a comet from space instantly my mind presented me with three separate states of mind at three separate points in time. I remembered my past while knowing my present and seeing my future.
 
@@ -35,8 +36,9 @@ I know our civilisation is not the first chance our species has been given to lo
 
 I hope it is not the last
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

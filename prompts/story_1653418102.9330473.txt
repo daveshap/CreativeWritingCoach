@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Aaaaaaaaaaargh," 
 
@@ -81,8 +82,9 @@ Sara, on the other hand, was thrilled. So much so that she was struggling to con
 
 r/wordsofbrennan
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

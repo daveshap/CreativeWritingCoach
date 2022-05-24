@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The sun, honestly, could stand to rise a lot faster.
 
@@ -65,8 +66,9 @@ Ah, well. Anything to save a bit of money. I’ll treat myself during the honeym
 
 r/dexdrafts
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

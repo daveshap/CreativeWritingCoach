@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 My first time answering a prompt, I hope this will be to your liking.  
 Might be a bit dark…
@@ -37,8 +38,9 @@ He restored hydration to the criminal’s arms, which in turn caused more pain.
 He then carved ancient runes on the criminal’s arms and legs, finally he cast “surveillance”.  
 “I will know if you’ll try again to harm a woman, the next time you do, well… Your remains will paint the whole street. Now begone!” and he threw him out of the now unlocked window.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 My genetic divergence has been a pain in the ass, until now.
   
@@ -45,8 +46,9 @@ I used to think truth was in decline, no one knew what sources to trust, but now
   
 Fuck.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

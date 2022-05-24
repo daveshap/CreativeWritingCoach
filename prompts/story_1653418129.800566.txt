@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The fact that the ship was a little under seventy kilometers across, bobbed like a cork in water in our troposphere, or that telescopes had found that the 'wire' ended π light-seconds celestially north of our orbital plane, didn't change the disturbing feeling that this was all an elaborate gag.
 
@@ -29,8 +30,9 @@ The rest of the containment team looked at me. I looked back at them--grey faces
 
 Empty, vacant tracks, but *they were still moving.*
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I walk outside 6 minutes before the time of my birth 
 
@@ -67,8 +68,9 @@ My parents rush to the noise I lock the door to the bathroom, but my father one 
 
 I scream...
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

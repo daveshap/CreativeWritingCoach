@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I was naive to think that lives could only be saved through healing and to think healing was a noble art.
   
@@ -29,8 +30,9 @@ Spells meant to share pain between two people could also be used to share healin
   
 Though in recent days the most feared healer has been increasing their carnage. All of my spellwork has been simply to try to undo his vile deeds. I must wipe out the source of this hurt. So now, I stand before the dark healer’s tower, prepared to use death magic to snuff out life. I will heal this land by curing it of its plagues. Even if I must kill a healer to do it.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

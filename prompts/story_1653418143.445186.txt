@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I could hear someone giggle behind me. Was I hallucinating? A side effect of taking the drug that makes me look human is that I become somewhat of a psychotic human. 
 
@@ -86,8 +87,11 @@ Thermostat. Warm water. Phone. I quickly got stuff ready and handed her my phone
 
 "Here you go." I wanted her out as soon as possible. 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

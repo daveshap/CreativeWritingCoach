@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The colony had been doing well. It had grown from the original twenty thousand settlers to over two hundred and fifty thousand inhabitants. It all changed when another ship from Earth appeared. There were only five thousand people on it.
 
@@ -37,8 +38,11 @@ Except when she entered the conversion chamber, it locked her jailers out. She r
 
 She and the volunteers had expected the bureaucrats to renege. They knew the bureaucrats would not follow the long-term plan. They expected her to be singled out. Even if she had
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

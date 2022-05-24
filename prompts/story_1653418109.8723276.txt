@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 There’s a kid in my class who is a closeted writer. Jamie writes stories during lessons, sometimes even during tests. It’s somewhat distracting, even though he sits across the room from me. Because I, am a mind reader.
 
@@ -35,8 +36,9 @@ r/bluestarsshatter
 
 Author’s note: this is a small prequel from my My Girlfriend is a Mind Reader story you can read here on reddit
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

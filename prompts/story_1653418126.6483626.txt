@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 When people ask me what kind of person I am, I always stumble. How can one explain their inner personalities so easily? Some are "confident" some are not, some are good at something, some are not, some are "mature" some are "childish", some are evil, some are good, some believe in a thing, some dont... Yet, no one truly follows their ideals. Sometimes people say they're sensitive, but no one can truly empathize with everything and everyone. When it comes to it, being something is way harder than what people make it out to be. Even I, although am saying I cannot describe myself, it is impossible to not choose an identity. Maybe that's why we have these skins. Our virtual bodies. Regardless of who we really are, I've always believed we've created this simulation to be able to believe in an identity. 
 
@@ -13,8 +14,9 @@ I looked at my watch. Then I kept looking at myself. Then I looked at my watch. 
 
 Then I looked at myself. There I was. The lovecraftian monster that I am. The something.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

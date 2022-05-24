@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "I'm sorry?" One of them asked.
 
@@ -83,8 +84,9 @@ They were silent.
 
 "Then kill yourselves." The AI said. "It's simple. Suicide is easy. Just kill yourselves. Kill yourself."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 AITA for destroying a universe?
 
@@ -13,8 +14,9 @@ Of course, the goddess of light and creation got super mad at me, saying how “
 
 AITA?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

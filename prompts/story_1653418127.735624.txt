@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It was an exciting discovery, at first.
 
@@ -49,8 +50,9 @@ We had learned that an unknown doom hung over our heads, and we were entirely co
 
 So it goes.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

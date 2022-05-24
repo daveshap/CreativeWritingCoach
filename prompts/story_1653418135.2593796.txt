@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "I still don't understand."
 
@@ -55,8 +56,9 @@ Saanvi quietly selected the correct information and sent it forward. "We're curr
 
 More laughter. "I know. I just wanted to know if I could do that."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

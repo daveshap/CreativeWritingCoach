@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 **"You are worthy."**
 
@@ -51,8 +52,9 @@ Despite the pain-altering drink, my head begins to pound. It can't be true, it *
 
 The two smile. "That is all we ask."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

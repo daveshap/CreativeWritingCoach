@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 ‘I mean, when you think reincarnation you think living objects, sentient organisms, things that are really living, not some code nobody understands.’
 
@@ -41,8 +42,9 @@ The AI fell silent for a moment, and it’s screen dimmed a small bit, putting t
 
 And so, the captain left with a dishearten sigh.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

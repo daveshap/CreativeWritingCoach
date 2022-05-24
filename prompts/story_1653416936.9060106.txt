@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 On screen, a human sat on a flimsy piece of cardboard, hands outstretched.
 
@@ -91,8 +92,11 @@ Xithrar presses buttons and makes his character apply to jobs, any job. Eventual
 
 "... Guy that wastes hours of his life playing the lives of humans c
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

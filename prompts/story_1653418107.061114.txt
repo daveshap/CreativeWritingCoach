@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 “It’s just, what’s the point?”
   
@@ -229,8 +230,9 @@ Jordan shook his head, “I don’t trust power without consequence.”
   
 “A wonderful name. Alright Yevalra, friends it is.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

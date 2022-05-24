@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 When I first saw the new supervillains arriving, I was really looking forward to it. After all, it's been three years since my retirement and things got really bored here. Of course, there was still crime to fight. But it is a crucial difference if the heroes fight a weak shoplifter who can't do anything or a superpowered individual like me. However, my hope was very quickly destroyed, as they didn't stick to the codex.
 
@@ -21,8 +22,9 @@ So, today I am going to end this.
 
 With some research, I have found out how his hypnosis works. And I've designed glasses to stop it. As well as a shield that can block Bob's ice blasts. Today I'm going to beat their asses and release the heroes so they can regroup. And then I'll show them how to be a proper villain.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

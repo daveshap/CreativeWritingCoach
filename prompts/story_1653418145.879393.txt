@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Yeah I've met Julius Caesar. Helluva guy. Ever heard the story of how he was captured by pirates? Well, they took him and he gave 'em a verbal ass-whoopin' over the fact that he deemed their ransom amount to be too low for someone of his stature. The ransom was paid and he was freed. Then, he got an army, came back, and had them all crucified. Fuckin' brutal. I'd know- I was there. Swear to God!"
 
@@ -33,8 +34,11 @@ The kid, barely containing himself, muttered something about going to the bathro
 
 The kid ran around the house. The house
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

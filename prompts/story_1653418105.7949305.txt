@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Something prodded on the senses of It That Slumbers. Distantly, faintly, a call sounded from the depths of creation. Beasts howl in the night, and one of them is known to the unwakeable horror. Bes'ghaull spoke the names and drew in dirt the ancient signs.
 
@@ -13,8 +14,9 @@ She ran past it, into the night. Then she stopped. She turned to look back. Gazi
 
 "Good girl, Daisy," it says with considerable awkwardness. So acknowledged, she runs back into the gateway, to the chamber where It That Slumbers dwells until the great fire in the sky again rouses it. She lays down where It That Slumbers had slept, and stretches out horizontally across it.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

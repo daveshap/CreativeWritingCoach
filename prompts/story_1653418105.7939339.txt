@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "BEHOLD!" I exclaimed, raising all of my arms to the sky. "The eldritch God has returned!"
 
@@ -50,8 +51,9 @@ I opened the shed door once more. The bug bombs we had got from Tractor Supply l
 
 r/SlightlyColdStories if you want. Or don't. It's all up to you.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

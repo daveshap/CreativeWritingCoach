@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Do I **want** to go on a date? Hell no!" The assassin scoffed. BANG! The explosive sound of the gun rang out followed by the clang of a spent casing hitting the concrete. Smoke from the gun lingered as the assassin slowly walked over the corpse. One bullet sized hole in the forehead, and a mess of brain matter and blood in the back. 
 
@@ -57,8 +58,11 @@ The two share a brief silence before the patient says to call him Xavier.
 
 "Let me give you some background about me. I work alone, I go home to an empty house, the limited contact I have with people such as clients satisfies my bare minimum need for social contact but lately the loneliness is getting to me. My whole life I've had a persistent feeling of despondency within which I've learned to live with. I stuff it down with work and activity, I don't let anyone know of my weakness within, everyone who knows me only knows a certain part of me, but it doesn't matter because the people I meet often forget about me instantly. I've always hated conflict, in fact it's why I started my business, I guess you could say Im a conflict resolution
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

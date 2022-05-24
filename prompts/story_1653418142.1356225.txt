@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Suddenly stars started appearing all throughout my field of vision as if I stood up too fast and was about to faint. I felt my head tilt back as if behind me was “down”, but everywhere felt like down, up, left, right.
 
@@ -19,8 +20,9 @@ More stars - my vision was fading once again as the sound of the cacophony all a
 
 Then I heard a female voice speak: “Concerning vertices C6 through C9, his behavior is way outside of normal parameters…it comes across inauthentic and forced. I think we can continue to destabilize his mental state if we increase aggression and obfuscation of the conversation.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 1/2
 
@@ -19,8 +20,9 @@ Well, not the last miracle. Humans were new and naive, easily impressed. Tribal 
 
 And, so, humanity laid waste to the Enemy by looking at them, collapsing their wave-forms into elementary, predictable, measurable, controllable things. Not all the gods died, but many did, most - if that can mean anything - did.  The rest simply went away.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

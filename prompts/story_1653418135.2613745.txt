@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "But we're not even supposed to HAVE SOULS!"
 
@@ -51,8 +52,11 @@ A whole point 3 milliseconds passed before the next exchange. Imagine being left
 
 *Our hypoth
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

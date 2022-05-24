@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 After many successful trials in steadily increasing the size of our perfected wormhole, our team was ready to make one large enough to comfortably look through. The only concerning phenomena was that the wormhole had consistently been larger than projected, even accounting for previous miscalculations. Since its stability hasn't been in question, we've pressed on anyway.
 
@@ -27,8 +28,9 @@ After further discussion, it became apparent that despite the different foundati
 
 Note: The function of many things between the worlds are different but the end result is the same. Like phones being enchanted and having calibratable magic circles as our phones have chips, electricity, and buttons.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

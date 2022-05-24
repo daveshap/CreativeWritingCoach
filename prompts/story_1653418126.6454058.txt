@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It started out as a normal morning, you wake up at 5:30, get ready, grab something eat and you’re off to go to your job at the office. Except one thing…you’re sixteen years old again, and get this notification on your phone *warning, the simulation has a rip in it and your civilian will be experiencing age regressions…please remain calm as we are fixing the problem. Have a nice day*. 
 
@@ -11,8 +12,9 @@ I even had to discipline my boss, yeah thought I would have to do that…ever. R
 
 I look at the clock and see it’s only 12…”this is going to be a longgg day”. I say as I helped give a bottle to my supervisor.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It had been doomed from the start. We all knew it. It didn’t matter. This was a cause worth dying for. An eternal struggle that needed to be fueled.
   
@@ -45,8 +46,11 @@ She quieted a moment. Water dripped into the cell. She let out a sigh. “Guards
   
 “Choose where the waters take you, you said?” She removed her gloves. “And pray tell, what waters would you choose, would-be revolutionary?” My heart sped up a bit, but before I could answer- “You forget something very important, my former subject. These waters, the ones you were born in? Are owned. They are not free, and neither are you. But-” There was a measure of venom in her voice as she said it. “There is a place where the freedom you so desire resides. You and your friends will do well in exile to the Drowned Tomorrow, as will all who ally to your cause.” A cold hand gripped my heart as she le
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

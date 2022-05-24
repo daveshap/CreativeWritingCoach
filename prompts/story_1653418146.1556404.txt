@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Halt foul demon! I know of your true name and so you must obey my every command!" 
 
@@ -67,8 +68,9 @@ I wish I was so brave.
 
 No, I just ran for the hills like I always do.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

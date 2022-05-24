@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 That Bruce Wayne guy had the right idea. He was afraid of bats, so he dressed up as bats. Good shit, I say.
 
@@ -15,8 +16,9 @@ My parents were role models of people who hate children. As much as I try to lea
 
 So why is it that my brother's car crash left me with a child to raise?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

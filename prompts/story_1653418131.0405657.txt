@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Oi! Downloadddd" my mate yelled at me, as we sat in our college library. Pages on our notes fluttered with the gust of air blowing through the window. He wanted me to download this app he had written last night for our assignment. Me being the lazy one, I made my role in this project very clear. 
 
@@ -57,8 +58,9 @@ I switch on my phone and messaged him "Hey mate. all good? got our app graded. 8
 
 A notification popped from Rhika "Congrats!!"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

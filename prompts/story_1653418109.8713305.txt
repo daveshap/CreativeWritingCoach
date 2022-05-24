@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Everyday feels like blinking into a different universe, having my soul scattered throughout time and space. Everyone has thoughts, not all of them are interesting, but there is one channel I tune into everyday. One channel that I devote time and energy into tuning into. 
 
@@ -45,8 +46,9 @@ Another filler episode. Great. Thanks, Thuy.
 …
         All I can hear, much like an echo through space is Thuy’s voice. “At least I’m more creative than you, Alice.”
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

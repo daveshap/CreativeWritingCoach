@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The universe has never been without its sense of irony.  How else could one rationalize its greatest truth, that the most loved creatures ever to exist within it were also the source of the most hatred?  It was this nagging thought that had driven the Fallen past despair and to the brink of insanity.  Eons ago, the Fallen had rebelled against the Father, and while they had thought the Father merciful in merely banishing them for their treachery, over time it became clear that it was anything but.
 
@@ -15,8 +16,9 @@ Left broken and defeated, the Fallen retreated, unable to defend their disciples
 
 But for all their various tortures, perhaps the most ingenious agony inflicted by the demons was to leave the Fallen alone.  The Fallen were intentionally left to do nothing but watch helplessly as their dream turned to ash, and they were powerless to stop it.  All they could do was to hide themselves away and weep endlessly, for evil had conquered every corner of Hell, and their paradise was lost.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

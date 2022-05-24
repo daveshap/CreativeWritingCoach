@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Julian’s Holy Healing Gel- How to Use. 
 
@@ -27,8 +28,9 @@ Julian’s Holy Healing Gel- How to Use.
 
 (Other Side Effects may include body swapping, delusions of grandeur, trauma from falsely imagined deaths of loved ones, or slight nose bleeding. Please talk to your doctor if any of these happen to you.)
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

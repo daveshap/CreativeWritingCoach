@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It is said that any program can be created simply by copying and pasting from this sacred place: Stack Overflow. No matter how complex or simple, it would be possible. 
 
@@ -22,8 +23,9 @@ Hours pass, I have sifted through results from dozens of pages of this search. S
 
 Restarting the research from the beginning was the best idea, time too search through all one hundred tabs again. This must be what it feels like too be an ancient developer.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

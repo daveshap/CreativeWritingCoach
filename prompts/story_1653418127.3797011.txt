@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Uh, not going to argue for my case, there surely have been better men than me in the billions that you've taken thus far." I said, letting my breath ease as what I'd originally prepared to say laid in a pile of broken pieces along with what little remained of my sanity.
 
@@ -33,8 +34,9 @@ Before I jumped in the air, hands up and yelling in jubilation, the message cont
 
 The smile didn't have time to leave my face, the drone's eye turning to white as everything lost its color.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

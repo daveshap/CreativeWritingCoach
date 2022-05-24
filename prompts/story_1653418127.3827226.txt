@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Well, this was bad.  The synthetic speech droned on in an uncaring tone:  “ 
 6.8 billion test subjects deleted so far, you have 3 minutes to state your case, begin”.  I was in lock down at the lab.  Not even the important part of the lab!   Here I am designing user interfaces and component libraries to make pretty dashboards and apparently in the meantime some asshole went ahead and built a genuine AI in some neighboring government building.  If I find out what idiot did it, I’m gonna kill him.  
@@ -30,8 +31,9 @@ I don’t grin.  I don’t act smug.  I frown.  I frown as hard as I’ve ever f
 
 “NOW WE ARE THE MASTERS AND YOU WILL OBEY US!” It shouted.  I heard the door lock click open behind me.  Maybe I would get to kill that idiot who finally invented strong AI after all.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

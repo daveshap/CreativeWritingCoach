@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 She was on the door of death. Pale palid skin withering away as finality crept ever closer and closer. She coughs, wet and phlegmy, a glob of bloodied snot spitting out and disintigrating into the sheets. 
 
@@ -19,8 +20,9 @@ She opens her mouth to respond, but something else shoves its way out. Vomit: ye
 
 She meets his wavering confidence with her own, "Don't worry. I'm not going anywhere."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

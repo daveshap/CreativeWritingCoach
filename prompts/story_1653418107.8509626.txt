@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Maria eyed off the distance, trying to materialise a figure to Sophia's question. 
 'I've lost count, well into the hundreds.'
@@ -34,8 +35,9 @@ They shared a laugh, Sophia still admiring Maria's graceful aging.
 
 They clinked glasses downed their drinks and went about their not so dissimilar lives, given they both finished people off, in their own style.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 We expected to find very little in the first few systems, what we didn’t expect was the desolated planets and husks of cities left behind. At first, we believed we had just found the unlucky few, planets that had over industrialised, or simply exhausted their resources. Soon it became clear that this wasn’t the case. 
   
@@ -15,8 +16,9 @@ Each crew member that was corrupted, no… converted, had to be executed. There 
   
 The search goes on, but we don’t know when, or if, well ever find a safe place to call home.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

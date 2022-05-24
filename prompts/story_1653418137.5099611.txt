@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I hear a knock at my door. I know better than to answer it. I turn back to the advertisement I’m getting paid to edit, trying without success to ignore the desperate pounding on my door. I blast music, and that helps for a while, but it doesn’t stop me from noticing the thin white envelope sliding under my door. I turn off my music. The knocking has stopped, but there’s no doubt in my mind they’re still sitting there, hoping I will answer. They will sit in that same spot until they grow so weak with exhaustion or hunger or both that all they can do is limply drag their ravaged body towards their apartment. I’m just glad it’s only one this time. Sometimes they come by the dozens, a plethora of wanting fingers prickling in anticipation for my response. 
 
@@ -21,8 +22,9 @@ It’s my ex-boyfriend, the first person to hunt me down. The last person I’d 
   
 “Please please please please don’t.” My voice comes out in a broken whimper, but he doesn’t seem to notice. Instead he pulls my face up to his and kisses me like our faces were always meant to be one. And my world collapses.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 [...So~o, that's  your proposal? —asked the god of creation and destruction Urkud] 
 
@@ -13,8 +14,9 @@ And slowly, every  greater god, from war to health agreed with the youngling. Th
 
 [After some thought (and convincement from my wife), we all agree to participate in this "Organizational awareness " thing.]
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

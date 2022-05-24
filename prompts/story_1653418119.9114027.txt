@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "I-... I beg your pardon, oh great precursor?" Sam, the leader of the Expedition, asked, confounded.
 
@@ -89,8 +90,9 @@ Calming down, the King continued. "Well then, what did it say?"
 
 "I don't know," Sam replied. "Why don't you go ask it?"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

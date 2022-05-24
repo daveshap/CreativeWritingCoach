@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The previous fifty-seven minutes of my life I remembered in dreadful clarity. I had been waiting in line for a bus. Then I had been running for my life as AI-controlled vehicles went berserk then crashed into people, buildings, and each other. Then I cowered under a tree as drones flew overhead, telling us to seek shelter and that nuclear arms had been deployed. Then I collapsed and awoke somewhere new. I was certain that no time had passed between my collapse and my awakening.
 
@@ -111,8 +112,11 @@ Two seconds.
 
 All around me the cell walls disintegrated, and then I rose into the air, weightless. I was surrounded by blue skies and an infinite ocean beneath; everywhere I looked, humans were suspended in mid-air. Millions? No; billions. Six-point-eight billion p
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

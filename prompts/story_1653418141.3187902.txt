@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Veila grinned as the latch made a satisfying click, it was unlocked.
   
@@ -49,8 +50,9 @@ As time drew on the search for the princess by her family became more ardent, an
   
 While the trip was mostly uneventful, a day before they were about to reach shore they were intercepted by another ship. Once with red sails, of polished royalwood, a crowned queen at its bow, and, was named in bold print: The Inheritance.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

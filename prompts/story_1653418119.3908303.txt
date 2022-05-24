@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 With your husband by your side, you both enter the room of the monarch. Months of planning, even longer preparation, and a precise, swift execution. The neighboring kingdom had no chance. 
 
@@ -19,8 +20,9 @@ Having heard enough of what your actions have done, you draw your pulse pistol a
 
 "You fixed my shoulder!" :D
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 That's me in the corner crying.  I'm a fallen angel.  Lucifer was the first but not the last to question his lot of never-ending and thankless servitude to a neglectful parent.  I did too and met the same fate.  A great fall from pernicious heights.
 
@@ -23,8 +24,9 @@ From a neglectful and absent parent to one wallowing in despair.  I could do no 
 
 I don't want to be human anymore.  I don't want anything.  I'd rather be left alone.  You can't judge me until you've seen what I have down here.  You all are the worst.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

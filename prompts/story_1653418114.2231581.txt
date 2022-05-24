@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 It is a lie that we are whole.
 
@@ -45,8 +46,9 @@ They hide, and keep their secret.  Far, far better to be thought a monster than 
 
 Human.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

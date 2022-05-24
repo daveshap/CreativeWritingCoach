@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Darius sat sullenly while Asana paced the cell in which they were locked. She had been fuming for the better part of an hour and he a relatively sure that she would be up for talking soon.
 
@@ -77,8 +78,11 @@ Asana was still staring with wide eyes, so Darius said, "I don't understand, sir
 
 "I was like you once, but my daughter showed me that not all beasts are beastly, if you see what I mean. When I was younger, I could not have imagined my daughter marrying a flying lizard, but now 
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

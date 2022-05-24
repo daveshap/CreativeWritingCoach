@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
  "Now remember, a healing spell has some side effects. You may be tired, slightly dizzy, and DO NOT interact with anything strange you might see after. Let me repeat, DO NOT interact with anything strange you might see. Ready? Good." His voice is calm, steady, confident. He knows his instructions are good, but it's always easy for him to get anxious.
 It doesn't matter; it's just a simple healing charm. He should be able to handle this, he should... but there'a something in the room that scares him. A smell. Or rather the air itself, it feels foul, almost rotten. Like something that shouldn't even exist here, in this world. There are too many people, too much magic swirling around him. The only thing keeping him sane is the sound of his friends' voices.
@@ -10,8 +11,9 @@ He feels so alone, surrounded by strangers, not knowing where or when he is. He 
 The others laugh and agree. "Of course! What kind of healer would we be if we didn't make sure our patients got the best possible care!"
 Slightly offended, Bakugou scoffs, but his heart isn't really in it. It doesn't take long before they start leading him away from the main room, through a maze of rooms full of beds filled with unconscious bodies and the occasional spirit. He can tell there's nothing good about this place, that there's no way it'll be a good day for him. Maybe not even for his friends.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

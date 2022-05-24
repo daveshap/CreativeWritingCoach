@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 When I was turning 14 my Father passed away. I've asked my Mother how he died so many times, but she only tells me he was a brave man. Trying the best I can on nights like these, dark, raining, flashes of lightning illuminating silhouettes, I still can't remember that night. 
 
@@ -21,8 +22,9 @@ Someone had to be sending me a message, and I will follow these words until I di
 
 Don't let Them in.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

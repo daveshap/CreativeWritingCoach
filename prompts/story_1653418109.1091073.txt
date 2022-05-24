@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Damnit, this guy keeps going!" I thought to myself, crouched behind the half destroyed concrete wall of the building we'd been fighting in.
 
@@ -33,8 +34,9 @@ My headphones wailed.
 
 "ONE PUUUUUUUUUUUUUUUUUUUUUNNNNNNCCCCHHHH..."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Amelia and her would-be murderer were having a lovely evening, all things considered. When the tall, handsome stranger had confronted her in her apartment, and told her that he had been hired to kill her, and meant to complete the contract,  he'd also asked her for a last request, saying he'd grant it, if it was in his power.
 
@@ -59,8 +60,11 @@ When Amelia woke up, she wasn't in her apartment. She was laying on a double bed
 
 On the night stand by the bed, she found a very thick stack of $100 bills, and a sheaf of legal documents, including a driver's license, a passport, and a birth certificate. The pho
 
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

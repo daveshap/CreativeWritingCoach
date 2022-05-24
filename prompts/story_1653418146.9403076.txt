@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 Look, I know what you're all thinking. A young child seeing things that aren't there. Seeing people in ways that aren't true. Obviously some kind of psychosis. Needs medication and careful monitoring. Everyone involved wants what's best for the child - that dreadful mantra repeated over and over to excuse any intervention. 
 
@@ -25,8 +26,9 @@ So here we sit. A boy who was late one too many times. Another boy who didn't tu
 
 What did I see in this mirror, do you think?
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

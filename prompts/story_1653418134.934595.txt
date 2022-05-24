@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Did you hear that?" Circe sat up.  
 "No? What is it?" As always Medusa was wary of the unexpected.  
@@ -23,8 +24,9 @@ With a shaking voice, she managed only two more words:
 
 "My love?"
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

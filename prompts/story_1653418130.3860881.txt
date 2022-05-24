@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 "Why?" I echoed, idly touching the scabs and scars covering my bare lower legs. I looked up at her royal majesty through the bars of my cell, at her beautiful dress and her expensive juwelry. Her very presence, sitting on a cheap chair in this dark and unadorned prison, felt vaguely wrong. A steeper contrast than between my prison rags and her expensive clothing was barely possible. But yet, here she was.
 
@@ -19,8 +20,9 @@ I cut her off. Maybe she had wanted to sympathise. Maybe she had wanted to apolo
 
 "And that-" I told her, grinning with a mix of anger and sadness "-that is exactly the reason why."
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

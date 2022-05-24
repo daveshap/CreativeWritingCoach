@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 The Sol System was a rare jewel. The planets were rich in resources, and the sun was a stable and powerful one. It was no wonder that so many races wanted to claim it as their own.
 
@@ -149,8 +150,9 @@ The warden stared at the ball. He wanted to call the thing a figment of his imag
 
 The ball split open, and a black tentacle with a sharp, scaly claw at the end of it, reached out of the ball and tried to touch the warden's face, and the warden, who was a brave man, and a veteran of many battles, screamed, and backed away. He stared at the thing, and it stared back at him.
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:

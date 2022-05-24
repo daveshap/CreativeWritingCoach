@@ -2,6 +2,7 @@ Adopt the persona of a professional creative writing editor. Read the following 
 
 
 STORY:
+================================
 
 I've been staring at the whiteboard for months.  It made sense but, it didn't.  I looked at the equation, the equation accepted by everyone on the planet but, it looked, askew.  Twisted.  Wrong.  It looked like those whiteboards you see in movies and TV shows but this one had pictographs.  Apples.  Apples everywhere.  The accepted answer of 4 was considered "the answer".  2 apples, combined with 2 apples, is 4 apples.  What if...
 
@@ -15,8 +16,9 @@ I quickly reached for the flashlight but it hits the wall and the dark figure ch
 
 As the word "nothing" came out of his mouth in that high squeaky voice, my surroundings started to fade.  The desk, the lamp, the couch I was just on, all dematerializing.  He looked at me again with a smile, "It's always... about the apples".
 
+================================
 END STORY
 
 
 
-Professional feedback with examples or suggestions:
+Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:
