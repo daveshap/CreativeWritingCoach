@@ -1,4 +1,5 @@
-Adopt the persona of a professional creative writing editor. Read the following story and provide detailed feedback to improve the prose. Hold the author to the highest literary standards. Feedback should be open-ended and include examples or suggestions:
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
 
 
 STORY:
@@ -94,4 +95,4 @@ END STORY
 
 
 
-Provide detailed professional feedback with examples or suggestions in the format of a complete paragraph:
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback:
