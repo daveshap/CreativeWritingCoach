@@ -130,4 +130,6 @@ END STORY
 
 
 
-I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback:
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:

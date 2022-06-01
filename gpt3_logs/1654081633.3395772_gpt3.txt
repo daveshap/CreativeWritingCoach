@@ -1,0 +1,36 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+Love the idea. Have 2.
+
+&gt; There's a certain swingset in a certain park. Swing on it at just the right time and jump off at just the right height and you can escape this town...
+
+&amp;nbsp;
+
+
+&gt; An ancient creature once called this area home. It learned to pretend to be human and go unnoticed as it continued to live as a town grew into a major city. Every so often though, the glamour fails and panic ensues.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback:
+
+==========
+
+RESPONSE:
+
+Your story has a lot of potential, and I love the idea. However, there are a few areas that could use some improvement.
+
+For example, in the first paragraph, you might want to be more specific about the swingset and the park. What kind of swingset is it? What kind of park is it? What time of day is it? These details can help to set the scene and give the reader a better sense of place.
+
+In the second paragraph, you might want to describe the creature in more detail. What does it look like? What does it do when it is pretending to be human? Again, these details can help to create a more vivid picture for the reader.
+
+Overall, you have a great start to a story. With a few more specific details, it will be even better.

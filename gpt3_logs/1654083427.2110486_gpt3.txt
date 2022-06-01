@@ -1,0 +1,31 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+Okay, I didn’t *mean* for it to happen. I won the lottery. My family and I are well off and have no real need for a billion dollar. Plus, my partner and I are trying for a baby. We assumed the enhancement would pass down to them. We stopped trying pretty soon after the enhancement. I mean, what kind of evolutionary enhancement is an extra set of arms? Sure I could do things twice as fast and hold twice as many things. But the arms weren’t exactly…the right age. It was dumb of me to assume a genetic enhancement would automatically match my body’s current age and physical strength. So now, here I am. Stuck with an extra pair of arms that have the mobility and strength of toddlers’s arms.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+The opening sentence of your story is intriguing and really made me want to read on. However, I felt that the rest of the story did not live up to the promise of the opening line. In particular, I felt that the story was very rushed and could have benefited from slowing down the pace a bit.
+
+Additionally, I felt that the story was quite simplistic and could have benefited from more development, both in terms of plot and characters. In particular, I would have liked to see more of the protagonist's internal conflict and struggle with the implications of the lottery win.
+
+Overall, I felt that the story had potential but needed more development in order to truly shine.

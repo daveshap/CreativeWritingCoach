@@ -1,0 +1,43 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+"Man It can't be hard..." said Errod Dankowski, as he went upstairs for another cup of coffee.
+
+"I just checked their site, and these problems look typical, just with a bunch of extra symbols reserved for someone with a degree."
+
+At this point the coffee filter was empty. He knew it would be easy to solve the P=NP problem by simply refilling it.
+
+If a filter needed N points, and a coffee ground cannister had N points, then there would be N points to refill it. Take from the cannister, and the filter was receiving from something that existed outside itself.
+
+"Well that was easy." he thought, having solved the problem in about 30 minutes, plus a few hours turning it into a program.
+
+"All I had to do was draw from infinity."
+
+He wrote a letter, and signed it 'E'. It would take the university years to learn about his discovery.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+Your story has potential, but there are some areas that could be improved. For example, your dialogue could be more realistic and natural. In the first sentence, Errod's dialogue sounds like something a person would actually say. However, in the second sentence, his dialogue feels stiff and unnatural. It sounds like he's giving a lecture, rather than having a conversation. Try to make your dialogue sound more like how people actually speak to each other.
+
+Another area that could be improved is your description. In the second paragraph, you give a brief description of the P=NP problem. However, this description is too technical and difficult to understand. Try to make your description more accessible to the average reader.
+
+Overall, your story has potential. With some revision, it could be quite good.

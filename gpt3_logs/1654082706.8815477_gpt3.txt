@@ -1,0 +1,91 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+The colony had been doing well. It had grown from the original twenty thousand settlers to over two hundred and fifty thousand inhabitants. It all changed when another ship from Earth appeared. There were only five thousand people on it.
+
+The original colonists found out too late these travelers were not looking for a place to build from scratch. They were looking for an established colony that had already done all the hard work so they didn't have to. They wanted all the benefits of living on a world with vast resources without having to invest their blood, their sweat, their generations of families to obtain those benefits.
+
+In less than fifty years, the colony went from being self-sufficient to being in crisis. The late-comers saw no reason to conserve resources, fought all plans that would help their children live a better life down the road if it meant they had to suffer inconvenience today.
+
+She grew up watching the slow decline of her world as the late-comers eroded all the hard-won gains of her family and the families of the original colonists. She knew her children would suffer, and their children might not even reach adulthood. She knew there would be no help from Earth, or anywhere else. It was up to her to save the colony from its eventual destruction at the hands of the late-comers and their offspring. 
+
+The late-comers and their offspring had inveigled their way into the bureaucracy. Openly fighting them would waste too much time and still the colony would be at risk of collapse. She looked around and found many others who saw what she did, but were hamstrung at every attempt to reverse the accelerating decline.
+
+Together they formed a plan. They would make the late-comers an offer they couldn't refuse. Already the colony's power grid and infrastructure was being stressed to its limits. The late-comers refused to cut back their over-consumption, forcing the rest to suffer. 
+
+She knew the late-comers and their offspring refused to consider the future. The present was all that mattered. She counted on their short-sightedness. It was the key to saving the colony.
+
+She met with the bureaucrats. She showed them the forecasts – total colony collapse in a generation or two unless changes were made. They protested that resources were already stretched thin. They refused to admit it was their greed, their insatiable appetite for comfort that was the cause. 
+
+She expected their resistance. She presented her plan. They were shocked and appalled until she explained that others had already volunteered. Because none of them or their families would be required to contribute, they signed off on her proposal. 
+
+She and the volunteers built a repository. It was to hold the very essence of four hundred of the colonists. Their possessions, their property would be converted from matter to energy. The repository would convert their flesh-and-blood to energy while storing an image of them. To the volunteers, it would seem to happen instantaneously. They would be, not be, and be again in a blink of an ey. 
+
+The repository would hold a record of them for four hundred years. The energy their sacrifice would provide the colony would ease its crisis and allow the colony the breathing room to build itself back up. 
+
+She gave them a well-designed plan for fixing the issues the colony was dealing with – food shortages, energy shortages, aging infrastructure, and many other issues. It would take several generations, but the sacrifice of the volunteers would not be in vain. 
+
+The plan stretched over three centuries, but if followed, the volunteers could be restored to life at the end of the third century without causing the colony any hardship. Plus the volunteers would be re-entering life in a stronger, more robust colony than they left. 
+
+The day came. Three hundred ninety-nine men, women, and their children entered the conversion chamber one by one and had their lives entered into the repository. Before doing that, they had delivered their worldly goods to the recyclers to be converted to energy to be stored for future use.
+
+As soon as she informed the bureaucrats the conversion of the volunteers had been completed, she was arrested and charged with their murder. At the trial she admitted the process effectively killed them. She tried to explain the process could be reversed in an instant, and to the person, it would be as if it had never happened, but the bureaucrats still demanded she be punished. They demanded she suffer the same fate as those she had killed.
+
+Except when she entered the conversion chamber, it locked her jailers out. She remained untouched and unconverted. For the next three centuries, she remained in the chamber. Some said she slept, others said her eyes never closed and followed you all the time you were in the chamber room.
+
+She and the volunteers had expected the bureaucrats to renege. They knew the bureaucrats would not follow the long-term plan. They expected her to be singled out. Even if she had
+
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+The colony had been doing well. It had grown from the original twenty thousand settlers to over two hundred and fifty thousand inhabitants. It all changed when another ship from Earth appeared. There were only five thousand people on it.
+
+The original colonists found out too late these travelers were not looking for a place to build from scratch. They were looking for an established colony that had already done all the hard work so they didn't have to. They wanted all the benefits of living on a world with vast resources without having to invest their blood, their sweat, their generations of families to obtain those benefits.
+
+In less than fifty years, the colony went from being self-sufficient to being in crisis. The late-comers saw no reason to conserve resources, fought all plans that would help their children live a better life down the road if it meant they had to suffer inconvenience today.
+
+She grew up watching the slow decline of her world as the late-comers eroded all the hard-won gains of her family and the families of the original colonists. She knew her children would suffer, and their children might not even reach adulthood. She knew there would be no help from Earth, or anywhere else. It was up to her to save the colony from its eventual destruction at the hands of the late-comers and their offspring.
+
+The late-comers and their offspring had inveigled their way into the bureaucracy. Openly fighting them would waste too much time and still the colony would be at risk of collapse. She looked around and found many others who saw what she did, but were hamstrung at every attempt to reverse the accelerating decline.
+
+Together they formed a plan. They would make the late-comers an offer they couldn't refuse. Already the colony's power grid and infrastructure was being stressed to its limits. The late-comers refused to cut back their over-consumption, forcing the rest to suffer.
+
+She knew the late-comers and their offspring refused to consider the future. The present was all that mattered. She counted on their short-sightedness. It was the key to saving the colony.
+
+She met with the bureaucrats. She showed them the forecasts – total colony collapse in a generation or two unless changes were made. They protested that resources were already stretched thin. They refused to admit it was their greed, their insatiable appetite for comfort that was the cause.
+
+She expected their resistance. She presented her plan. They were shocked and appalled until she explained that others had already volunteered. Because none of them or their families would be required to contribute, they signed off on her proposal.
+
+She and the volunteers built a repository. It was to hold the very essence of four hundred of the colonists. Their possessions, their property would be converted from matter to energy. The repository would convert their flesh-and-blood to energy while storing an image of them. To the volunteers, it would seem to happen instantaneously. They would be, not be, and be again in a blink of an ey.
+
+The repository would hold a record of them for four hundred years. The energy their sacrifice would provide the colony would ease its crisis and allow the colony the breathing room to build itself back up.
+
+She gave them a well-designed plan for fixing the issues the colony was dealing with – food shortages, energy shortages, aging infrastructure, and many other issues. It would take several generations, but the sacrifice of the volunteers would not be in vain.
+
+The plan stretched over three centuries, but if followed, the volunteers could be restored to life at the end of the third century without causing the colony any hardship. Plus the volunteers would be re-entering life in a stronger, more robust colony than they left.
+
+The day came. Three hundred ninety-nine men, women, and their children entered the conversion chamber one by one and had their lives entered into the repository. Before doing that, they had delivered their worldly goods to the recyclers to be converted to energy to be stored for future use.
+
+As soon as she informed the bureaucrats the conversion of the volunteers had been completed, she was arrested and charged with their murder. At the trial she admitted the process effectively killed them. She tried to explain the process could be reversed in an instant, and to the person, it would be as if it had never happened, but the bureaucrats still demanded she be punished. They demanded she suffer the same fate as those she had killed.
+
+Except when she entered the conversion chamber, it locked her jailers out. She remained untouched and unconverted. For the next three centuries, she remained in the chamber. Some said she slept, others said her eyes never closed and followed you all the time you were in the chamber room.
+
+She and the volunteers had expected the bureaucrats to renege

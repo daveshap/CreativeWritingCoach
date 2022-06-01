@@ -1,0 +1,38 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+Flashing in front of his eyes was perhaps the most broken of powers. 
+
+In the year 2200 humanity awoke their planetary core, a phenomena which took the dreams and thoughts of its inhabitants to turn into attributable powers. To maintain balance, all powers had certain restriction. Super speed and flight burnt proportionate levels of calories accounting for distance and speed. Super strength was stored strength which required days of weakness to have minutes of combined strength.
+Among them all, powers which came with restriction predetermined were the strongest. For they weren’t restricted by the laws of the core but limitations imposed by humanity. 
+
+Today, a mythical power was awoken.
+
+The only instruction given being:
+
+“Don’t touch the snail”.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback:
+
+==========
+
+RESPONSE:
+
+Your story has a lot of potential, but there are a few areas that need improvement. First, your opening sentence is confusing and unclear. What does it mean that the protagonist's power is "perhaps the most broken of powers"? This needs to be clarified.
+
+Next, your story jumps around a bit too much. You introduce the concept of the planetary core, and then suddenly jump to the year 2200. It would be helpful to provide some more connective tissue between these ideas.
+
+Finally, your ending is abrupt and unsatisfying. What is the point of the story? What does the reader learn from it? These are important questions that need to be addressed.
+
+Overall, there is a lot of potential in this story, but it needs to be more clearly developed. Keep up the good work!

@@ -1,0 +1,29 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+He stood alone. Lost. Looking in every direction. Abandoned. The high ceiling and narrow walls made his anxiety worse. The tears started to well in his eyes. "I'm a big boy. I can do this." He tells himself.
+
+ He sees her red shirt and her familiar hair. He runs up to her. Embraces her leg. She looks down. He watched in horror as her face changed from his mother's to another. Tears couldn't be held back. Then her voice screamed from the end of the isle. "Get over here you rug-rat. You have to stay close to mommy in the store."
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+The opening of this story is very strong and evocative. We immediately feel sympathy for the protagonist and feel his anxiety and confusion. The use of detail in the description of the store is also excellent. Where this story falters slightly is in the shift from the mother to the stranger. This change is not entirely believable and feels abrupt. Furthermore, the dialogue feels stilted and unnatural. With a few small tweaks, this could be an excellent short story.

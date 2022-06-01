@@ -1,0 +1,50 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+It is said that any program can be created simply by copying and pasting from this sacred place: Stack Overflow. No matter how complex or simple, it would be possible. 
+
+The search began with a basic browser window, this relic machine came with one built in called google chrome. Was this the google that nearly achieved world domination in our history? Anyway, it didn’t matter, google was preached too be the path to Stack Overflow. 
+
+After waiting a little too long, the browser opened to a page with a solitary search bar in the middle. I think this is where I enter Stack Overflow, and the letters are slowly but surely typed in. 
+
+As the letters appeared on the search bar, sentences formed within a box below:
+‘Stacy’s Mom has got it going on classic’
+K was entered:
+‘Stacking cups world champion’
+What are all these weird suggestions? I thought google would guide me there.
+Oh well, I will keep typing.
+
+Finally, it was all entered, now the box showed things that made sense. Enter, now let’s see what happens. At the top of the page, there was now a number, it showed there were millions of results! This wouldn’t be any easy task. 
+
+Hours pass, I have sifted through results from dozens of pages of this search. So far it all seems like gibberish, and the more pages I visit, the more confused I am becoming. This was a gargantuan task, and the only thing I have learnt so far is the importance of this semi-colon thing.
+
+Restarting the research from the beginning was the best idea, time too search through all one hundred tabs again. This must be what it feels like too be an ancient developer.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+First, I want to commend you on your use of description and setting in this piece. You did a great job of making the reader feel like they are right there with the protagonist, searching through pages and pages of results.
+
+However, I did find the dialogue to be a bit stilted and unnatural in places. In particular, the sentence "What are all these weird suggestions? I thought google would guide me there." sounds like something a robot would say. I would recommend reworking this sentence to make it sound more natural.
+
+In addition, I would recommend breaking up the paragraphs a bit more, as some of them are quite long. Breaking up the paragraphs will help to make the piece more readable and easy to follow.
+
+Overall, this is a well-written piece with a lot of potential. I would recommend continuing to work on it to make it even better.

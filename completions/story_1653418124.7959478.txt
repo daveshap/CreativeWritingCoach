@@ -1,0 +1,1 @@
+GPT3 error: 'charmap' codec can't encode character '\U0001f937' in position 4462: character maps to <undefined>

@@ -1,0 +1,77 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+*“Poor ol’ Ned was right as rain, but when it came to the Queen? He lacked brains.”*
+
+The captain rolled his eyes as the *Dead Horse* cut its way through to moor-waters. He’d ordered his men to cease singing, but as they had approached their destination, it was the only thing cutting the tension. The peals of frogs and night-crickets cut through the air, the smokestack plugging away, the waxy black line drifting from the orange cinders. Tonight was the night.
+
+“Navigation, how many leagues before we reach the Well?” He yelled out over the din of the ship, idle sailors watching the swampy water anxiously.“Three-quarters sir, the bastion is well behind us now. Naught but the Drowned City ahead.” Came the call. He nodded, straightening his hat. “Keep steady men, tonight we retire a legend for good.” He walked across the deck, surveying his station.
+
+*“Fought an’ stole her heart away, found what lay beneath The Bay.”*
+
+“Helmsman. I do believe I forbade such talk on my ship, until certain order can be restored and this accursed gaol is well behind us.” He scowled at his officer. “Forgive me captain, its just…” The man’s hands were steady on the wheel, but the rest of his body looked ready to shake apart. “It’s a bit unsettling. Why do we even have to check, if I may ask? Faceless is just a legend, isn’t he?” The captain snorted. “No, ‘e was real. But the difference in being real and being legend is the same between live and dead. Tell me, you honestly think that a man, any man, could survive the Tomorrow?” The helmsman frowned. “That’s right.” The captain straightened his belt. “They just want to put fears to rest back home, show that ghost stories don’t hold power over the Blues. And we’ll be the ones to prove it as fact.” With the helmsman's fears addressed, he turned to watch as men busied themselves, never staring out past the stern, to the wall that watched. He could only hope they were overheard enough to assure the rest.
+
+*“Locked away for his crime, sent to rot for all of time,"*
+
+"The swamp-trees broke away, a clearing shining in the darklight of the swamp. “Captain, destination in sight!” Broke from one of the men. “Bring us about! Ready the Bathysphere! Prepare to sink her!” He called out. Men began to shout, relaying orders as they pulled into the station, a well of shell-rock that stretched out, the mouth of a worm extending down, down into the water. He almost hoped that the Sphere was too big, but whatever horror had built this place had ensured that would not be the case. As the ship rested alongside it, he peered into the water resting inside.
+
+It was pure, pitch black. One would assume it more akin to oil or tar as the lights of the night sky seemed to be doused by its stare. An alien, desolate black in the lush swamp. One of the prow-lights was shone down into it. He swore he saw something, a trick of his eyes. He swallowed. “Not too late captain. No one’s watching us.” The helmsman, now without need of his post, stood nearby. The implication to abandon duty, in any other scenario, would have prompted roaring from the captain.
+
+But the Well was so deep, so strange a thing that it captured his attention fully. “How far down’s it go?” Asked someone. “They say it goes down and away. From everything.”
+
+*“Or so they thought, Or so they thought,"*
+
+Without lifting his eyes, the captain motioned. “Make ready men. We drop her down, wait, then pull it up. Three bells, just like the song.” The sailors nodded, their loyalty overcoming their fear. The swamp seemed silent now, the frogs and insects stilled, watching the procession unfold. The Bathysphere was raised, the crane moving to hang her over the well, the brass of the compartment gleaming in the prow-light.
+
+The heavy cord lowered, dipping the bobber into the water. It began to sink, the crisp white of the ship’s light showing it sparkle as it went deeper. Deeper. Deeper. Until it too sank into that alien dark, without a trace beside the line holding it. The creak of the ship moaned as it went down. More and more coil dropping, until-
+
+*“His fate amended by his lost love, who’d do anything to bring him back above,”*
+
+“Captain! We’re out of slack.” Came the cry. He nodded. Casting his eyes back to the coil, which was all that remained in their worldly view of the sphere, he stood his chin up proudly. “Now we wait.”
+
+The eerie silence hung over them like a gallows. “Fog on the water sir.” He heard call outs as the mist began to drift over them. The captain’s collar felt sweaty. Was it the heat of the swampy air? “Steady men. Steady.” He called out.
+
+It was well hard to see anything now. But the frogs returned then, their bellows and choruses loud and strong over the mud and silt. The noise brought comfort. It brought rationality back to him. No man could live for half a millennia, surely not. And especially not here. This was not a place men could survive. He nodded. “Not long now.” The rest of the men were more interested in the fog now, these were 
+
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+The opening sentence is a great hook to pull readers in. However, the rest of the opening paragraph feels a bit choppy in terms of sentence structure and grammar. I would recommend going through and simplifying some of the sentences. For example, "The captain rolled his eyes as the *Dead Horse* cut its way through to moor-waters" could be simplified to "The captain rolled his eyes as the *Dead Horse* cut through the moor-waters."
+
+I like the tension that is building in the second paragraph as the ship approaches its destination. However, I would recommend using stronger verbs to convey the sense of unease and dread that the characters are feeling. For example, "The peals of frogs and night-cricks cut through the air, the smokestack plugging away, the waxy black line drifting from the orange cinders" could be rewritten as "The deafening peals of frogs and night-cricks cut through the air, the smokestack belching black smoke, the waxy black line drifting from the orange cinders."
+
+The third paragraph does a good job of addressing the helmsman's fears and providing exposition about the mission. However, I would recommend breaking this paragraph up into shorter, simpler sentences. Additionally, I would recommend using active voice throughout this paragraph to make the writing more concise and direct.
+
+The fourth paragraph effectively sets the scene and provides a sense of foreboding. I would recommend using stronger verbs to convey the sense of unease and dread that the characters are feeling. For example, "The swamp seemed silent now, the frogs and insects stilled, watching the procession unfold" could be rewritten as "The swamp fell silent, the frogs and insects stilled, as they watched the procession unfold."
+
+The fifth paragraph effectively builds tension as the Bathysphere is lowered into the well. I would recommend using active voice throughout this paragraph to make the writing more concise and direct.
+
+The sixth paragraph effectively builds tension as the Bathysphere is lowered into the well. I would recommend using active voice throughout this paragraph to make the writing more concise and direct.
+
+The seventh paragraph does a good job of conveying the captain's sense of pride and resolve. However, I would recommend using active voice throughout this paragraph to make the writing more concise and direct.
+
+The eighth paragraph effectively builds tension as the Bathysphere is lowered into the well. I would recommend using active voice throughout this paragraph to make the writing more concise and direct.
+
+The ninth paragraph effectively builds tension as the Bathysphere is lowered into the well. I would recommend using active voice throughout this paragraph to make the writing more concise and direct.
+
+In general, I would recommend using active voice throughout the story to make the writing more concise and direct. Additionally, I would recommend using stronger verbs to convey the sense of unease and dread that the characters are feeling.

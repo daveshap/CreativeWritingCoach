@@ -7,12 +7,12 @@ def open_file(filepath):
         return infile.read()
 
 
-files = os.listdir('prompts/')
+files = os.listdir('completions/')
 data = list()
 for file in files:
-    prompt = open_file('prompts/%s' % file)
-    completion = open_file('completions/%s' % file)
-    info = {'prompt': prompt, 'completion': completion}
+    completion = open_file('completions/%s' % file).replace('================================','').strip()
+    story = open_file('stories/%s' % file)
+    info = {'prompt': story + '\n\n PROFESSIONAL FEEDBACK: ', 'completion': ' ' + completion}
     data.append(info)
 
 

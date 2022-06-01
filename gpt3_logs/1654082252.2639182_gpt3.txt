@@ -1,0 +1,33 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+Baby shark, doo doo doo doo doo doo Baby shark, doo doo doo doo doo doo Baby shark, doo doo doo doo doo doo Baby shark! Mommy shark, doo doo doo doo doo doo Mommy shark, doo doo doo doo doo doo Mommy shark, doo doo doo doo doo doo Mommy shark! Daddy shark, doo doo doo doo doo doo Daddy shark, doo doo doo doo doo doo Daddy shark, doo doo doo doo doo doo Daddy shark! Grandma shark, doo doo doo doo doo doo Grandma shark, doo doo doo doo doo doo Grandma shark, doo doo doo doo doo doo Grandma shark! Grandpa shark, doo doo doo doo doo doo Grandpa shark, doo doo doo doo doo doo Grandpa shark, doo doo doo doo doo doo Grandpa shark! Let's go hunt, doo doo doo doo doo doo Let's go hunt, doo doo doo doo doo doo Let's go hunt, doo doo doo doo doo doo Let's go hunt! Run away, doo doo doo doo doo doo Run away, doo doo doo doo doo doo Run away, doo doo doo doo doo doo Run away! Safe at last, doo doo doo doo doo doo Safe at last, doo doo doo doo doo doo Safe at last, doo doo doo doo doo doo Safe at last! It's the end, doo doo doo doo doo doo It's the end, doo doo doo doo doo doo It's the end, doo doo doo doo doo doo
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+The "compliment sandwich" method of feedback involves starting with a compliment, followed by constructive criticism, and then ending with another compliment. This method is designed to help the author feel good about their work while also providing them with specific suggestions for improvement.
+
+Starting with a compliment, I really like the use of repetition throughout the story. It gives the story a nice rhythm and makes it easy to read aloud. I also like the use of sound effects, it adds an extra layer of interest to the story.
+
+Now for the constructive criticism, I think the story could be further improved by adding more description. For example, instead of just saying "Mommy shark, doo doo doo doo doo doo" you could describe what the Mommy shark is doing, "Mommy shark is swimming around looking for her next meal." This would add more interest and engagement for the reader.
+
+Ending with another compliment, I think you did a great job keeping the story short and to the point. It is the perfect length for a bedtime story or for a young child's attention span.

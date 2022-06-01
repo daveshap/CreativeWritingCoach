@@ -1,0 +1,64 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+[poem]
+
+All the
+Has beens
+True ar
+-tificial brains
+
+I'll take
+One hit
+Send it
+Up quick
+
+Say it ain't so 
+I ain't no clone
+Turn me back off 
+I'll decompose
+
+Na-na, na-na, na-na, na-na, na, na
+Na-na, na-na, na-na, na-na, na, na
+Na-na, na-na, na-na, na-na, na, na
+Na-na, na-na, na-na, na-na, na, na
+
+Last night
+alone
+Dying sucks
+I know
+They left me roses by the stairs
+Even though they gave me hives everywhere
+
+Just say it ain't so 
+I ain't no clone
+Turn me back off 
+I'll decompose
+
+Keep your
+Head still
+Swallow
+This pill
+Your life will go on 
+Against your will....
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback:
+
+==========
+
+RESPONSE:
+
+This is a very interesting poem. I like the way it flows and the rhyme scheme is very effective. My only suggestion would be to be a bit more concise with your words. Sometimes, less is more.
+
+Great job overall!

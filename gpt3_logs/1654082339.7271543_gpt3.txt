@@ -1,0 +1,31 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+Their first date started out like an offensive joke: a murderer and a prosopagnostic walk into a bar. The bartender says, "Hey miss, I've got some old dudes out back, wanna take a sip?" The prosopagnostic woman just sighs, and motions for her date to leave, annoyed that the memory of her "promotion" had left her before it left the minds of the general public. Her date however, was frozen, eyes locked on the bartender. He responded, "What's your problem miss? Now either buy a drink or leave before I make the decision for you." Trembling, she stood up; it was all happening too soon.
+
+The television cast a dull glow over the small apartment; ramon and chill wasn't the ideal replacement for a date, but neither of them had enough cash for anywhere other than the bar. The local news station grunted out reports of random, uninteresting events as they talked, more background noise than anything else. They avoided the happenings at the bar; both thought it was them, since even murders make there way to small towns, but no one ever forgets a bribe. There was a wall between them, but even as the television broadcast the poor date's name through the air like it did five time a day, their eyes never unlocked. Normalcy was something to be valued, and it was the least she could do to give the murderer normalcy for a few hours before the police arrived. After all, names travel faster than faces.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+Your story has a lot of potential, but there are a few areas that need improvement. First, your story is choppy and difficult to follow in places. There are several jarring transitions that make it hard for the reader to follow the flow of the story. Second, your characters are not well-developed and it is difficult to feel invested in their story. The plot is also somewhat difficult to follow. Finally, your ending is abrupt and unsatisfying.
+
+That being said, there are also some good aspects to your story. The premise is interesting and unique, and your writing style is engaging. With some revision, this could be a really strong story.

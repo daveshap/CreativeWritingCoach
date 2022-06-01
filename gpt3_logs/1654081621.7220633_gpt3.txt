@@ -1,0 +1,29 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+The call me "The Cleaner," which always makes me laugh.  Sure, I take out my targets with nary a trace and clean up my clients' messes for them, but the real reason I find it funny is because it's truer than they realize.  I never wanted to be an assassin, but after getting mistaken for one half a dozen times *and getting paid for it* I figured, why not?  After all, it's not like they have any idea how I do it anyway.
+
+What's my secret?  Ah, but that would be telling!  Still, it's not like you're going to live long enough to tell anybody anyway, so why not?  I'm a mage, specializing in household cleaning and maintenance spells.  You heard me right, household cleaning and maintenance.  Sure people use all sorts of magic for criminal activities, and they always check for that stuff at crime scenes, but nobody ever pays attention to random household spells.  After all, everybody uses them or has a cleaning service that does these days.  Dusting, scrubbing, trash removal, pest control, you name it.  I just figured out how to use them in more creative ways.
+
+Now, any last words before I kill you?
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback:
+
+==========
+
+RESPONSE:
+
+The opening sentence is interesting and immediately grabs the reader's attention. The rest of the first paragraph is well written and gives the reader a good sense of the narrator's character. The second paragraph is also well written and gives the reader a good sense of the narrator's motivation.
+
+However, there are a few things you could improve. First, try to be more concise in your writing. This will make your prose more readable and easier to follow. Second, try to use more active voice. This will make your writing more lively and engaging. Finally, try to vary your sentence structure more. This will make your writing more interesting and less monotonous.

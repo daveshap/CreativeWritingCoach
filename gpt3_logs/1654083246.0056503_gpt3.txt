@@ -1,0 +1,36 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+ "Now remember, a healing spell has some side effects. You may be tired, slightly dizzy, and DO NOT interact with anything strange you might see after. Let me repeat, DO NOT interact with anything strange you might see. Ready? Good." His voice is calm, steady, confident. He knows his instructions are good, but it's always easy for him to get anxious.
+It doesn't matter; it's just a simple healing charm. He should be able to handle this, he should... but there'a something in the room that scares him. A smell. Or rather the air itself, it feels foul, almost rotten. Like something that shouldn't even exist here, in this world. There are too many people, too much magic swirling around him. The only thing keeping him sane is the sound of his friends' voices.
+He feels so alone, surrounded by strangers, not knowing where or when he is. He wants to leave, but at the same time he can't bring himself to go without them.
+"Do I have to do everything myself?" he asks, his voice barely audible above the noise of the rest of the crowd. He hates being the center of attention like this. It makes him feel vulnerable, weak, as if someone could grab at any moment and tear out his heart. He tries to focus on the voices behind him, tries to hear what they're saying instead, but there's just too many sounds all at once. He doesn't know if anyone'a heard him.
+The others laugh and agree. "Of course! What kind of healer would we be if we didn't make sure our patients got the best possible care!"
+Slightly offended, Bakugou scoffs, but his heart isn't really in it. It doesn't take long before they start leading him away from the main room, through a maze of rooms full of beds filled with unconscious bodies and the occasional spirit. He can tell there's nothing good about this place, that there's no way it'll be a good day for him. Maybe not even for his friends.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+The opening of this story is very promising, you set the scene well and introduce the main character. However, there are a few awkward phrases and choppy sentences. For example, "It doesn't matter; it's just a simple healing charm. He should be able to handle this, he should... but there'a something in the room that scares him." This could be rewritten as "It's just a simple healing charm, he should be able to handle this, but there's something in the room that scares him."
+
+Another issue is that the story feels very short and choppy. It reads more like a series of events rather than a cohesive story. I would recommend adding more description and detail to flesh out the scenes. For example, you could describe the smell in the room in more detail, or the noise of the crowd.
+
+Overall, this is a promising start to a story. With some revision, it could be turned into a really good piece of writing.

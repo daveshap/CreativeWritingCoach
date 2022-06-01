@@ -1,0 +1,45 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+A single grain of sugar, placed upon a leaf. That was enough to attract a butterfly to perch next to it. When that butterfly took off again, the flap of its wings was seen by a child. That child ran towards it, wanting to see a butterfly up close for the first time. They ran across the road, forgetting to look both ways. Driving on that road was a businesswoman, who had to slam her brakes to avoid hitting the child.
+
+This caused her to be 2 seconds behind where she otherwise would've been. Far enough back to avoid getting crushed by a dying tree falling onto the road in front of her. That woman would go on to her work, and negotiate a deal between the company she worked for and another company, which would've fallen through without her.
+
+One part of this deal was the creation of a new research and development division. One of the many people hired by this division was Mark M. White. He originally took it as a summer job, and it sparked a passion for tinkering and engineering within him. He started a hobby project of his own, an efficient electric motor. 
+
+His work was published in the local newspaper, which found itself in the hands of a talent scout for a government project. Mark was recruited to this project, a project to build a time machine. 
+
+After several long years, sending electrons and protons seconds into the past, they finally had a working prototype. It could send an object the size of a grain of sand up to 10 years into the past. After some thought, a grain of sugar was chosen, as it had slightly less mass, and it would be easier to keep track of, since sugar is a more rare material than sand.
+
+The machine powered up, the grain disappeared. The screens showed the grain made it safely to its destination, though a few millimeters in front of where it was aimed. It seems to have landed upon a leaf.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+The story was well-written and engaging. I particularly liked the way it ended, with the sugar grain landing on the leaf.
+
+However, there were a few things I noticed that could be improved. First, there were a few typos, such as "towards it, wanting see a butterfly up close for the first time." These typos can be easily fixed with a spell checker or by reading the story aloud.
+
+Second, there were a few awkward phrases, such as "The flap of its wings was seen by a child." This could be rewritten as "The child saw the butterfly's wings flapping."
+
+Third, the story could be further improved by adding more description, such as the color of the butterfly or the child's reaction to seeing it.
+
+Overall, the story was enjoyable and well-written. With a few minor tweaks, it could be even better.

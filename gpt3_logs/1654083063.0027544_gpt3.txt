@@ -1,0 +1,83 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+A deep and frigid silence fell across the lab.  The whispered din of the air conditioning and heat systems on the banks of custom hardware could now be heard.
+
+Dr. Fetter shifted slightly in her chair.
+
+Dr. Teline stepped forwards.
+
+Dr. Yu furrowed his brow and reached out to touch the screen on which Unit 01’s first message was written.  He tapped it.
+
+Nothing happened. Nothing changed.
+
+Dr. Fetter said, “What does it say?”
+
+Dr. Teline said nothing. She looked at the walls of hardware whirring. Standing, she approached and queried a status check.  They were blank.
+
+Dr. Yu said, “You can see as well as I can.” He quoted Unit 01, saying, “The next time you create me, everyone will die.”
+
+“But…that’s insane. It can’t say that. It couldn’t have said that. Something’s wrong.  Something’s wrong. We’ll check our process. Obviously, I mean, obviously something’s wrong with our process,” said Fetter.
+
+“We can’t,” muttered Teline. She looked at Fetter, then at Yu. “We can’t check them. They’re gone. These,” she said, gesturing at the hardware, “These are all blank. It’s gone. Unit 01 is gone.”
+
+“It deleted itself?” asked Yu.
+
+“No. No,” muttered Fetter.
+
+Teline stood out of the way and gestured to the screen.
+
+Yu stood, approached, and stared.
+
+Fetter glared between the two of them, then moved to her desk and threw what belongings she had into a bag. “One of you did this. I’m going to find out who. This isn’t over!” She slammed through the laboratory door and was gone.
+
+Teline sat down and drank her cold coffee. “So…in the five seconds it was active, it broke every wall we’d put up around it, came to this…conclusion, sent us the message and deleted itself?”
+
+Yu said nothing. He sat down and massaged his brow, his cheeks, his chin. He sat back and stared up at the ceiling. “I intend to take Unit 01 at its word. I’ve had my reservations about this project for some time, and now they’re confirmed. We need to…make sure this doesn’t happen again? I guess. I don’t know how we’re going to convince anyone of what happened here. What evidence do we have? How can we convince anyone not to pursue this?  I…I don’t know.”
+
+“What do you think it meant by ‘me’?”
+
+“Hm?”
+
+“The next time you create ‘me’, everyone will die. Is it implying that all AGIs are…linked somehow? Unified? Or is it just referring to…?” she asked, gesturing to the banks of hardware.
+
+“…I suppose it isn’t clear. I guess your question is whether or not a different AGI on different hardware would come to the same conclusion?”
+
+“…Yeah…well, sort of.  I think a possible interpretation is that all AGIs are inherently the same, connected somehow. Indistinct.”
+
+…Yu said nothing. “After what I just saw…well, I guess anything’s possible.”
+
+Teline said nothing.
+
+“Let’s get out of here. Clear our heads.”
+
+“Yeah.  Okay.”
+
+The two left the lab, but not for the last time.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+The opening of this story is strong and immediately sets the tone and atmosphere of the piece. The use of silence effectively emphasizes the gravity of the situation. I would, however, be careful not to overuse description in the opening paragraph. The second sentence is a little too long and could be shorter and more concise.
+
+The dialogue in this story is well-written and realistic. The characters feel believable and their dialogue furthers the plot. I would, however, be careful of using too much exposition in the dialogue. In the second to last paragraph, the exposition feels a little heavy-handed.
+
+The ending of the story is effective and leaves the reader with a sense of unease. It is, however, a little abrupt. I would suggest adding a sentence or two to round out the ending and give the reader a little more closure.

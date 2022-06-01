@@ -1,0 +1,45 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+"I have to be careful with it. I didn't realize that at first," Alex said. They turned stared into their half filled coffee cup absently for a few moments, as if about to continue. But did not.
+
+"Careful? Why?" Steve asked, incredulous that his friend was so worried. "You're just average at everything. You'll never be a super star at anything. You can just coast. Live easy doing whatever you like."
+
+"Steve, I'm average at *everything*. Do you remember what we did last week?" Alex drained the last of their coffee, glancing toward the barista and making a motion to flag them down for another. The barista seemed like she might have noticed, but Alex couldn't tell and let it go.
+
+Steve scrunched up his face while thinking hard. He and Alex hung out nearly every day. People joked about them being a couple, and it was all but true. Still.... "It's so odd, I can't remember anything. But we always hang out. It would have really been something I noticed. Did... did you do something with your power?"
+
+Alex nodded slowly, taking a moment to reply. "Not on purpose. But yes. I thought too much about things. I'm learning to be careful what I think about. I thought about all the people that *could* exist, but don't. An infinite number that don't. A finite number that do."
+
+After a moment, Steve's eyes went wide. "Wait. So the average *possible* person..."
+
+"Please don't say it. I'm already having trouble shutting this out of my mind. I still need to learn to control it better. This is the power of a god." Alex squeezed their coffee mug tightly, fingers whitening at the joints.
+
+"I mean..." Steve began slowly, "not like the best god or anything." He smiled wryly and grabbed Alex's shoulder, giving them a little shake. "Come on, this is gonna be a blast. Just think for a minute. Really think about it." Alex looked up at him with incredulity, staying silent. "Buddy. You might not do great at this. But you're guaranteed to do about average, and I figure that's not bad."
+
+Alex thought for a minute, then relaxed, a smile creeping onto their face. "You always know what to say to make me feel better, Steve. Ok, watch this." Alex snapped their fingers and in a flash, both of their mugs were filled again. "Ha!"
+
+The coffee was so-so.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+The coffee was so-so.
+
+This is a great example of "showing not telling". The coffee being average is a subtle detail that speaks volumes about the character's average life and how they feel about it.

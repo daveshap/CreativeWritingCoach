@@ -1,0 +1,53 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+"I don't understand. You say there are no laws preventing you from sharing technology or scientific data."
+
+"Correct."
+
+"But you still won't do so."
+
+"Also correct. We do not wish to be responsible for the annihilation of a whole race!"
+
+"Do you believe us to be that careless? That we would destroy ourselves so easily?"
+
+"Not careless, but of course it would destroy you. Well, most of you. Your offspring go through a...pre- verbal stage, yes? They might survive."
+
+There was a long pause as the human ambassador tried to digest this information and form a coherent response. "How would they survive? Anything that would cause my death would surely also kill a child."
+
+Another long pause, this time from the Tyrrpol ambassador. "I apologize, we did not realize your offspring became &lt;&lt;frrek&gt;&gt; so young."
+
+"What? Something didn't translate. Become what?"
+
+"&lt;&lt;Frrek&gt;&gt;, um....solid? Set? Our offspring can accept new information without risk of death for around 2 of your years. We thought the timetable would be similar for you."
+
+"Risk of...ambassador humans can accept new information at any point in their lifespan. Some might refuse, but there is no risk of injury or death."
+
+"No. No no no no NO NO NO NO NO."
+
+The Tyrrpol ambassador was still screaming when his neural net lost coherence.
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback:
+
+==========
+
+RESPONSE:
+
+One possible issue with this story is that it feels very exposition-heavy and info-dumpy. Try to find ways to organically introduce the information in the story, rather than having the characters just spit out long paragraphs of exposition at each other.
+
+Another issue is that the dialogue feels stiff and unnatural. See if you can find ways to make the conversations flow more smoothly and sound more natural.
+
+One final issue is that the ending feels very abrupt and anti-climactic. See if you can find a way to make the ending more satisfying for the reader.
+
+That being said, there are also some good things about this story. The concept is interesting and raises some questions about ethics and morality. The story also has a good sense of suspense and tension. Overall, there is potential here, but it needs some work.

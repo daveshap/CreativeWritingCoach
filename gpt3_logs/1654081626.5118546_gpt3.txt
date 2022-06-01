@@ -1,0 +1,27 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+An entity that only concerns itself with the protection of a house. If someone breaks the window the window will magically be fixed the next day, and the person who broke it seems to mysteriously disappear. This happens to a point where the house was once set on fire and by the next day it appeared as if nothing had happened with all of the family's furniture and belongings in their proper place
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback:
+
+==========
+
+RESPONSE:
+
+First, I want to commend you for writing a very intriguing and original short story. I was immediately drawn in and wanted to know more. That being said, there are a few areas where your writing could be improved.
+
+For example, your story is very short and feels somewhat unfinished. I would recommend fleshing it out a bit more, perhaps adding more description or detail to make it more engaging. Additionally, your sentence structure is sometimes choppy and awkward. Try to vary your sentence length and structure more for better flow.
+
+Overall, you have a lot of potential as a writer. Keep up the good work!

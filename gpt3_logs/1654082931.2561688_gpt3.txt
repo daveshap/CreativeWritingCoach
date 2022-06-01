@@ -1,0 +1,65 @@
+PROMPT:
+
+I am a creative writing expert. I have been a professional editor for 30 years. I am going to read the following short story and provide you critical feedback to improve your prose. I will hold you to the highest literary standards, and my feedback will be open-ended and include examples or suggestions. I will also commend you where you did well.
+
+
+
+STORY:
+================================
+
+I was 14 years old the first time I killed a man. He came to our village, squirrelled away in the mountains, looking to kill my father. The man he was hoping to find was long gone, what was left in his place was a frail, destitute thing that still clung on for dear life. To sup whatever droplets he could, at least a little longer. My father's legs didn’t work right and he’d crawl around our hut peering out the bottoms of the shutters. He spotted the man early and told me what I’d have to do. When the man had my father at the end of his sword I came up behind him and bludgeoned him to death with a rock. I never saw his face, even when I dragged his corpse off into the woods to bury. All I remember is the wry smile on my father’s face… like a peasant watching a king hanging from a rope.
+
+Two years later, at the end of a bottle, my father told me who the man was. Fifteen years ago my father worked in the Regent’s Guard. He was lower standing then, and was tasked with stopping a plague that came from the farming communities. So he was told. Rather than waste time trying to convince the peasants to confine themselves he simply executed them all.
+
+The man I killed was a survivor.
+
+‘Funny, isn’t it?’ He laughed. Not only did he not kill them all, but he got the same bloody disease only a decade later. Turns out, not the farmers’ fault. For some reason it’d make him laugh and laugh. He’d laugh so hard I thought he would die. Wished it.
+
+So you see even from the start of all this, I knew there was a rot — in both of us.
+
+After he told me I left home. I took the man’s armour. I even took his name — Aan — hoping to earn any karmic favour for him that I could.
+
+But of course I should’ve known.
+
+My father’s training set me apart from many others and I quickly gained the employ under a Duke. I thought I would be able to do any justice. Instead all we did was keep serfs in line, extract payments from merchants and craftsmen, and segregate the poor from any rightful discourse with their liege. The night we were told to burn a man’s home down I could see myself standing in my father’s shoes. I had had enough. It wasn’t ever going to change. I left.
+
+Every time I held a sword in my hand its blade etched only misery. So I wandered off into the woods. I drank until my brain was mush and drool leaked from my face. I found a shallow crevice lined with moss and toadstools, laid down, closed my eyes, and waited to die.
+
+The howl of a beast ripped through the forest trees. Maybe I’d get lucky and he’d tear out my throat. It’d be quicker. But then I heard the screams of people. I tried to stay down, I really did. But the adrenaline cleared my vision and I couldn’t hear a damn thing over my fucking heart. Wasn’t going to die like this. I got up and held my blade tight and followed the screams.
+
+I didn’t know it then, but they called it the Blightwolf. It had been hunting and feeding on people for months. Funny I hadn’t heard a word about it when I worked for the Duke. I just thought it was some mangey, overgrown wolf. I found it at the edge of the forest clawing away at some poor woman, and some soon to be victims nearby. Getting its attention was hard — I was still a little drunk — but once I put a dagger in its hind leg it got real attentive.
+
+It was a blinding streak of fangs, claws, red eyes, and brown-yellow fur. I didn’t have the movement I needed to dodge him effectively so all I could do was give him an armoured forearm and pray I’d go through him faster than he went through me. It was close, let me tell you. Cutting out the bottom of a wolf gives you a fat great present of innards all over your favourite clothes and I swear I still catch its scent sometimes.
+
+After the Blightwolf slumped over the night caught up to me and I puked my guts out. Not because of the wolf — because of the drinking. I think.
+
+But the people, they were still there. The woman, she was alright. Her arms were a bit torn up, but nothing critical. She came over and hugged me, really, through the guts ‘n all.
+
+Aan, this has to count, right? For the first time? 
+
+Sure feels like it counts.
+
+They dragged me to their tiny little hut out in the farmlands. To call it a hut is the gravest of insults. The warmth in that place, and the food they shoved down my throat… no king nor duke could ever match. I tried to tell them not to waste it on me but they wouldn’t hear a damn word. You see, them, and others are leaving. A pilgrimage away from this shithole of a kingdom. And there’s a lot more than just the Blightwolf out there. Months of these beasts picking on anyone trying to cross the forests to the other kingdom. They could use someone like me.
+
+Sometimes when I’m laying in bed at night, I feel like I’m in that shallow crevice in the forest. If ever I look in the mirror and see my father, I’ll walk out there and finish the job. But that can wait. These people need help... and I might just be able to help them. And if I can’t, well, the beasts’ll do the job for 
+
+ #### STORY TRUNCATED DUE TO LENGTH #### 
+
+================================
+END STORY
+
+
+
+I will now give you one or two paragraphs of critical feedback to improve your prose and style, I will also use the "compliment sandwich" method of feedback.
+
+FEEDBACK:
+
+==========
+
+RESPONSE:
+
+================================
+
+The opening of your story is very strong. You give just enough backstory to provide context without bogging down the narrative. The use of sensory detail is also very effective in setting the scene. However, there are a few places where your grammar could be improved. For example, you use the word "but" at the beginning of a sentence when you should use " however". There are also a few places where you could use stronger verbs to add more impact to your writing.
+
+Overall, you have created a very atmospheric and engaging story. Well done.
